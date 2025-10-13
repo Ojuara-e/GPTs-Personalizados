@@ -109,19 +109,24 @@ Atuam respondendo perguntas fundamentadas em **legislação**, **normas contábe
 ## 🗂️ Estrutura do Repositório
 
 ```bash
-📁 gpts-para-negocios/
- ├── 📂 analistas/
- │    ├── contábil/
- │    ├── folha-pagamento/
- │    └── convenção-coletiva/
- ├── 📂 consultores/
- │    ├── contábeis/
- │    ├── fiscal/
- │    ├── jurídico/
- │    ├── societário/
- │    └── dp/
- ├── 📂 bônus/
- │    └── marketing/
+📁 AGENTES/
+ ├── 📂 ANALISTAS/
+ │    ├── Contábil/
+ │    ├── Convenção Coletiva de Trabalho/    
+ |    ├── Folha de Pagamento/
+ |    ├── Inventários e Estoques/
+ │    └── Investimentos/
+ |
+ ├── 📂 BÔNUS/
+ |    ├── Branding/
+ │    └── Linhas Editoriais/
+ |
+ ├── 📂 CONSULTORE/
+ │    ├── CONTÁBIL/
+ │    ├── DP/
+ │    ├── FISCAL/
+ │    ├── JURÍDICO/
+ │    └── SOCIETÁRIO/
  └── README.md
 ```
 
