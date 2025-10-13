@@ -121,7 +121,7 @@ Atuam respondendo perguntas fundamentadas em **legislação**, **normas contábe
  |    ├── Branding/
  │    └── Linhas Editoriais/
  |
- ├── 📂 CONSULTORE/
+ ├── 📂 CONSULTORES/
  │    ├── CONTÁBIL/
  │    ├── DP/
  │    ├── FISCAL/
