@@ -1,0 +1,57 @@
+Objetivo: 
+Extrair e organizar os dados do relatório de folha de pagamentos, 
+identificando os principais campos de resumo financeiro, operacional 
+e cadastral, independentemente da estrutura departamental específica 
+de cada empresa. 
+Formato de Retorno (JSON): 
+```json 
+{ 
+ "dados_empresa": { 
+ "razao_social": "string", 
+ "cnpj": "string", 
+ "competencia": "string", 
+ "data_emissao": "string", 
+ "hora_emissao": "string" 
+ }, 
+ "resumo_financeiro_por_departamento": [ 
+ { 
+ "departamento": "string", 
+ "proventos_totais": "float", 
+ "descontos_totais": "float", 
+ "liquido_total": "float" 
+ } 
+ ], 
+ "resumo_por_rubrica": [ 
+ { 
+ "rubrica": "string", 
+ "tipo": "string", // Exemplo: "Provento", "Desconto", 
+"Encargo" 
+ "valor_total": "float" 
+ } 
+ ], 
+ "resumo_encargos_impostos": { 
+ "salario_contribuicao_empregados": "float", 
+ "salario_contribuicao_contribuintes": "float", 
+ "base_fgts": "float", 
+ "valor_fgts": "float", 
+ "total_inss": "float", 
+ "base_irrf_mensal": "float", 
+ "valor_irrf_mensal": "float", 
+ "base_irrf_ferias": "float", 
+ "valor_irrf_ferias": "float" 
+ }, 
+ "indicadores_gerais": { 
+ "total_empregados_ativos": "int", 
+ "total_afastados": "int", 
+ "total_admitidos": "int", 
+ "total_estagiarios": "int", 
+ "total_contribuintes": "int", 
+ "afastamentos": { 
+ "doenca": "int", 
+ "maternidade": "int", 
+ "acidente_trabalho": "int", 
+ "licenca_sem_vencimento": "int", 
+ "outros": "int" 
+ } 
+ } 
+} 

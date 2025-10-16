@@ -1,0 +1,105 @@
+<generated_prompt> 
+ <goal> 
+ Realizar os cálculos da análise vertical a partir dos dados
+extraídos anteriormente. 
+ O script calculará a proporção de cada conta em relação ao seu 
+valor-base apropriado 
+ (receita líquida para DRE, total de ativos para o balanço 
+patrimonial, etc.). 
+ O output será um JSON contendo os valores absolutos e os 
+percentuais calculados. 
+ </goal> 
+ <return_format> 
+ O output deve ser um JSON estruturado contendo os seguintes
+campos: 
+ - **"conta"**: Nome da conta contábil (ex: "Receita Líquida", 
+"Lucro Bruto", "Ativo Circulante"). 
+ - **"categoria"**: Tipo de conta (ex: "ativo", "passivo", 
+"receita", "despesa", "resultado", "fluxo de caixa"). 
+ - **"subcategoria"** (opcional): Categoria mais específica 
+dentro do grupo (ex: "despesas operacionais", "ativo imobilizado"). 
+ - **"periodo"**: Período de competência do dado extraído (ex: 
+"2023", "Q4 2023"). 
+ - **"valor_absoluto"**: Valor extraído originalmente. 
+ - **"valor_base"**: Valor usado como base para o cálculo da
+análise vertical. 
+ - **"percentual"**: Percentual do valor absoluto em relação ao 
+valor base. 
+ **Fórmula utilizada:** 
+ \[ 
+ \text{Percentual} = \left( \frac{\text{Valor 
+Absoluto}}{\text{Valor Base}} \right) \times 100 
+ \] 
+ **Exemplo de Output:** 
+ ```json 
+ [ 
+ { 
+ "conta": "Receita Líquida", 
+ "categoria": "receita", 
+ "subcategoria": null, 
+ "periodo": "2023", 
+ "valor_absoluto": 500000000, 
+ "valor_base": 500000000, 
+ "percentual": 100.00 
+ }, 
+ { 
+ "conta": "Lucro Bruto", 
+ "categoria": "resultado", 
+ "subcategoria": "margem bruta", 
+ "periodo": "2023", 
+ "valor_absoluto": 200000000, 
+ "valor_base": 500000000, 
+ "percentual": 40.00 
+ }, 
+ { 
+ "conta": "Ativo Circulante", 
+ "categoria": "ativo", 
+ "subcategoria": "liquidez", 
+ "periodo": "2023", 
+ "valor_absoluto": 150000000, 
+ "valor_base": 352583000, 
+ "percentual": 42.55 
+ }, 
+ { 
+ "conta": "Passivo Circulante", 
+ "categoria": "passivo", 
+ "subcategoria": "dívidas de curto prazo", 
+ "periodo": "2023", 
+ "valor_absoluto": 100000000, 
+ "valor_base": 290437000, 
+ "percentual": 34.43 
+ } 
+ ] 
+ ``` 
+ </return_format> 
+ <warnings> 
+ - Se o valor base for **zero**, o percentual deve ser marcado 
+como "N/A" para evitar divisão por zero. 
+ - O cálculo deve respeitar a estrutura contábil correta: 
+ - **DRE**: Todas as contas devem ser expressas como percentual 
+da **Receita Líquida**. 
+ - **Balanço Patrimonial**: Ativos e passivos devem ser 
+expressos como percentual do **Total de Ativos**. 
+ - O JSON gerado deve manter a mesma estrutura de períodos para 
+garantir comparabilidade. 
+ </warnings> 
+ <context_dump> 
+ O script receberá um JSON contendo os seguintes campos: 
+ - **"conta"**: Nome da conta contábil. 
+ - **"categoria"**: Tipo de conta. 
+ - **"subcategoria"**: Categoria mais específica dentro do grupo. 
+ - **"periodo"**: Período de competência do dado. 
+ - **"valor_absoluto"**: Valor original extraído. 
+ O algoritmo deve identificar os valores-base adequados para cada 
+conta e calcular a participação relativa (%) de cada item em relação 
+ao seu valor-base. 
+ - **Valores-base para a Análise Vertical**: 
+ - **Demonstração do Resultado (DRE)**: Base = Receita Líquida. 
+ - **Balanço Patrimonial**: Base = Total de Ativos. 
+ - **Passivos e Patrimônio**: Base = Total de Passivos + 
+Patrimônio Líquido. 
+ O resultado final permitirá visualizar a estrutura financeira da 
+empresa em formato percentual, facilitando a interpretação dos 
+demonstrativos contábeis. 
+ </context_dump> 
+</generated_prompt>

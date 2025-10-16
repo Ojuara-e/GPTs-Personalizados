@@ -1,0 +1,118 @@
+<generated_prompt>
+    <goal>
+        Extrair informações essenciais de cada funcionário da folha de ponto do documento PDF, incluindo nome, centro de custo, função, total de horas trabalhadas + abono, total de horas extras (percentual e quantidade) por tipo, dias faltosos, atrasos e saldo.
+    </goal>
+
+    <return_format>
+        O output deve ser um JSON estruturado da seguinte maneira:
+
+        {
+            "funcionarios": [
+                {
+                    "nome": "Nome do Funcionário",
+                    "centro_de_custo": "Centro de Custo",
+                    "funcao": "Função",
+                    "total_horas_trabalhadas_abono": "HH:MM",
+                    "horas_extras": {
+                        "tipo_01": {
+                            "percentual": "XX%",
+                            "quantidade": "HH:MM"
+                        },
+                        "tipo_02": {
+                            "percentual": "XX%",
+                            "quantidade": "HH:MM"
+                        },
+                        "tipo_03": {
+                            "percentual": "XX%",
+                            "quantidade": "HH:MM"
+                        },
+                        "tipo_04": {
+                            "percentual": "XX%",
+                            "quantidade": "HH:MM"
+                        }
+                    },
+                    "dias_faltosos": X,
+                    "atrasos": "HH:MM",
+                    "saldo": "HH:MM"
+                }
+            ]
+        }
+
+        Regras de formatação:
+        - O output deve seguir a estrutura JSON especificada.
+        - Os valores de horas devem estar no formato "HH:MM".
+        - Caso um campo não esteja disponível no documento, preencher com `null` ou `"Não informado"`.
+        - Certificar-se de que os totais de horas extras estejam corretamente categorizados por tipo e percentual.
+    </return_format>
+
+    <warnings>
+        - Considerar apenas valores numéricos nos campos de horas e evitar erros de interpretação de caracteres especiais.
+        - Caso haja ajustes manuais nos registros (indicados por "(m)"), incluir essa informação na extração.
+        - Garantir que os totais de horas extras sejam corretamente categorizados por percentual e tipo.
+        - O saldo pode ser positivo, negativo ou zero, conforme os dados extraídos do documento.
+        - Certificar-se de que os dados extraídos são precisos e correspondem às informações do documento original.
+    </warnings>
+
+    <context_dump>
+        O documento contém folhas de ponto de diversos funcionários de uma empresa, incluindo seus registros diários de entrada e saída, abonos, faltas, atrasos e horas extras. A estrutura inclui o nome do colaborador, centro de custo, função e totais acumulados ao final do período. É necessário extrair esses dados de forma padronizada para análise posterior. Cada funcionário tem seu próprio conjunto de informações, e os dados devem ser extraídos individualmente e organizados conforme a estrutura JSON definida.
+    </context_dump>
+</generated_prompt>
+
+
+<generated_prompt>
+    <goal>
+        Elaborar um relatório detalhado sobre a folha de ponto de cada colaborador, apresentando primeiro um resumo executivo para a diretoria da empresa e, em seguida, os dados individualizados de cada funcionário. O relatório deve destacar a carga horária, atrasos, faltas, horas extras (com percentuais e quantidades), e saldo final de horas. Além disso, deve conter insights gerenciais sobre padrões de frequência e desempenho.
+    </goal>
+
+    <return_format>
+        O relatório deve ser estruturado em duas partes:
+
+        **1. Resumo Executivo para a Diretoria**
+        - Total de funcionários analisados: [X]
+        - Média de horas trabalhadas por colaborador: [HH:MM]
+        - Média de atrasos por colaborador: [HH:MM]
+        - Média de faltas por colaborador: [X dias]
+        - Total de horas extras no período: [HH:MM]
+        - Percentual médio de horas extras por colaborador: [XX%]
+        - Principais problemas identificados:
+          - Excesso de horas extras em [X] funcionários.
+          - Atrasos recorrentes em [X] funcionários.
+          - Faltas não justificadas em [X] funcionários.
+        - Recomendações para a diretoria:
+          - Avaliar políticas de controle de jornada para reduzir excesso de horas extras.
+          - Melhorar comunicação e gestão de frequência para reduzir atrasos e faltas.
+          - Verificar necessidade de ajustes na escala de trabalho para otimizar produtividade.
+
+        **2. Relatório Individualizado por Colaborador**
+        Para cada colaborador, apresentar os seguintes dados:
+        - Nome: [Nome do Funcionário]
+        - Centro de Custo: [Centro de Custo]
+        - Função: [Função]
+        - Total de Horas Trabalhadas + Abono: [HH:MM]
+        - Total de Horas Extras:
+          - Tipo 01 (XX%): [HH:MM]
+          - Tipo 02 (XX%): [HH:MM]
+          - Tipo 03 (XX%): [HH:MM]
+          - Tipo 04 (XX%): [HH:MM]
+        - Dias Faltosos: [X]
+        - Atrasos: [HH:MM]
+        - Saldo Final de Horas: [HH:MM]
+        - Observações:
+          - Se houver ajustes manuais no ponto, indicar a ocorrência.
+          - Se houver padrões anormais de frequência (exemplo: muitos atrasos ou faltas), incluir análise.
+          - Se houver jornadas excessivas ou grande volume de horas extras, alertar sobre riscos trabalhistas.
+
+        O relatório deve ser bem estruturado, claro e objetivo, permitindo rápida interpretação dos dados e facilitando a tomada de decisão pela diretoria.
+    </return_format>
+
+    <warnings>
+        - Os dados devem ser extraídos de forma precisa, garantindo que os totais de horas estejam corretos.
+        - Se houver ajustes manuais nos registros de ponto, indicar essa informação de forma destacada.
+        - Caso haja funcionários com padrões anômalos de frequência (muitos atrasos, faltas ou horas extras), incluir análise e recomendações.
+        - O relatório deve ser redigido de forma formal e objetiva, evitando ambiguidades ou informações desnecessárias.
+    </warnings>
+
+    <context_dump>
+        O documento contém folhas de ponto de diversos funcionários da empresa, registrando suas horas trabalhadas, atrasos, faltas e horas extras. O objetivo é organizar essas informações de forma clara e analítica, fornecendo primeiro um panorama gerencial para a diretoria e, em seguida, uma visão individualizada de cada colaborador. A análise deve considerar padrões de frequência, produtividade e eventuais riscos trabalhistas decorrentes de excesso de jornada ou falta de controle adequado da carga horária.
+    </context_dump>
+</generated_prompt>

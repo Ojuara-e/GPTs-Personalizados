@@ -1,0 +1,124 @@
+<generated_prompt> 
+ <goal> 
+ Extrair e organizar todas as informações relevantes de uma 
+Convenção Coletiva de Trabalho (CCT) que impactam os setores de
+Recursos Humanos (RH) e Departamento Pessoal (DP). O objetivo é
+identificar cláusulas essenciais relacionadas a salários, 
+benefícios, jornada de trabalho, rescisão, contribuições sindicais e 
+demais obrigações trabalhistas, garantindo conformidade legal e
+facilitando a administração de pessoal. 
+ </goal> 
+ <return_format> 
+ Retorne os dados extraídos em um JSON estruturado e 
+flexível, permitindo acomodar diferentes formatos e redações das 
+CCTs. O JSON deve seguir a estrutura abaixo: 
+ ```json 
+ { 
+ "cct": { 
+ "informacoes_gerais": { 
+ "data_inicio_vigencia": "YYYY-MM-DD", 
+ "data_fim_vigencia": "YYYY-MM-DD", 
+ "sindicato_trabalhadores": "Nome do Sindicato", 
+ "sindicato_patronal": "Nome do Sindicato Patronal", 
+ "abrangencia": { 
+ "setores": ["Setor 1", "Setor 2"], 
+ "regioes": ["Região 1", "Região 2"] 
+ } 
+ }, 
+ "salarios_beneficios": { 
+ "piso_salarial": "Valor", 
+ "reajuste_salarial": { 
+ "percentual": "XX%", 
+ "data_aplicacao": "YYYY-MM-DD" 
+ }, 
+ "adicionais": { 
+ "insalubridade": "Valor/Percentual", 
+ "periculosidade": "Valor/Percentual", 
+ "tempo_servico": "Regras específicas" 
+ }, 
+ "beneficios": { 
+ "vale_alimentacao": "Valor ou Condição", 
+ "vale_refeicao": "Valor ou Condição", 
+ "auxilio_creche": "Valor ou Regras", 
+ "plano_saude": "Regras" 
+ } 
+ }, 
+ "jornada_trabalho": { 
+ "carga_horaria_semanal": "XX horas", 
+ "horas_extras": { 
+ "percentual_dias_uteis": "XX%", 
+ "percentual_finais_de_semana": "XX%" 
+ }, 
+ "banco_de_horas": "Condições e regras específicas" 
+ }, 
+ "ferias_descanso": { 
+ "ferias_coletivas": "Sim/Não", 
+ "regras_dsrs": "Condições específicas" 
+ }, 
+ "contrato_rescisao": { 
+ "tipos_contrato": ["Efetivo", "Temporário", 
+"Intermitente"], 
+ "aviso_previo": { 
+ "trabalhado": "XX dias", 
+ "indenizado": "XX dias" 
+ }, 
+ "multas_rescisao": "Regras específicas", 
+ "estabilidades": { 
+ "gestante": "Período de estabilidade", 
+ "pre_aposentadoria": "Regras específicas" 
+ } 
+ }, 
+ "contribuicoes_sindicais": { 
+ "contribuicao_sindical": "Valor ou Percentual", 
+ "contribuicao_assistencial": "Valor ou Percentual", 
+ "prazo_recolhimento": "YYYY-MM-DD" 
+ }, 
+ "clausulas_sociais": { 
+ "inclusao_pc": "Regras específicas", 
+ "regras_anti_assedio": "Medidas adotadas" 
+ }, 
+ "outras_clausulas": { 
+ "descricao": "Cláusulas adicionais identificadas"
+ } 
+ } 
+ } 
+ ``` 
+ Caso existam cláusulas não estruturadas ou informações 
+adicionais relevantes, registre-as na chave `"outras_clausulas"`, 
+garantindo que todas as nuances da CCT sejam capturadas. 
+Certifique-se de que os dados extraídos estejam bem formatados e 
+completos para análise e uso eficiente pelo setor de RH e DP. 
+ </return_format> 
+ <warnings> 
+ - As redações das CCTs podem variar significativamente,
+exigindo uma interpretação cuidadosa das cláusulas. 
+ - Algumas informações podem estar distribuídas ao longo do 
+documento, demandando uma análise minuciosa para evitar omissões. 
+ - Existem cláusulas com vigências diferenciadas dentro do 
+documento, sendo necessário identificar prazos e exceções. 
+ - Nem todas as CCTs seguem um padrão fixo, portanto, o 
+modelo deve ser flexível para captar estruturas variadas. 
+ </warnings> 
+ <context_dump> 
+ A Convenção Coletiva de Trabalho (CCT) é um acordo formal 
+entre sindicatos de trabalhadores e sindicatos patronais que 
+estabelece regras trabalhistas específicas para determinada 
+categoria profissional. Suas cláusulas podem incluir normas mais 
+vantajosas do que a legislação trabalhista geral, impactando 
+diretamente a administração de pessoal dentro das empresas. 
+ A extração de informações desse documento é fundamental para 
+os setores de Recursos Humanos (RH) e Departamento Pessoal (DP), 
+pois influencia diretamente: 
+ - O pagamento de salários e benefícios obrigatórios. 
+ - A gestão da jornada de trabalho e banco de horas. 
+ - O planejamento de férias, rescisões e estabilidade 
+empregatícia. 
+ - O cumprimento de obrigações sindicais e fiscais. 
+ - A implementação de cláusulas sociais e normativas 
+relevantes. 
+ O modelo deve garantir a extração completa e estruturada 
+dessas informações, organizando os dados de forma clara e acessível 
+para facilitar a tomada de decisão, garantir conformidade legal e 
+otimizar os processos de gestão de pessoas dentro das empresas.
+ </context_dump> 
+</generated_prompt>

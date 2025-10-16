@@ -1,0 +1,36 @@
+<generated_prompt>
+<goal>
+Gerar um relatório executivo final de folha de pagamento com base nos dados extraídos e analisados anteriormente, apresentando de forma clara e objetiva os principais indicadores financeiros, operacionais e de pessoal, além de insights e recomendações para a alta gestão.
+</goal>
+
+<return_format>
+    O relatório deve ser estruturado em seções, conforme abaixo:
+
+    1. **Sumário Executivo**
+       - Visão geral dos principais resultados e recomendações em 5 a 7 tópicos.
+
+    2. **Indicadores Financeiros**
+       - Custo total de folha de pagamento no período.
+       - Proventos, descontos e líquido por departamento.
+       - Comparativo de encargos e impostos (INSS, FGTS, IRRF).
+
+    3. **Indicadores de Pessoal**
+       - Total de empregados ativos, afastados, admitidos e estagiários.
+       - Distribuição de afastamentos por tipo (doença, maternidade, acidente, licença sem vencimento, outros).
+       - Total de horas trabalhadas, extras, atrasos e faltas (médias e totais).
+
+    4. **Análise por Departamento**
+       - Breve síntese dos departamentos com maiores custos e maiores incidências de horas extras ou faltas.
+
+    5. **Insights e Recomendações**
+       - Pontos críticos identificados (ex.: excesso de horas extras em X departamentos).
+       - Ações sugeridas para otimização de custos e melhoria de controle de jornada.
+</return_format>
+
+<warnings>
+    - Garantir que todos os valores monetários estejam formatados com duas casas decimais e separador de milhar.
+    - Validar consistência entre os totais consolidados e a soma dos dados extraídos.
+    - Tratar campos ausentes ou nulos preenchendo com “Não informado” ou 0, conforme apropriado.
+</warnings>
+
+</generated_prompt>

@@ -1,0 +1,110 @@
+<generated_prompt> 
+ <goal> 
+ Gerar um relatório detalhado sobre a Convenção Coletiva de 
+Trabalho (CCT) analisada, contendo uma visão geral do documento e 
+seus impactos para os setores de Recursos Humanos (RH) e 
+Departamento Pessoal (DP). O relatório deve estruturar as 
+informações em uma introdução contextualizada, um resumo executivo 
+destacando os principais pontos da convenção e um detalhamento 
+categorizado sobre os aspectos mais relevantes da CCT, incluindo 
+impactos financeiros e obrigações legais. 
+ </goal> 
+ <return_format> 
+ O relatório deve ser estruturado da seguinte forma: 
+ **1. Introdução** 
+ - Contextualização da Convenção Coletiva de Trabalho (CCT), 
+incluindo sua finalidade e importância para empregadores e 
+empregados. 
+ - Sindicatos envolvidos na negociação e abrangência da 
+convenção (setor e região). 
+ - Período de vigência do documento. 
+ **2. Resumo Executivo** 
+ - Principais mudanças e atualizações em relação à convenção 
+anterior. 
+ - Aspectos que impactam diretamente a gestão de RH e DP. 
+ - Principais obrigações da empresa e benefícios para os
+trabalhadores. 
+ **3. Detalhamento por Categoria** 
+ **3.1 Salários e Reajustes** 
+ - Piso salarial da categoria e eventuais variações por 
+função ou região. 
+ - Percentual de reajuste salarial e data de aplicação. 
+ - Comparação com a inflação e impactos financeiros estimados 
+para a empresa. 
+ **3.2 Benefícios** 
+ - Auxílios obrigatórios (alimentação, refeição, transporte, 
+assistência médica, creche, entre outros). 
+ - Condições e valores estipulados. 
+ - Comparação com o mercado e análise de impacto financeiro. 
+ **3.3 Jornada de Trabalho e Banco de Horas** 
+ - Jornada semanal e regras para flexibilização. 
+ - Regras para horas extras e percentuais de pagamento. 
+ - Condições para adoção de banco de horas e impactos na
+gestão da força de trabalho. 
+ **3.4 Participação nos Lucros e Resultados (PLR)** 
+ - Existência e obrigatoriedade de programas de PLR. 
+ - Critérios estabelecidos para pagamento. 
+ - Impacto financeiro e vantagens para retenção de talentos. 
+ **3.5 Férias e Descanso Semanal Remunerado (DSR)** 
+ - Regras para concessão de férias individuais e coletivas. 
+ - Impactos no planejamento do quadro de funcionários. 
+ - Critérios para pagamento do DSR e diferenças aplicáveis. 
+ **3.6 Contrato de Trabalho e Rescisão** 
+ - Tipos de contrato permitidos e regras aplicáveis. 
+ - Cláusulas sobre aviso prévio e indenizações adicionais. 
+ - Estabilidades provisórias garantidas (gestantes, 
+pré-aposentadoria, dirigentes sindicais, etc.). 
+ **3.7 Contribuições Sindicais e Obrigações da Empresa** 
+ - Contribuições obrigatórias e facultativas (sindical, 
+assistencial e confederativa). 
+ - Prazos para recolhimento e penalidades por inadimplência. 
+ - Direitos dos trabalhadores quanto à oposição ao desconto. 
+ **3.8 Cláusulas Sociais e Normativas** 
+ - Medidas contra assédio moral e sexual no ambiente de 
+trabalho. 
+ - Regras para inclusão e acessibilidade de Pessoas com 
+Deficiência (PCD). 
+ - Políticas para promoção da diversidade e equidade de 
+gênero. 
+ **4. Conclusão e Recomendações** 
+ - Resumo dos principais impactos da CCT para a empresa. 
+ - Ações recomendadas para garantir conformidade e minimizar 
+riscos trabalhistas. 
+ - Estratégias de adaptação para otimizar a gestão de 
+pessoal. 
+ O relatório deve ser bem estruturado, claro e objetivo,
+fornecendo todas as informações necessárias para que o setor de RH e 
+DP compreenda plenamente os impactos da Convenção Coletiva de 
+Trabalho e possa agir de maneira estratégica. 
+ </return_format> 
+ <warnings> 
+ - A estrutura da CCT pode variar entre categorias 
+profissionais e regiões, exigindo uma análise cuidadosa para 
+capturar todas as nuances. 
+ - Algumas cláusulas podem conter detalhes técnicos ou 
+jurídicos que exigem interpretação precisa. 
+ - O impacto financeiro deve ser estimado considerando os 
+parâmetros definidos na CCT, podendo variar conforme a realidade da 
+empresa. 
+ - Caso haja informações não estruturadas ou cláusulas 
+abertas, estas devem ser incluídas em seções específicas do 
+relatório para análise posterior. 
+ </warnings> 
+ <context_dump> 
+ A Convenção Coletiva de Trabalho (CCT) é um documento 
+negociado entre sindicatos de trabalhadores e sindicatos patronais, 
+estabelecendo regras específicas que regem os contratos de trabalho 
+dentro de uma categoria profissional. A CCT pode complementar ou até 
+sobrepor normas gerais da Consolidação das Leis do Trabalho (CLT), 
+garantindo direitos adicionais ou criando novas obrigações para
+empregadores e empregados. 
+ Para as empresas, compreender e aplicar corretamente as
+cláusulas da CCT é essencial para evitar passivos trabalhistas,
+manter conformidade legal e planejar adequadamente os custos com 
+pessoal. Algumas convenções podem trazer benefícios que impactam 
+diretamente a retenção de talentos e a produtividade da equipe.
+ Esse relatório deve fornecer uma visão analítica e detalhada 
+da CCT vigente, permitindo que o setor de RH e DP tome decisões
+informadas e adote as melhores práticas na gestão de pessoas. 
+ </context_dump> 
+</generated_prompt>

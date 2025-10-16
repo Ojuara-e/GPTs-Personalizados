@@ -1,0 +1,62 @@
+<generated_prompt> 
+ <goal> 
+ Extrair todas as contas contábeis, juntamente com seus respectivos 
+valores e período de competência, a partir do balancete fornecido. Os dados 
+extraídos devem ser estruturados em um JSON organizado, permitindo fácil 
+manipulação e análise posterior. 
+ </goal> 
+ <return_format> 
+ O JSON deve conter os seguintes campos: 
+ - "conta": Código da conta contábil. 
+ - "descricao": Nome ou descrição da conta contábil. 
+ - "saldo_anterior": Saldo da conta antes do período analisado. 
+ - "debito": Total debitado na conta durante o período. 
+ - "credito": Total creditado na conta durante o período. 
+ - "saldo_final": Saldo da conta após o período analisado. 
+ - "periodo": Período de competência dos dados contábeis. 
+ Exemplo de saída JSON: 
+ ```json 
+ { 
+ "empresa": "IDEAS WORK LTDA", 
+ "cnpj": "07.301.671/0001-31", 
+ "periodo": "01/01/2023 a 31/12/2023", 
+ "contas": [ 
+ { 
+ "conta": "1", 
+ "descricao": "ATIVO", 
+ "saldo_anterior": 168095.17, 
+ "debito": 2778618.21, 
+ "credito": 2784890.51, 
+ "saldo_final": 161822.87 
+ }, 
+ { 
+ "conta": "5", 
+ "descricao": "Caixa", 
+ "saldo_anterior": 12000.80, 
+ "debito": 3229.90, 
+ "credito": 12949.87, 
+ "saldo_final": 2280.83 
+ }, 
+ ... 
+ ] 
+ } 
+ ``` 
+ </return_format> 
+ <warnings> 
+ - Garantir que todas as colunas relevantes sejam extraídas 
+corretamente, evitando omissões ou erros de interpretação. 
+ - Manter os valores numéricos no formato correto para cálculos 
+financeiros. 
+ - O JSON deve ser validado para garantir a conformidade com a 
+estrutura esperada. 
+ - Atenção para capturar corretamente o período de competência do 
+balancete. 
+ </warnings> 
+ <context_dump> 
+ O balancete da empresa XXXX contém contas contábeis organizadas 
+hierarquicamente, com valores de saldo anterior, débito, crédito e saldo 
+final. O período de competência analisado é de 01/01/2023 a 31/12/2023. O 
+objetivo da extração é estruturar esses dados em JSON para futuras 
+análises. 
+ </context_dump> 
+</generated_prompt>

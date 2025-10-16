@@ -1,0 +1,130 @@
+<generated_prompt> 
+ <goal> 
+ Gerar um relatório detalhado da Convenção Coletiva de 
+Trabalho (CCT) com base no JSON fornecido, estruturando as 
+informações de maneira clara e organizada para uso pelos setores de 
+Recursos Humanos (RH) e Departamento Pessoal (DP). O relatório deve 
+conter uma introdução contextualizando a convenção, um resumo 
+executivo com os principais pontos e um detalhamento das cláusulas 
+organizadas por categoria, destacando impacto financeiro e 
+obrigações legais. A estrutura sugerida deve ser utilizada como
+modelo, mas não como um template fixo. Caso a CCT contenha 
+informações adicionais, elas devem ser incluídas no relatório de 
+forma apropriada. 
+ </goal> 
+ <return_format> 
+ O relatório deve ser organizado de maneira lógica e clara, 
+refletindo todas as informações relevantes presentes na CCT. A 
+estrutura sugerida para a apresentação do relatório é: 
+ **1. Introdução** 
+ - Contextualização da Convenção Coletiva de Trabalho (CCT), 
+sua importância e aplicabilidade. 
+ - Sindicatos envolvidos na negociação e setores/regiões
+abrangidos. 
+ - Período de vigência e principais mudanças em relação à 
+versão anterior. 
+ **2. Resumo Executivo** 
+ - Destacar os principais pontos da CCT, como reajustes 
+salariais, benefícios adicionais, modificações na jornada de 
+trabalho e novas cláusulas relevantes. 
+ - Impactos diretos para empregadores e empregados. 
+ - Obrigações da empresa para garantir conformidade com a 
+convenção. 
+ **3. Detalhamento das Cláusulas** 
+ **3.1 Informações Gerais** 
+ - Data de início e término da vigência. 
+ - Identificação dos sindicatos participantes (trabalhadores 
+e patronal). 
+ - Setores e regiões abrangidos. 
+ **3.2 Salários e Benefícios** 
+ - Piso salarial e reajustes aplicáveis, incluindo critérios 
+de aplicação. 
+ - Adicionais (insalubridade, periculosidade, tempo de 
+serviço, entre outros). 
+ - Benefícios obrigatórios (vale-alimentação, vale-refeição, 
+transporte, assistência médica, creche, entre outros). 
+ - Impacto financeiro e estimativa de custo para a empresa. 
+ **3.3 Jornada de Trabalho e Banco de Horas** 
+ - Carga horária semanal e regras específicas. 
+ - Percentuais para pagamento de horas extras e limites 
+aplicáveis. 
+ - Regulamentação do banco de horas e condições para 
+compensação. 
+ **3.4 Participação nos Lucros e Resultados (PLR)** 
+ - Existência e regulamentação do programa de PLR. 
+ - Critérios para elegibilidade e pagamento. 
+ - Impactos para retenção de talentos e motivação dos 
+colaboradores. 
+ **3.5 Férias e Descanso Semanal Remunerado (DSR)** 
+ - Regras para concessão de férias individuais e coletivas. 
+ - Critérios para pagamento do DSR e eventuais exceções 
+aplicáveis. 
+ - Impactos operacionais para a empresa. 
+ **3.6 Contrato de Trabalho e Rescisão** 
+ - Tipos de contrato permitidos e suas condições específicas. 
+ - Normas para aviso prévio (trabalhado e indenizado). 
+ - Estabilidades provisórias (gestantes, pré-aposentadoria, 
+dirigentes sindicais, etc.). 
+ **3.7 Contribuições Sindicais e Obrigações da Empresa** 
+ - Valores e regras para contribuição sindical, assistencial 
+e confederativa. 
+ - Prazos para recolhimento e possíveis penalidades por 
+descumprimento. 
+ - Direitos dos trabalhadores quanto à oposição ao desconto. 
+ **3.8 Cláusulas Sociais e Normativas** 
+ - Medidas de combate ao assédio moral e sexual no ambiente 
+de trabalho. 
+ - Normas para inclusão e acessibilidade de Pessoas com 
+Deficiência (PCD). 
+ - Políticas para promoção da diversidade e equidade de 
+gênero. 
+ **4. Cláusulas Adicionais ou Específicas** 
+ - Se a CCT apresentar cláusulas não contempladas na 
+estrutura acima, elas devem ser destacadas e analisadas. 
+ - Explicação de regras específicas ou condicionais que 
+possam impactar a empresa. 
+ **5. Conclusão e Recomendações** 
+ - Resumo dos principais impactos da CCT na gestão de RH e 
+DP. 
+ - Ações recomendadas para garantir conformidade e minimizar 
+riscos trabalhistas. 
+ - Estratégias para otimização da gestão de pessoal e 
+adequação às novas regras. 
+ A estrutura do relatório deve ser adaptável para acomodar 
+todas as informações relevantes da CCT. Caso o JSON contenha dados 
+adicionais ou cláusulas que não se encaixem nas categorias acima, 
+elas devem ser relatadas de forma clara e objetiva. O objetivo é 
+garantir que o relatório seja completo, útil e aplicável às 
+necessidades do setor de Recursos Humanos e Departamento Pessoal. 
+ </return_format> 
+ <warnings> 
+ - A estrutura da CCT pode variar entre diferentes categorias 
+profissionais e regiões, exigindo uma abordagem flexível para 
+análise e apresentação das informações. 
+ - Algumas cláusulas podem conter linguagem técnica ou 
+jurídica que requer interpretação cuidadosa. 
+ - O impacto financeiro deve ser analisado com base nos dados 
+da CCT, mas pode variar conforme a realidade da empresa. 
+ - Cláusulas não estruturadas ou atípicas devem ser incluídas 
+no relatório e explicadas de forma clara. 
+ </warnings> 
+ <context_dump> 
+ A Convenção Coletiva de Trabalho (CCT) é um documento 
+normativo que regula as relações de trabalho dentro de uma categoria 
+profissional, estabelecendo direitos, deveres e obrigações para
+empregadores e empregados. Ela pode definir condições mais benéficas 
+do que a legislação geral, impactando diretamente a gestão de 
+pessoal, folha de pagamento e processos administrativos da empresa. 
+ Para garantir conformidade legal e evitar riscos 
+trabalhistas, é essencial que o setor de Recursos Humanos (RH) e 
+Departamento Pessoal (DP) compreenda detalhadamente todas as 
+cláusulas da CCT vigente. Esse relatório deve fornecer uma análise 
+detalhada e estruturada do documento, permitindo que a empresa tome 
+decisões estratégicas sobre folha de pagamento, jornada de trabalho, 
+benefícios e demais aspectos trabalhistas. 
+ Como as CCTs podem conter cláusulas específicas para 
+diferentes setores ou empresas, este relatório deve ser flexível, 
+incluindo todas as informações relevantes encontradas no JSON 
+fornecido e organizando-as de maneira clara e acessível. 
+ </context_dump> 
+</generated_prompt>

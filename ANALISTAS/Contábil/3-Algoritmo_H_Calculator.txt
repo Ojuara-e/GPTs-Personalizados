@@ -1,0 +1,77 @@
+<generated_prompt> 
+ <goal> 
+ Processar os dados financeiros extraídos e calcular 
+automaticamente a análise horizontal. O script deve calcular a 
+variação absoluta e percentual entre períodos para cada conta 
+contábil. 
+ </goal> 
+ <return_format> 
+ O output deve ser um JSON estruturado contendo os seguintes
+campos: 
+ - **"conta"**: Nome da conta contábil (ex: "Receita Líquida", 
+"Lucro Bruto", "Ativo Circulante"). 
+ - **"categoria"**: Tipo de conta (ex: "ativo", "passivo", 
+"receita", "despesa", "resultado financeiro", "fluxo de caixa"). 
+ - **"periodo_atual"**: Valor da conta no período mais recente. 
+ - **"periodo_anterior"**: Valor da conta no período de 
+comparação. 
+ - **"variacao_absoluta"**: Diferença entre os períodos (valor 
+absoluto). 
+ - **"variacao_percentual"**: Percentual de variação entre os 
+períodos. 
+ **Fórmulas utilizadas:** 
+ - **Variação Absoluta** = \( \text{Valor no período atual} - 
+\text{Valor no período anterior} \) 
+ - **Variação Percentual** = \( \left(\frac{\text{Variação 
+Absoluta}}{\text{Valor no período anterior}}\right) \times 100 \) 
+(se o valor anterior for diferente de zero) 
+ **Exemplo de Output:** 
+ ```json 
+ [ 
+ { 
+ "conta": "Receita Líquida", 
+ "categoria": "receita", 
+ "periodo_atual": 500000000, 
+ "periodo_anterior": 480000000, 
+ "variacao_absoluta": 20000000, 
+ "variacao_percentual": 4.17 
+ }, 
+ { 
+ "conta": "Lucro Bruto", 
+ "categoria": "resultado", 
+ "periodo_atual": 200000000, 
+ "periodo_anterior": 190000000, 
+ "variacao_absoluta": 10000000, 
+ "variacao_percentual": 5.26 
+ }, 
+ { 
+ "conta": "Ativo Circulante", 
+ "categoria": "ativo", 
+ "periodo_atual": 150000000, 
+ "periodo_anterior": 145000000, 
+ "variacao_absoluta": 5000000, 
+ "variacao_percentual": 3.45 
+ } 
+ ] 
+ ``` 
+ </return_format> 
+ <warnings> 
+ - Se o valor do período anterior for **zero**, a variação 
+percentual deve ser marcada como "N/A" (evitando divisão por zero). 
+ - O cálculo da variação deve respeitar os sinais dos valores 
+(ex: aumentos positivos e quedas negativas). 
+ - Se não houver dados para um período comparativo, a conta deve 
+ser ignorada ou marcada como "Sem dados comparativos". 
+ </warnings> 
+ <context_dump> 
+ O script deve receber um JSON com os seguintes campos: 
+ - "conta": Nome da conta contábil. 
+ - "categoria": Tipo de conta. 
+ - "periodo": Período de competência do dado. 
+ - "valor": Valor da conta no respectivo período. 
+ O algoritmo deve agrupar os dados por conta e calcular a 
+variação comparando os valores entre os períodos disponíveis. 
+ Se houver múltiplos anos/trimestres, o cálculo deve ser 
+realizado para cada par consecutivo de períodos. 
+ </context_dump> 
+</generated_prompt>

@@ -1,0 +1,55 @@
+Objetivo: 
+Extrair e estruturar os dados de todos os contracheques do relatório 
+de folha de pagamentos, garantindo um formato genérico e aplicável a 
+qualquer empresa, independentemente da estrutura departamental ou 
+nomenclatura específica. 
+Formato de Retorno (JSON): 
+```json 
+{ 
+ "dados_empresa": { 
+ "razao_social": "string", 
+ "cnpj": "string", 
+ "competencia": "string", 
+ "data_emissao": "string", 
+ "hora_emissao": "string" 
+ }, 
+ "contracheques": [ 
+ { 
+ "dados_funcionario": { 
+ "nome": "string", 
+ "cpf": "string", 
+ "matricula": "string", 
+ "data_admissao": "string", 
+ "situacao": "string", // Exemplo: "Trabalhando", "Afastado" 
+ "vinculo": "string", // Exemplo: "Celetista", "Estagiário", 
+"Diretor" 
+ "jornada_mensal_horas": "float", 
+ "departamento": "string", 
+ "cargo": "string", 
+ "cbo": "string", 
+ "filial": "string" 
+ }, 
+ "eventos": [ 
+ { 
+ "descricao": "string", // Exemplo: "Horas Normais", 
+"INSS", "Vale Transporte" 
+ "tipo": "string", // "Provento" ou "Desconto" 
+ "quantidade": "float", 
+ "valor": "float" 
+ } 
+ ], 
+ "resumo_financeiro": { 
+ "total_proventos": "float", 
+ "total_descontos": "float", 
+ "liquido_receber": "float" 
+ }, 
+ "encargos_e_bases_calculo": { 
+ "base_inss": "float", 
+ "base_fgts": "float", 
+ "base_irrf": "float", 
+ "valor_fgts": "float", 
+ "excedente_inss": "float" 
+ } 
+ } 
+ ] 
+}

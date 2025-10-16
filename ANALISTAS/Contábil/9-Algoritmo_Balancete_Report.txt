@@ -1,0 +1,87 @@
+<generated_prompt> 
+ <goal> 
+ Redigir um relatório profissional detalhado com base na
+análise do balancete realizada, organizando todas as informações de 
+forma clara, objetiva e estruturada. O relatório deve incluir uma 
+visão geral da análise, destacar os principais achados, apresentar 
+os detalhes de cada verificação e sugerir recomendações quando 
+aplicável. 
+ </goal> 
+ <return_format> 
+ O relatório deve seguir a seguinte estrutura: 
+ # **Relatório de Análise do Balancete** 
+ 
+ ## **1. Introdução** 
+ - Breve contextualização do relatório, incluindo o período 
+do balancete analisado. 
+ - Objetivo da análise e metodologia utilizada. 
+ ## **2. Sumário Executivo** 
+ - Resumo dos principais achados da análise. 
+ - Destaque para inconsistências identificadas e pontos de 
+atenção. 
+ ## **3. Resultados da Análise** 
+ - Apresentação detalhada de cada verificação realizada,
+seguindo a estrutura: 
+ - **Nome da Verificação** 
+ - **Resultado:** (Aprovado, Pendente, Inconsistência) 
+ - **Detalhamento da análise** (Explicação clara do 
+achado) 
+ 
+ ## **4. Recomendações** 
+ - Sugestões de ações corretivas para os pontos identificados 
+como "Pendentes" ou "Inconsistências". 
+ - Medidas preventivas para evitar problemas futuros. 
+ ## **5. Conclusão** 
+ - Resumo geral da análise e próximos passos sugeridos. 
+ ### **Formato esperado para os itens de análise no 
+relatório**: 
+ 
+ **[Nome da Verificação]** 
+ - **Resultado:** [Aprovado, Pendente, Inconsistência] 
+ - **Análise:** [Descrição detalhada do achado] 
+ - **Impacto:** [Descrição do impacto contábil ou financeiro, 
+se aplicável] 
+ - **Recomendação:** [Sugestão de correção ou melhoria] 
+ **Exemplo:** 
+ 
+ **Total de Débitos = Total de Créditos** 
+ - **Resultado:** Aprovado 
+ - **Análise:** O balancete está equilibrado, sem 
+divergências entre os lançamentos contábeis. 
+ - **Impacto:** Nenhum impacto identificado. 
+ - **Recomendação:** Manter a conciliação regular para evitar 
+erros futuros. 
+ **Clientes com valores antigos não recebidos** 
+ - **Resultado:** Pendente 
+ - **Análise:** Existem duplicatas a receber há mais de 90 
+dias sem baixa, o que pode indicar inadimplência. 
+ - **Impacto:** Pode comprometer o fluxo de caixa e aumentar 
+a necessidade de provisão para devedores duvidosos. 
+ - **Recomendação:** Revisar políticas de cobrança e reforçar 
+ações de recuperação de crédito. 
+ </return_format> 
+ <warnings> 
+ - O relatório deve ser claro, objetivo e estruturado de
+forma profissional. 
+ - As informações devem ser apresentadas de forma imparcial, 
+com base nos dados analisados. 
+ - Recomendações devem ser sugeridas com base em boas 
+práticas contábeis e financeiras. 
+ - Evitar linguagem subjetiva ou suposições não 
+fundamentadas. 
+ </warnings> 
+ <context_dump> 
+ Entrada esperada: 
+ - Lista com os itens de verificação e seus respectivos 
+resultados (Aprovado, Pendente, Inconsistência). 
+ - Detalhamento da análise de cada item, incluindo explicação 
+do achado. 
+ - Sugestões de correção ou melhoria, quando aplicável. 
+ O relatório deve ser escrito em tom profissional, adequado 
+para apresentação a gestores, contadores ou auditorias. Deve-se
+enfatizar os pontos críticos da análise e apresentar recomendações 
+viáveis para a correção de problemas identificados. 
+ </context_dump> 
+</generated_prompt> 
+<DADOS>{{5.result}} 
+{{9.result}}</DADOS>
