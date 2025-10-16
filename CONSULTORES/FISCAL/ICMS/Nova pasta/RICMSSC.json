@@ -1,0 +1,1743 @@
+{
+  "versao_data": "2025-08-21",
+  "fonte": "Regulamento do ICMS de Santa Catarina - RICMS/SC",
+  "regulamento": [
+    {
+      "id": "art_1",
+      "numero_artigo": "1º",
+      [cite_start]"texto_caput": "O imposto tem como fato gerador: [cite: 1]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO I - DA INCIDÊNCIA",
+        "secao": "Seção I - Do Fato Gerador"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "operações relativas à circulação de mercadorias, inclusive o fornecimento de alimentação e bebidas em bares, restaurantes e estabelecimentos similares; [cite: 2]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "prestações de serviços de transporte interestadual e intermunicipal, por qualquer via, de pessoas, bens, mercadorias ou valores; [cite: 3]"
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "prestações onerosas de serviços de comunicação, por qualquer meio, inclusive a geração, a emissão, a recepção, a transmissão, a retransmissão, a repetição e a ampliação de comunicação de qualquer natureza; [cite: 4]"
+        },
+        {
+          "numero_inciso": "IV",
+          [cite_start]"texto": "o fornecimento de mercadorias com prestação de serviços não compreendidos na competência tributária dos Municípios; [cite: 5]"
+        },
+        {
+          "numero_inciso": "V",
+          [cite_start]"texto": "o fornecimento de mercadorias com prestação de serviços sujeitos ao imposto sobre serviços, de competência dos Municípios, quando a lei complementar aplicável expressamente o sujeitar à incidência do imposto estadual; [cite: 6]"
+        },
+        {
+          "numero_inciso": "VI",
+          [cite_start]"texto": "o recebimento de mercadorias, destinadas a consumo ou integração ao ativo permanente, oriundas de outra unidade da Federação; [cite: 7]"
+        },
+        {
+          "numero_inciso": "VII",
+          [cite_start]"texto": "a utilização, por contribuinte, de serviço cuja prestação se tenha iniciado em outro Estado ou no Distrito Federal e não esteja vinculada à operação ou prestação subsequente. [cite: 8]"
+        },
+        {
+          "numero_inciso": "VIII",
+          [cite_start]"texto": "a disponibilização de bens digitais, tais como softwares, programas, jogos eletrônicos, aplicativos, arquivos eletrônicos e congêneres, mediante transferência eletrônica de dados e quando se caracterizarem mercadorias. [cite: 9]"
+        }
+      ],
+      "paragrafos": [
+        {
+          "numero_paragrafo": "1º",
+          [cite_start]"texto": "O imposto incide também: [cite: 10]",
+          "incisos": [
+            {
+              "numero_inciso": "I",
+              [cite_start]"texto": "sobre a entrada de bem ou mercadoria importados do exterior, por pessoa física ou jurídica, ainda que não seja contribuinte habitual do imposto, qualquer que seja a sua finalidade (); [cite: 10]"
+            },
+            {
+              "numero_inciso": "II",
+              [cite_start]"texto": "sobre o serviço prestado no exterior ou cuja prestação se tenha iniciado no exterior; [cite: 11]"
+            },
+            {
+              "numero_inciso": "III",
+              [cite_start]"texto": "sobre a entrada, no território do Estado, em operação interestadual, de petróleo, inclusive lubrificantes e combustíveis líquidos e gasosos dele derivados, e de energia elétrica, quando não destinados à comercialização ou à industrialização. [cite: 12]"
+            }
+          ]
+        },
+        {
+          "numero_paragrafo": "2º",
+          [cite_start]"texto": "Para fins de incidência do disposto no inciso VIII do caput deste artigo, o bem digital será considerado mercadoria quando a sua disponibilização ao consumidor final ou usuário: [cite: 13]",
+          "incisos": [
+            {
+              "numero_inciso": "I",
+              [cite_start]"texto": "compreender a transferência de sua titularidade, inclusive do direito de dispor do bem digital; [cite: 13]"
+            },
+            {
+              "numero_inciso": "II",
+              [cite_start]"texto": "não estiver compreendida na competência tributária dos municípios. [cite: 14]"
+            }
+          ]
+        }
+      ],
+      "tags_semanticas": [
+        "Fato Gerador",
+        "Incidência",
+        "Circulação de Mercadorias",
+        "Serviços de Transporte",
+        "Serviços de Comunicação",
+        "Bens Digitais"
+      ],
+      "notas": [
+        [cite_start]"Vide Resoluções Normativas e . [cite: 1]",
+        [cite_start]"Vide Resolução Normativa . [cite: 5]",
+        [cite_start]"Vide Resolução Normativa . [cite: 7]",
+        [cite_start]"Vide . [cite: 14]"
+      ]
+    },
+    {
+      "id": "art_2",
+      "numero_artigo": "2º",
+      [cite_start]"texto_caput": "A caracterização do fato gerador independe da natureza jurídica da operação que o constitua. [cite: 15]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO I - DA INCIDÊNCIA",
+        "secao": "Seção I - Do Fato Gerador"
+      },
+      "tags_semanticas": [
+        "Fato Gerador",
+        "Incidência",
+        "Natureza Jurídica"
+      ]
+    },
+    {
+      "id": "art_3",
+      "numero_artigo": "3º",
+      [cite_start]"texto_caput": "Considera-se ocorrido o fato gerador do imposto no momento: [cite: 16]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO I - DA INCIDÊNCIA",
+        "secao": "Seção II - Do Momento da Ocorrência do Fato Gerador"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "da saída de mercadoria de estabelecimento de contribuinte, ainda que para outro estabelecimento do mesmo titular; [cite: 16]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "do fornecimento de alimentação, bebidas e outras mercadorias por qualquer estabelecimento; [cite: 17]"
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "da transmissão a terceiro de mercadoria depositada em armazém geral ou em depósito fechado, neste Estado; [cite: 18]"
+        },
+        {
+          "numero_inciso": "IV",
+          [cite_start]"texto": "da transmissão de propriedade de mercadoria, ou de título que a represente, quando a mercadoria não tiver transitado pelo estabelecimento transmitente; [cite: 19]"
+        },
+        {
+          "numero_inciso": "V",
+          [cite_start]"texto": "do início da prestação de serviços de transporte interestadual e intermunicipal de qualquer natureza; [cite: 20]"
+        },
+        {
+          "numero_inciso": "VI",
+          [cite_start]"texto": "do ato final do transporte iniciado no exterior; [cite: 21]"
+        },
+        {
+          "numero_inciso": "VII",
+          [cite_start]"texto": "da prestação onerosa de serviço de comunicação, feita por qualquer meio, inclusive a geração, a emissão, a recepção, a transmissão, a retransmissão, a repetição e a ampliação de comunicação de qualquer natureza; [cite: 22]"
+        },
+        {
+          "numero_inciso": "VIII",
+          [cite_start]"texto": "do fornecimento de mercadoria com prestação de serviços: [cite: 23]",
+          "alineas": [
+            {
+              "letra_alinea": "a",
+              [cite_start]"texto": "não compreendidos na competência tributária dos Municípios; [cite: 23]"
+            },
+            {
+              "letra_alinea": "b",
+              [cite_start]"texto": "compreendidos na competência tributária dos Municípios e com indicação expressa de incidência do imposto de competência estadual, como definido na lei complementar aplicável; [cite: 24]"
+            }
+          ]
+        },
+        {
+          "numero_inciso": "IX",
+          [cite_start]"texto": "do desembaraço aduaneiro dos bens ou mercadorias importados do exterior (); [cite: 25]"
+        },
+        {
+          "numero_inciso": "X",
+          [cite_start]"texto": "do recebimento, pelo destinatário, de serviço prestado no exterior; [cite: 26]"
+        },
+        {
+          "numero_inciso": "XI",
+          [cite_start]"texto": "da aquisição em licitação pública de mercadorias ou bens importados do exterior e apreendidos ou abandonados (); [cite: 27]"
+        },
+        {
+          "numero_inciso": "XII",
+          [cite_start]"texto": "da entrada, no território do Estado, de lubrificantes e combustíveis líquidos e gasosos derivados de petróleo e energia elétrica oriundos de outro Estado ou do Distrito Federal, quando não destinados à comercialização ou à industrialização (); [cite: 28]"
+        },
+        {
+          "numero_inciso": "XIII",
+          [cite_start]"texto": "da utilização, por contribuinte, de serviço cuja prestação se tenha iniciado em outro Estado ou no Distrito Federal e não esteja vinculada à operação ou prestação subseqüente; [cite: 29]"
+        },
+        {
+          "numero_inciso": "XIV",
+          [cite_start]"texto": "da entrada no território deste Estado de bem ou mercadoria oriundos de outro Estado ou do Distrito Federal, adquiridos por contribuinte do imposto e destinados ao seu uso ou consumo ou à integração ao seu ativo imobilizado (); [cite: 30]"
+        },
+        {
+          "numero_inciso": "XV",
+          [cite_start]"texto": "da saída de bem ou mercadoria de estabelecimento de contribuinte do imposto localizado em outro Estado, destinados a consumidor final, não contribuinte do imposto, domiciliado ou estabelecido neste Estado (); [cite: 31]"
+        },
+        {
+          "numero_inciso": "XVI",
+          [cite_start]"texto": "do início da prestação de serviço de transporte interestadual, nas prestações não vinculadas a operação ou prestação subsequente, cujo tomador não seja contribuinte do imposto domiciliado ou estabelecido neste Estado (). [cite: 32]"
+        }
+      ],
+      "paragrafos": [
+        {
+          "numero_paragrafo": "1º",
+          [cite_start]"texto": "Na hipótese do inciso VII, quando o serviço for prestado mediante pagamento em ficha, cartão ou assemelhados, considera-se ocorrido o fato gerador do imposto quando do fornecimento desses instrumentos ao usuário. [cite: 33]"
+        },
+        {
+          "numero_paragrafo": "2º",
+          [cite_start]"texto": "Considera-se também ocorrido o fato gerador no consumo, ou na integração ao ativo permanente, de mercadoria oriunda de outra unidade da Federação, adquirida para comercialização ou industrialização. [cite: 34]"
+        },
+        {
+          "numero_paragrafo": "3º",
+          [cite_start]"texto": "Na hipótese de entrega de mercadoria ou bem importados do exterior antes do desembaraço aduaneiro, considera-se ocorrido o fato gerador neste momento, devendo a autoridade responsável exigir a comprovação do pagamento do imposto (). [cite: 35]"
+        },
+        {
+          "numero_paragrafo": "4º",
+          [cite_start]"texto": "REVOGADO. [cite: 36]"
+        },
+        {
+          "numero_paragrafo": "5º",
+          [cite_start]"texto": "O disposto no inciso XVI deste artigo se aplica às prestações de serviço de transporte cujo fim ocorra neste Estado. [cite: 36]"
+        }
+      ],
+      "tags_semanticas": [
+        "Momento do Fato Gerador",
+        "Obrigação Tributária"
+      ]
+    },
+    {
+      "id": "art_4",
+      "numero_artigo": "4º",
+      [cite_start]"texto_caput": "O local da operação ou da prestação, para os efeitos da cobrança do imposto e definição do estabelecimento responsável, é: [cite: 37]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO I - DA INCIDÊNCIA",
+        "secao": "Seção III - Do Local da Operação ou da Prestação"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "tratando-se de mercadoria ou bem: [cite: 37]",
+          "alineas": [
+            {
+              "letra_alinea": "a",
+              [cite_start]"texto": "onde se encontre, no momento da ocorrência do fato gerador; [cite: 37]"
+            },
+            {
+              "letra_alinea": "b",
+              [cite_start]"texto": "onde se encontre, quando em situação irregular pela falta de documentação fiscal ou quando acompanhado de documentação inidônea, como dispuser a legislação tributária; [cite: 38]"
+            },
+            {
+              "letra_alinea": "c",
+              [cite_start]"texto": "o do estabelecimento que transfira a propriedade, ou o título que a represente, de mercadoria por ele adquirida no País e que por ele não tenha transitado; [cite: 39]"
+            },
+            {
+              "letra_alinea": "d",
+              [cite_start]"texto": "importado do exterior, o do estabelecimento onde ocorrer a entrada física; [cite: 40]"
+            },
+            {
+              "letra_alinea": "e",
+              [cite_start]"texto": "importado do exterior, o do domicílio do adquirente, quando não estabelecido; [cite: 41]"
+            },
+            {
+              "letra_alinea": "f",
+              [cite_start]"texto": "aquele onde seja realizada a licitação, no caso de arrematação de mercadoria ou bem importados do exterior e apreendidos ou abandonados (); [cite: 42]"
+            },
+            {
+              "letra_alinea": "g",
+              [cite_start]"texto": "o do estabelecimento adquirente, inclusive de consumidor final, nas operações interestadais com energia elétrica e petróleo, lubrificantes e combustíveis dele derivados, quando não destinados à industrialização ou à comercialização; [cite: 43]"
+            },
+            {
+              "letra_alinea": "h",
+              [cite_start]"texto": "onde o ouro tenha sido extraído, quando não considerado como ativo financeiro ou instrumento cambial; [cite: 44]"
+            },
+            {
+              "letra_alinea": "i",
+              [cite_start]"texto": "o de desembarque do produto, na hipótese de captura de peixes, crustáceos e moluscos; [cite: 45]"
+            }
+          ]
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "tratando-se de prestação de serviço de transporte: [cite: 46]",
+          "alineas": [
+            {
+              "letra_alinea": "a",
+              [cite_start]"texto": "onde tenha início a prestação; [cite: 46]"
+            },
+            {
+              "letra_alinea": "b",
+              [cite_start]"texto": "onde se encontre o transportador, quando em situação irregular pela falta de documentação fiscal ou quando acompanhada de documentação inidônea, como dispuser a legislação tributária; [cite: 47]"
+            },
+            {
+              "letra_alinea": "c",
+              [cite_start]"texto": "REVOGADA; [cite: 48]"
+            }
+          ]
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "tratando-se de prestação onerosa de serviço de comunicação: [cite: 48]",
+          "alineas": [
+            {
+              "letra_alinea": "a",
+              [cite_start]"texto": "o da prestação de serviço de radiodifusão sonora e de som e imagem, assim entendido o da geração, emissão, transmissão, retransmissão, repetição, ampliação e recepção; [cite: 48]"
+            },
+            {
+              "letra_alinea": "b",
+              [cite_start]"texto": "o do estabelecimento da concessionária ou da permissionária que forneça ficha, cartão ou assemelhados com que o serviço é pago; [cite: 49]"
+            },
+            {
+              "letra_alinea": "c",
+              "texto": "o do estabelecimento destinatário do serviço, na hipótese do art. [cite_start]3º, e para os efeitos previstos no art. [cite: 50]"
+            },
+            {
+              "letra_alinea": "d",
+              [cite_start]"texto": "o do estabelecimento ou domicílio do tomador do serviço, quando prestado por meio de satélite (); [cite: 51]"
+            },
+            {
+              "letra_alinea": "e",
+              [cite_start]"texto": "onde seja cobrado o serviço, nos demais casos; [cite: 52]"
+            }
+          ]
+        },
+        {
+          "numero_inciso": "IV",
+          [cite_start]"texto": "tratando-se de serviços prestados ou iniciados no exterior, o do estabelecimento ou do domicílio do destinatário. [cite: 52]"
+        },
+        {
+          "numero_inciso": "V",
+          [cite_start]"texto": "tratando-se de operações ou prestações interestaduais destinadas a consumidor final, em relação à diferença entre a alíquota interna deste Estado e a alíquota interestadual (MP nº 250/2022): [cite: 53]",
+          "alineas": [
+            {
+              "letra_alinea": "a",
+              [cite_start]"texto": "o do estabelecimento do destinatário, quando o destinatário ou o tomador for contribuinte do imposto; [cite: 53]"
+            },
+            {
+              "letra_alinea": "b",
+              [cite_start]"texto": "o do estabelecimento do remetente ou onde tiver início a prestação, quando o destinatário ou o tomador não for contribuinte do imposto. [cite: 54]"
+            }
+          ]
+        }
+      ],
+      "paragrafos": [
+        {
+          "numero_paragrafo": "1º",
+          [cite_start]"texto": "O disposto no inciso I, “c”, não se aplica às mercadorias recebidas em regime de depósito de contribuinte estabelecido em outro Estado ou no Distrito Federal. [cite: 55]"
+        },
+        {
+          "numero_paragrafo": "2º",
+          [cite_start]"texto": "Para os efeitos do inciso I, “h”, o ouro, quando definido como ativo financeiro ou instrumento cambial, deve ter sua origem identificada. [cite: 56]"
+        },
+        {
+          "numero_paragrafo": "3º",
+          [cite_start]"texto": "Quando a mercadoria for remetida para armazém geral ou para depósito fechado do próprio contribuinte, neste Estado, a posterior saída considerar-se-á ocorrida no estabelecimento do depositante, salvo se para retornar ao estabelecimento remetente. [cite: 57]"
+        },
+        {
+          "numero_paragrafo": "4º",
+          [cite_start]"texto": "Na hipótese do inciso III, tratando-se de serviços não medidos, que envolvam localidades situadas em diferentes unidades da Federação e cujo preço seja cobrado por períodos definidos, o imposto devido será recolhido em partes iguais para as unidades da Federação onde estiverem localizados o prestador e o tomador (). [cite: 58]"
+        },
+        {
+          "numero_paragrafo": "5º",
+          [cite_start]"texto": "Na hipótese da alínea ‘b’ do inciso V do caput deste artigo, quando a entrada física da mercadoria ou do bem ou o fim da prestação do serviço se der neste Estado, ainda que o adquirente ou o tomador esteja domiciliado ou estabelecido em outro Estado, o imposto correspondente à diferença entre a alíquota interna e a interestadual será devido a este Estado (MP nº 250/2022). [cite: 59]"
+        },
+        {
+          "numero_paragrafo": "6º",
+          [cite_start]"texto": "Na hipótese de serviço de transporte interestadual de passageiros cujo tomador não seja contribuinte do imposto (MP nº 250/2022): [cite: 60]",
+          "incisos": [
+            {
+              "numero_inciso": "I",
+              [cite_start]"texto": "o passageiro será considerado o consumidor final do serviço, e o fato gerador considerar-se-á ocorrido onde tenha início a prestação ou onde se encontre o transportador, quando em situação irregular pela falta de documentação fiscal ou quando acompanhada de documentação inidônea, conforme o caso, não se aplicando o disposto no inciso V do caput e no § 5º deste artigo; [cite: 60]"
+            },
+            {
+              "numero_inciso": "II",
+              [cite_start]"texto": "o destinatário da prestação de serviço considerar-se-á no local da ocorrência do fato gerador, e a prestação ficará sujeita à tributação pela alíquota interna. [cite: 61]"
+            }
+          ]
+        }
+      ],
+      "tags_semanticas": [
+        "Local da Operação",
+        "Local da Prestação",
+        "Recolhimento"
+      ],
+      "notas": [
+        [cite_start]"Vide Resolução Normativa . [cite: 45]"
+      ]
+    },
+    {
+      "id": "art_5",
+      "numero_artigo": "5º",
+      [cite_start]"texto_caput": "Estabelecimento é o local, privado ou público, edificado ou não, próprio ou de terceiro, onde pessoas físicas ou jurídicas exerçam suas atividades em caráter temporário ou permanente, bem como onde se encontrem armazenadas mercadorias. [cite: 62]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO I - DA INCIDÊNCIA",
+        "secao": "Seção IV - Do Estabelecimento"
+      },
+      "paragrafos": [
+        {
+          "numero_paragrafo": "1º",
+          [cite_start]"texto": "Na impossibilidade de determinação do estabelecimento, considera-se como tal o local em que tenha sido efetuada a operação ou prestação, encontrada a mercadoria ou constatada a prestação. [cite: 63]"
+        },
+        {
+          "numero_paragrafo": "2º",
+          [cite_start]"texto": "É autônomo cada estabelecimento do mesmo titular. [cite: 64]"
+        },
+        {
+          "numero_paragrafo": "3º",
+          [cite_start]"texto": "Considera-se também estabelecimento autônomo o veículo usado no comércio ambulante ou na captura de pescado. [cite: 64]"
+        },
+        {
+          "numero_paragrafo": "4º",
+          [cite_start]"texto": "Considera-se extensão do estabelecimento o veículo utilizado em vendas fora do estabelecimento. [cite: 65]"
+        },
+        {
+          "numero_paragrafo": "5º",
+          [cite_start]"texto": "Respondem pelo crédito tributário todos os estabelecimentos do mesmo titular. [cite: 66]"
+        }
+      ],
+      "tags_semanticas": [
+        "Estabelecimento",
+        "Conceito de Estabelecimento"
+      ]
+    },
+    {
+      "id": "art_6",
+      "numero_artigo": "6º",
+      [cite_start]"texto_caput": "O imposto não incide sobre: [cite: 67]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO II - DA NÃO-INCIDÊNCIA",
+        "secao": ""
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "operações com livros, jornais, periódicos e o papel destinado a sua impressão; [cite: 67]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "operações e prestações que destinem ao exterior mercadorias, inclusive produtos primários e produtos industrializados semi-elaborados, ou serviços; [cite: 68]"
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "operações interestaduais relativas à energia elétrica e petróleo, inclusive lubrificantes e combustíveis líquidos e gasosos dele derivados, quando destinados à industrialização ou à comercialização; [cite: 69]"
+        },
+        {
+          "numero_inciso": "IV",
+          [cite_start]"texto": "operações com ouro, quando definido em lei como ativo financeiro ou instrumento cambial; [cite: 70]"
+        },
+        {
+          "numero_inciso": "V",
+          [cite_start]"texto": "operações relativas a mercadorias que tenham sido ou que se destinem a ser utilizadas na prestação, pelo próprio autor da saída, de serviço de qualquer natureza definido em lei complementar como sujeito ao Imposto sobre Serviços de Qualquer Natureza, de competência dos Municípios, ressalvadas as hipóteses previstas na mesma lei complementar; [cite: 71]"
+        },
+        {
+          "numero_inciso": "VI",
+          [cite_start]"texto": "operações de qualquer natureza de que decorra a transferência de propriedade de estabelecimento industrial, comercial ou de outra espécie; [cite: 72]"
+        },
+        {
+          "numero_inciso": "VII",
+          [cite_start]"texto": "operações decorrentes de alienação fiduciária em garantia, inclusive a operação efetuada pelo credor em decorrência do inadimplemento do devedor; [cite: 73]"
+        },
+        {
+          "numero_inciso": "VIII",
+          [cite_start]"texto": "operações de arrendamento mercantil, não compreendida a venda do bem arrendado ao arrendatário; [cite: 74]"
+        },
+        {
+          "numero_inciso": "IX",
+          [cite_start]"texto": "operações de qualquer natureza de que decorra a transferência de bens móveis salvados de sinistro para companhias seguradoras. [cite: 75]"
+        },
+        {
+          "numero_inciso": "X",
+          [cite_start]"texto": "serviços de transmissão e distribuição e encargos setoriais vinculados às operações com energia elétrica (). [cite: 76]"
+        }
+      ],
+      "paragrafos": [
+        {
+          "numero_paragrafo": "1º",
+          [cite_start]"texto": "Equipara-se às operações de que trata o inciso II a saída de mercadoria realizada com o fim específico de exportação para o exterior, destinada a: [cite: 77]",
+          "incisos": [
+            {
+              "numero_inciso": "I",
+              [cite_start]"texto": "empresa comercial exportadora, inclusive “tradings”, ou outro estabelecimento da mesma empresa; [cite: 77]"
+            },
+            {
+              "numero_inciso": "II",
+              [cite_start]"texto": "armazém alfandegado ou entreposto aduaneiro. [cite: 78]"
+            }
+          ]
+        },
+        {
+          "numero_paragrafo": "2º",
+          [cite_start]"texto": "Entendem-se compreendidas na equiparação prevista no § 1º, além das saídas com destino a empresa comercial exportadora, inclusive “trading”, regulada pelo , as saídas com destino à empresa exportadora com o fim específico de exportação, hipótese em que atenderão ao disposto no , exceto quanto à exigência de indicação na Nota Fiscal do número de inscrição do exportador na Secretaria de Comércio Exterior - SECEX - do Ministério da Indústria, do Comércio e do Turismo, prevista no art. [cite: 79]"
+        }
+      ],
+      "tags_semanticas": [
+        "Não Incidência",
+        "Isenção",
+        "Exportação"
+      ],
+      "notas": [
+        [cite_start]"Vide Resolução Normativa . [cite: 72]"
+      ]
+    },
+    {
+      "id": "art_7",
+      "numero_artigo": "7º",
+      [cite_start]"texto_caput": "Contribuinte é qualquer pessoa, física ou jurídica, que realize, com habitualidade ou em volume que caracterize intuito comercial, operações de circulação de mercadorias ou prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior. [cite: 80]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO III - DO SUJEITO PASSIVO",
+        "secao": "Seção I - Do Contribuinte"
+      },
+      "paragrafos": [
+        {
+          "numero_paragrafo": "1º",
+          [cite_start]"texto": "É também contribuinte a pessoa física ou jurídica que, mesmo sem habitualidade ou intuito comercial (): [cite: 81]",
+          "incisos": [
+            {
+              "numero_inciso": "I",
+              [cite_start]"texto": "importe bens ou mercadorias do exterior qualquer que seja a sua finalidade (); [cite: 81]"
+            },
+            {
+              "numero_inciso": "II",
+              [cite_start]"texto": "seja destinatária de serviço prestado no exterior ou cuja prestação se tenha iniciado no exterior; [cite: 82]"
+            },
+            {
+              "numero_inciso": "III",
+              [cite_start]"texto": "adquira em licitação bens ou mercadorias apreendidos ou abandonados (); [cite: 83]"
+            },
+            {
+              "numero_inciso": "IV",
+              [cite_start]"texto": "adquira lubrificantes e combustíveis líquidos e gasosos derivados de petróleo e energia elétrica oriundos de outro Estado ou do Distrito Federal, quando não destinados à comercialização ou à industrialização (). [cite: 84]"
+            }
+          ]
+        },
+        {
+          "numero_paragrafo": "2º",
+          [cite_start]"texto": "É ainda contribuinte do imposto nas operações ou prestações interestaduais que destinem mercadorias, bens e serviços a consumidor final domiciliado ou estabelecido neste Estado, em relação à diferença entre a alíquota interna e a interestadual (MP nº 250/2022): [cite: 85]",
+          "incisos": [
+            {
+              "numero_inciso": "I",
+              [cite_start]"texto": "o destinatário da mercadoria, do bem ou do serviço, na hipótese de contribuinte do imposto; [cite: 85]"
+            },
+            {
+              "numero_inciso": "II",
+              [cite_start]"texto": "o remetente da mercadoria ou do bem ou o prestador de serviço, na hipótese de o destinatário não ser contribuinte do imposto. [cite: 86]"
+            }
+          ]
+        }
+      ],
+      "tags_semanticas": [
+        "Sujeito Passivo",
+        "Contribuinte"
+      ]
+    },
+    {
+      "id": "art_8",
+      "numero_artigo": "8º",
+      [cite_start]"texto_caput": "São responsáveis pelo pagamento do imposto devido e acréscimos legais: [cite: 87]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO III - DO SUJEITO PASSIVO",
+        "secao": "Seção II - Do Responsável"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "os armazéns gerais e os depositários a qualquer título: [cite: 87]",
+          "alineas": [
+            {
+              "letra_alinea": "a",
+              [cite_start]"texto": "nas saídas ou transmissões de propriedade de mercadorias depositadas por contribuintes de outro Estado ou do Distrito Federal; [cite: 87]"
+            },
+            {
+              "letra_alinea": "b",
+              [cite_start]"texto": "quando receberem para depósito ou derem saída a mercadorias não acompanhadas de documentação fiscal idônea; [cite: 88]"
+            }
+          ]
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "os transportadores: [cite: 89]",
+          "alineas": [
+            {
+              "letra_alinea": "a",
+              [cite_start]"texto": "em relação às mercadorias que estiverem transportando sem documento fiscal ou com via diversa da exigida para acompanhar o transporte, nos termos da legislação aplicável; [cite: 89]"
+            },
+            {
+              "letra_alinea": "b",
+              [cite_start]"texto": "em relação às mercadorias que faltarem ou excederem às quantidades descritas no documento fiscal, quando a comprovação for possível sem a violação dos volumes transportados; [cite: 90]"
+            },
+            {
+              "letra_alinea": "c",
+              [cite_start]"texto": "em relação às mercadorias que forem entregues a destinatário diverso do indicado no documento fiscal; [cite: 91]"
+            },
+            {
+              "letra_alinea": "d",
+              [cite_start]"texto": "em relação às mercadorias provenientes de outro Estado ou do Distrito Federal para entrega a destinatário incerto em território catarinense; [cite: 92]"
+            },
+            {
+              "letra_alinea": "e",
+              [cite_start]"texto": "em relação às mercadorias que forem negociadas em território catarinense durante o transporte; [cite: 93]"
+            },
+            {
+              "letra_alinea": "f",
+              [cite_start]"texto": "em relação às mercadorias procedentes de outro Estado ou do Distrito Federal sem o comprovante de pagamento do imposto, quando este for devido por ocasião do ingresso da mercadoria em território catarinense; [cite: 94]"
+            },
+            {
+              "letra_alinea": "g",
+              [cite_start]"texto": "em relação ao transporte de mercadoria diversa da descrita no documento fiscal, quando a comprovação for possível sem a violação dos volumes transportados ou quando a identificação da mercadoria independa de classificação; [cite: 95]"
+            },
+            {
+              "letra_alinea": "h",
+              [cite_start]"texto": "em relação às mercadorias transportadas antes do início ou após o término do prazo de validade ou de emissão, para fins de transporte, do documento fiscal; [cite: 96]"
+            }
+          ]
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "solidariamente com o contribuinte: [cite: 97]",
+          "alineas": [
+            {
+              "letra_alinea": "a",
+              [cite_start]"texto": "os despachantes aduaneiros que tenham promovido o despacho de mercadorias estrangeiras saídas da repartição aduaneira com destino a estabelecimento diverso daquele que a tiver importado ou arrematado; [cite: 97]"
+            },
+            {
+              "letra_alinea": "b",
+              [cite_start]"texto": "os encarregados pelos estabelecimentos dos órgãos da administração pública, entidades da administração indireta e as fundações instituídas e mantidas pelo poder público que autorizarem a saída ou alienação de mercadorias ou a prestação de serviços de transporte ou de comunicação; [cite: 98]"
+            },
+            {
+              "letra_alinea": "c",
+              [cite_start]"texto": "as pessoas cujos atos ou omissões concorrerem para o não recolhimento do tributo ou para o descumprimento de obrigações tributárias acessórias; [cite: 99]"
+            },
+            {
+              "letra_alinea": "d",
+              [cite_start]"texto": "os organizadores de feiras, feirões, exposições ou eventos congêneres, quanto ao crédito tributário decorrente de operações ou prestações realizadas durante tais eventos; [cite: 100]"
+            },
+            {
+              "letra_alinea": "e",
+              [cite_start]"texto": "quem fornecer ou instalar “software” ou dispositivo que possa alterar o valor das operações registradas em sistema de processamento de dados de modo a suprimir ou reduzir tributo (); [cite: 101]"
+            },
+            {
+              "letra_alinea": "f",
+              [cite_start]"texto": "o depositário estabelecido em recinto alfandegado ou o encarregado pela repartição aduaneira quando o recinto alfandegado for por ela administrado, que promova a entrega de mercadoria ou bem importados do exterior sem a prévia verificação do recolhimento ou da exoneração do imposto, na forma prevista no Capítulo XXIX do Título II do Anexo 6 (Lei nº 17.427/17, art. 21); [cite: 102]"
+            }
+          ]
+        },
+        {
+          "numero_inciso": "IV",
+          [cite_start]"texto": "os representantes e mandatários, em relação às operações ou prestações realizadas por seu intermédio; [cite: 103]"
+        },
+        {
+          "numero_inciso": "V",
+          [cite_start]"texto": "qualquer contribuinte, quanto ao imposto devido em operação ou prestação anterior promovida por pessoa não inscrita ou por produtor rural ou pescador artesanal regularmente inscritos no registro sumário de produtor (); [cite: 104]"
+        },
+        {
+          "numero_inciso": "VI",
+          [cite_start]"texto": "qualquer possuidor, em relação às mercadorias cuja posse mantiver para fins de comercialização ou industrialização, desacompanhadas de documentação fiscal idônea; [cite: 105]"
+        },
+        {
+          "numero_inciso": "VII",
+          [cite_start]"texto": "o leiloeiro, em relação às mercadorias que vender por conta alheia; [cite: 106]"
+        },
+        {
+          "numero_inciso": "VIII",
+          [cite_start]"texto": "o substituto tributário. [cite: 106]"
+        }
+      ],
+      "tags_semanticas": [
+        "Sujeito Passivo",
+        "Responsável Tributário",
+        "Solidariedade"
+      ]
+    },
+    {
+      "id": "art_9",
+      "numero_artigo": "9º",
+      [cite_start]"texto_caput": "A base de cálculo do imposto nas operações com mercadorias é: [cite: 570]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO IV - DO CÁLCULO DO IMPOSTO",
+        "secao": "Seção I - Da Base de Cálculo",
+        "subsecao": "Subseção I - Da Base de Cálculo nas Operações com Mercadorias"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "na saída de mercadoria prevista no , I, III e IV, o valor da operação; [cite: 570]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "na hipótese do , II, o valor da operação, compreendendo mercadoria e serviço; [cite: 571]"
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "no fornecimento de que trata o : [cite: 572]",
+          "alineas": [
+            {
+              "letra_alinea": "a",
+              [cite_start]"texto": "o valor da operação, na hipótese da alínea “a”; [cite: 572]"
+            },
+            {
+              "letra_alinea": "b",
+              [cite_start]"texto": "o preço corrente da mercadoria fornecida ou empregada, na hipótese da alínea “b”; [cite: 573]"
+            }
+          ]
+        },
+        {
+          "numero_inciso": "IV",
+          [cite_start]"texto": "na hipótese do , a soma das seguintes parcelas: [cite: 574]",
+          "alineas": [
+            {
+              "letra_alinea": "a",
+              [cite_start]"texto": "o valor da mercadoria ou bem constante dos documentos de importação; [cite: 575]"
+            },
+            {
+              "letra_alinea": "b",
+              [cite_start]"texto": "o imposto de importação; [cite: 575]"
+            },
+            {
+              "letra_alinea": "c",
+              [cite_start]"texto": "o imposto sobre produtos industrializados; [cite: 576]"
+            },
+            {
+              "letra_alinea": "d",
+              [cite_start]"texto": "o imposto sobre operações de câmbio; [cite: 576]"
+            },
+            {
+              "letra_alinea": "e",
+              [cite_start]"texto": "quaisquer outros impostos, taxas, contribuições e despesas devidas às repartições alfandegárias (); [cite: 577]"
+            },
+            {
+              "letra_alinea": "f",
+              [cite_start]"texto": "o montante do próprio imposto (). [cite: 577]"
+            }
+          ]
+        },
+        {
+          "numero_inciso": "V",
+          [cite_start]"texto": "no caso do , o valor da operação acrescido dos impostos de importação e sobre produtos industrializados e de todas as despesas cobradas ou debitadas ao adquirente; [cite: 578]"
+        },
+        {
+          "numero_inciso": "VI",
+          [cite_start]"texto": "na hipótese do , o valor da operação de que decorrer a entrada; [cite: 579]"
+        },
+        {
+          "numero_inciso": "VII",
+          [cite_start]"texto": "na hipótese do do caput do art. [cite: 580]"
+        },
+        {
+          "numero_inciso": "VIII",
+          [cite_start]"texto": "no caso do imposto devido antecipadamente por vendedor ambulante ou por ocasião da entrada no Estado de mercadoria destinada a contribuinte com inscrição temporária, sem inscrição ou sem destinatário certo, o valor da mercadoria acrescido de margem de lucro definida em . [cite: 582]"
+        },
+        {
+          "numero_inciso": "IX",
+          [cite_start]"texto": "na hipótese do inciso XV do caput do art. [cite: 583]"
+        }
+      ],
+      "paragrafos": [
+        {
+          "numero_paragrafo": "1º",
+          [cite_start]"texto": "No caso do inciso IV, “a”, o preço de importação, expresso em moeda estrangeira, será convertido em moeda nacional pela mesma taxa de câmbio utilizada no cálculo do imposto de importação, sem qualquer acréscimo ou devolução posterior se houver variação da taxa de câmbio até o pagamento efetivo do preço. [cite: 585]"
+        },
+        {
+          "numero_paragrafo": "2º",
+          [cite_start]"texto": "Na hipótese a que se refere o § 1º, se for o caso, o preço declarado será substituído pelo valor fixado pela autoridade aduaneira para base de cálculo do imposto de importação, nos termos da lei aplicável. [cite: 586]"
+        },
+        {
+          "numero_paragrafo": "3º",
+          [cite_start]"texto": "No caso do inciso VII do caput deste artigo, o imposto a recolher a este Estado será o valor correspondente à diferença entre a alíquota interna e a interestadual, observado o disposto no § 7º deste artigo. [cite: 587]"
+        },
+        {
+          "numero_paragrafo": "4º",
+          "texto": "Na hipótese do inciso XV do art. [cite_start]3º, o remetente do bem ou mercadoria: [cite: 588]",
+          "incisos": [
+            {
+              "numero_inciso": "I",
+              [cite_start]"texto": "utilizará a alíquota interna prevista neste Estado para calcular o ICMS total devido na operação; [cite: 588]"
+            },
+            {
+              "numero_inciso": "II",
+              [cite_start]"texto": "utilizará a alíquota interestadual prevista para a operação, para o cálculo do imposto devido à unidade federada de origem; [cite: 589]"
+            },
+            {
+              "numero_inciso": "III",
+              [cite_start]"texto": "recolherá para este Estado o imposto correspondente à diferença entre o imposto calculado na forma do inciso I e o calculado na forma do inciso II deste parágrafo. [cite: 590]"
+            }
+          ]
+        },
+        {
+          "numero_paragrafo": "5º",
+          [cite_start]"texto": "Nas saídas interestaduais de bens e mercadorias com destino a consumidor final não contribuinte do imposto, localizado em outra Unidade da Federação, o cálculo do valor correspondente à diferença entre a alíquota interna da Unidade da Federação de destino e a alíquota interestadual observará a legislação da unidade federada de destino. [cite: 591]"
+        },
+        {
+          "numero_paragrafo": "6º",
+          [cite_start]"texto": "Nos casos previstos nos §§ 4º e 5º deste artigo, o imposto devido a este Estado será calculado por meio da aplicação das fórmulas “ICMS origem = BC x ALQ inter” e “ICMS destino = [BC x ALQ intra] - ICMS origem”, em que: [cite: 592]",
+          "incisos": [
+            {
+              "numero_inciso": "I",
+              [cite_start]"texto": "“BC” é a base de cálculo do imposto, que é única e corresponde ao valor da operação, observado o disposto no art. [cite: 592]"
+            },
+            {
+              "numero_inciso": "II",
+              [cite_start]"texto": "“ALQ inter” é alíquota interestadual aplicável à operação; [cite: 593]"
+            },
+            {
+              "numero_inciso": "III",
+              [cite_start]"texto": "“ALQ intra” é a alíquota interna aplicável à operação no Estado de destino. [cite: 594]"
+            }
+          ]
+        },
+        {
+          "numero_paragrafo": "7º",
+          [cite_start]"texto": "A base de cálculo, para efeitos do inciso VII do caput deste artigo, será calculada por meio da aplicação da fórmula “BC = V oper/ (1 - ALQ intra)”, onde: [cite: 595]",
+          "incisos": [
+            {
+              "numero_inciso": "I",
+              [cite_start]"texto": "“V oper” é o valor da operação interestadual a que se refere o do caput do art. [cite: 595]"
+            },
+            {
+              "numero_inciso": "II",
+              [cite_start]"texto": "“ALQ intra” é a alíquota prevista para a operação interna. [cite: 596]"
+            }
+          ]
+        }
+      ],
+      "tags_semanticas": [
+        "Cálculo do Imposto",
+        "Base de Cálculo",
+        "Operações com Mercadorias"
+      ],
+      "notas": [
+        [cite_start]"Vide Resoluções Normativas e . [cite: 574]"
+      ]
+    },
+    {
+      "id": "art_10",
+      "numero_artigo": "10",
+      [cite_start]"texto_caput": "Na saída de mercadoria para estabelecimento localizado em outro Estado ou no Distrito Federal, pertencente ao mesmo titular, a base de cálculo do imposto é: [cite: 597]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO IV - DO CÁLCULO DO IMPOSTO",
+        "secao": "Seção I - Da Base de Cálculo",
+        "subsecao": "Subseção I - Da Base de Cálculo nas Operações com Mercadorias"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "o valor correspondente à entrada mais recente da mercadoria; [cite: 597]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "o custo da mercadoria produzida, assim entendida a soma do custo da matéria-prima, material secundário, mão-de-obra e acondicionamento; [cite: 598]"
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "tratando-se de mercadorias não industrializadas, o seu preço corrente no mercado atacadista do estabelecimento remetente. [cite: 599]"
+        }
+      ],
+      "paragrafos": [
+        {
+          "numero_paragrafo": "1º",
+          [cite_start]"texto": "Na hipótese do inciso I do caput deste artigo, serão acrescidos ao valor da entrada mais recente da mercadoria os custos incorridos até o estabelecimento, tais como frete, seguro e demais despesas de aquisição, bem como outros custos incorridos no local de armazenamento, logística e distribuição. [cite: 600]"
+        },
+        {
+          "numero_paragrafo": "2º",
+          [cite_start]"texto": "Nas hipóteses dos incisos II e III do caput deste artigo, fica facultada a utilização do valor fixado em pauta fiscal. [cite: 601]"
+        }
+      ],
+      "tags_semanticas": [
+        "Base de Cálculo",
+        "Transferência Interestadual"
+      ]
+    },
+    {
+      "id": "art_11",
+      "numero_artigo": "11",
+      [cite_start]"texto_caput": "Na falta do valor a que se refere o , I e VI, a base de cálculo do imposto é: [cite: 619]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO IV - DO CÁLCULO DO IMPOSTO",
+        "secao": "Seção I - Da Base de Cálculo",
+        "subsecao": "Subseção I - Da Base de Cálculo nas Operações com Mercadorias"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "o preço corrente da mercadoria, ou de seu similar, no mercado atacadista do local da operação ou, na sua falta, no mercado atacadista regional, caso o remetente seja produtor, extrator ou gerador, inclusive de energia elétrica; [cite: 619]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "o preço FOB estabelecimento industrial à vista, caso o remetente seja industrial; [cite: 620]"
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "o preço FOB estabelecimento comercial à vista, na venda a outros comerciantes ou industriais, caso o remetente seja comerciante. [cite: 621]"
+        }
+      ],
+      "paragrafos": [
+        {
+          "numero_paragrafo": "1º",
+          [cite_start]"texto": "Para aplicação dos incisos II e III, adotar-se-á: [cite: 622]",
+          "incisos": [
+            {
+              "numero_inciso": "I",
+              [cite_start]"texto": "o preço efetivamente cobrado pelo remetente na operação mais recente; [cite: 622]"
+            },
+            {
+              "numero_inciso": "II",
+              [cite_start]"texto": "caso o remetente não tenha efetuado venda de mercadoria, o preço corrente da mercadoria ou de seu similar no mercado atacadista do local da operação ou, na falta deste, no mercado atacadista regional. [cite: 623]"
+            }
+          ]
+        },
+        {
+          "numero_paragrafo": "2º",
+          [cite_start]"texto": "Na hipótese do inciso III, caso o estabelecimento remetente não efetue vendas a outros comerciantes ou industriais ou, em qualquer caso, se não houver mercadoria similar, a base de cálculo será equivalente a 75% (setenta e cinco por cento) do preço de venda corrente no varejo. [cite: 624]"
+        }
+      ],
+      "tags_semanticas": [
+        "Base de Cálculo",
+        "Valor da Operação"
+      ]
+    },
+    {
+      "id": "art_12",
+      "numero_artigo": "12",
+      [cite_start]"texto_caput": "A base de cálculo do imposto nas prestações de serviço de transporte interestadual e intermunicipal e de comunicação é o preço do serviço. [cite: 625]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO IV - DO CÁLCULO DO IMPOSTO",
+        "secao": "Seção I - Da Base de Cálculo",
+        "subsecao": "Subseção II - Da Base de Cálculo nas Prestações de Serviços"
+      },
+      "paragrafos": [
+        {
+          "numero_paragrafo": "1º",
+          [cite_start]"texto": "Na hipótese do , o valor da prestação será acrescido, se for o caso, de todos os encargos relacionados com a sua utilização. [cite: 626]"
+        },
+        {
+          "numero_paragrafo": "2º",
+          [cite_start]"texto": "Na hipótese do do caput do art. [cite: 627]"
+        },
+        {
+          "numero_paragrafo": "3º",
+          [cite_start]"texto": "Na hipótese do inciso XVI do art. [cite: 633]",
+          "incisos": [
+            {
+              "numero_inciso": "I",
+              [cite_start]"texto": "utilizará a alíquota interna prevista neste Estado para calcular o ICMS total devido na prestação; [cite: 634]"
+            },
+            {
+              "numero_inciso": "II",
+              [cite_start]"texto": "utilizará a alíquota interestadual prevista para a prestação, para o cálculo do imposto devido à unidade federada de origem; [cite: 635]"
+            },
+            {
+              "numero_inciso": "III",
+              [cite_start]"texto": "recolherá para este Estado o imposto correspondente à diferença entre o imposto calculado na forma do inciso I e o calculado na forma doinciso II deste parágrafo. [cite: 636]"
+            }
+          ]
+        },
+        {
+          "numero_paragrafo": "4º",
+          [cite_start]"texto": "O recolhimento de que trata o inciso III do § 3º deste artigo não se aplica quando o transporte for efetuado pelo próprio remetente ou por sua conta e ordem (cláusula CIF – Cost, Insurance and Freight). [cite: 637]"
+        },
+        {
+          "numero_paragrafo": "5º",
+          [cite_start]"texto": "Nas prestações com destino a consumidor final não contribuinte do imposto, localizado em outra Unidade da Federação, o cálculo do valor correspondente à diferença entre a alíquota interna da Unidade da Federação de destino e a alíquota interestadual observará a legislação da unidade federada de destino. [cite: 638]"
+        },
+        {
+          "numero_paragrafo": "6º",
+          [cite_start]"texto": "Nos casos previstos nos §§ 3º e 5º deste artigo, o imposto devido a este Estado será calculado por meio da aplicação das fórmulas “ICMS origem = BC x ALQ inter” e “ICMS destino = [BC x ALQ intra] - ICMS origem”, em que: [cite: 639]",
+          "incisos": [
+            {
+              "numero_inciso": "I",
+              [cite_start]"texto": "“BC” é a base de cálculo do imposto, que é única e corresponde àquela prevista no caput deste artigo, observado o disposto no ; [cite: 639]"
+            },
+            {
+              "numero_inciso": "II",
+              [cite_start]"texto": "“ALQ inter” é alíquota interestadual aplicável à prestação; [cite: 640]"
+            },
+            {
+              "numero_inciso": "III",
+              [cite_start]"texto": "“ALQ intra” é a alíquota interna aplicável à prestação no Estado de destino [cite: 641]"
+            }
+          ]
+        }
+      ],
+      "tags_semanticas": [
+        "Base de Cálculo",
+        "Serviços de Transporte",
+        "Serviços de Comunicação"
+      ],
+      "notas": [
+        [cite_start]"Vide Resoluções Normativas . [cite: 626]"
+      ]
+    },
+    {
+      "id": "art_26",
+      "numero_artigo": "26",
+      [cite_start]"texto_caput": "As alíquotas do imposto, nas operações e prestações internas, inclusive na entrada de mercadoria importada e nos casos de serviços iniciados ou prestados no exterior, são: [cite: 680]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO IV - DO CÁLCULO DO IMPOSTO",
+        "secao": "Seção II - Das Alíquotas"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "17% (dezessete por cento), salvo quanto às mercadorias e serviços relacionados nos incisos II, III e IV; [cite: 680]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "25% (vinte e cinco por cento) nos seguintes casos: [cite: 681]",
+          "alineas": [
+            {
+              "letra_alinea": "a",
+              [cite_start]"texto": "REVOGADA; [cite: 681]"
+            },
+            {
+              "letra_alinea": "b",
+              [cite_start]"texto": "operações com os produtos supérfluos relacionados no ; [cite: 682]"
+            },
+            {
+              "letra_alinea": "c",
+              [cite_start]"texto": "REVOGADA; [cite: 682]"
+            },
+            {
+              "letra_alinea": "d",
+              [cite_start]"texto": "REVOGADA; [cite: 682]"
+            }
+          ]
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "12% (doze por cento) nos seguintes casos: [cite: 683]",
+          "alineas": [
+            {
+              "letra_alinea": "a",
+              [cite_start]"texto": "operações com energia elétrica de consumo domiciliar, até os primeiros 150 Kw (cento e cinquenta quilowatts); [cite: 683]"
+            },
+            {
+              "letra_alinea": "b",
+              [cite_start]"texto": "operações com energia elétrica destinada a produtor rural e cooperativas rurais redistribuidoras, na parte que não exceder a 500 Kw (quinhentos quilowatts) mensais por produtor rural; [cite: 684]"
+            },
+            {
+              "letra_alinea": "c",
+              [cite_start]"texto": "prestações de serviço de transporte rodoviário, ferroviário e aquaviário de passageiros; [cite: 685]"
+            },
+            {
+              "letra_alinea": "d",
+              [cite_start]"texto": "mercadorias de consumo popular, relacionadas no ; [cite: 685]"
+            },
+            {
+              "letra_alinea": "e",
+              [cite_start]"texto": "produtos primários, em estado natural, relacionados no ; [cite: 686]"
+            },
+            {
+              "letra_alinea": "f",
+              [cite_start]"texto": "veículos automotores, relacionados no ; [cite: 686]"
+            },
+            {
+              "letra_alinea": "g",
+              [cite_start]"texto": "óleo diesel; [cite: 686]"
+            },
+            {
+              "letra_alinea": "h",
+              [cite_start]"texto": "coque de carvão mineral. [cite: 687]"
+            },
+            {
+              "letra_alinea": "i",
+              [cite_start]"texto": "pias, lavatórios, colunas para lavatórios, banheiros, bidês, sanitários e caixas de descarga, mictórios e aparelhos fixos semelhantes para uso sanitário, de porcelana ou cerâmica, 6910.10.00 e 6910.90.00 (); [cite: 687]"
+            },
+            {
+              "letra_alinea": "j",
+              [cite_start]"texto": "ladrilhos e placas de cerâmica, exclusivamente para pavimentação ou revestimento, classificados segundo a Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado – NBM/SH nas posições 6907 e 6908 (); [cite: 688]"
+            },
+            {
+              "letra_alinea": "l",
+              [cite_start]"texto": "blocos de concreto, telhas e lajes planas pré-fabricadas, painéis de lajes, pré-lajes e pré-moldados, classificados, segundo a Nomenclatura Comum do Mercosul (NCM), respectivamente, nos códigos 6810.11.00, 6810.19.00, 6810.91.00 e 6810.99.00 (); [cite: 689]"
+            },
+            {
+              "letra_alinea": "m",
+              [cite_start]"texto": "mercadorias integrantes da cesta básica da construção civil, relacionadas no (); [cite: 690]"
+            },
+            {
+              "letra_alinea": "n",
+              [cite_start]"texto": "mercadorias destinadas a contribuinte do imposto; [cite: 690]"
+            },
+            {
+              "letra_alinea": "o",
+              [cite_start]"texto": "fornecimento de alimentação em bares, restaurantes e estabelecimentos similares. [cite: 691]"
+            }
+          ]
+        },
+        {
+          "numero_inciso": "IV",
+          [cite_start]"texto": "7% (sete por cento) nas prestações de serviços de comunicação destinadas a empreendimentos enquadrados no Programa de Fomento às Empresas Prestadoras de Serviço de “Telemarketing”. [cite: 692]"
+        }
+      ],
+      "tags_semanticas": [
+        "Alíquotas",
+        "Alíquota Interna",
+        "Produtos Supérfluos",
+        "Cesta Básica"
+      ]
+    },
+    {
+      "id": "art_27",
+      "numero_artigo": "27",
+      [cite_start]"texto_caput": "Nas operações e prestações interestaduais, as alíquotas do imposto são: [cite: 709]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO IV - DO CÁLCULO DO IMPOSTO",
+        "secao": "Seção II - Das Alíquotas"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "12 (doze por cento), nas operações ou prestações que destinarem mercadorias, bens ou serviços a pessoa localizada nos Estados de Minas Gerais, Paraná, Rio de Janeiro, Rio Grande do Sul e São Paulo; [cite: 709]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "7% (sete por cento), nas operações ou prestações que destinarem mercadorias, bens ou serviços a pessoa localizada nos demais Estados e no Distrito Federal; [cite: 710]"
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "4% (quatro por cento) na prestação de serviço de transporte aéreo de passageiros, carga e mala postal (). [cite: 711]"
+        },
+        {
+          "numero_inciso": "IV",
+          [cite_start]"texto": "4% (quatro por cento), nas operações que destinarem a pessoa localizada em outro Estado ou no Distrito Federal mercadorias ou bens importados do exterior que, após seu desembaraço aduaneiro: [cite: 712]",
+          "alineas": [
+            {
+              "letra_alinea": "a",
+              [cite_start]"texto": "não tenham sido submetidos a processo de industrialização; [cite: 712]"
+            },
+            {
+              "letra_alinea": "b",
+              [cite_start]"texto": "ainda que, submetidos a qualquer processo de transformação, beneficiamento, montagem, acondicionamento, reacondicionamento, renovação ou recondicionamento, resultem em mercadorias ou bens com conteúdo de importação superior a 40% (quarenta por cento), observado o disposto no Capítulo LXII do Título II do Anexo 6. [cite: 713]"
+            }
+          ]
+        }
+      ],
+      "tags_semanticas": [
+        "Alíquotas",
+        "Alíquota Interestadual",
+        "Guerra Fiscal",
+        "Conteúdo de Importação"
+      ]
+    },
+    {
+      "id": "art_28",
+      "numero_artigo": "28",
+      [cite_start]"texto_caput": "O imposto é não-cumulativo, compensando-se o que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços de transporte interestadual e intermunicipal e de comunicação com o montante cobrado nas anteriores por este ou por outro Estado ou pelo Distrito Federal. [cite: 717]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO V - DA NÃO-CUMULATIVIDADE DO IMPOSTO",
+        "secao": "Seção I - Da Compensação do Imposto"
+      },
+      "tags_semanticas": [
+        "Não Cumulativo",
+        "Compensação do Imposto",
+        "Crédito Fiscal"
+      ],
+      "notas": [
+        [cite_start]"Vide Resoluções Normativas . [cite: 718]"
+      ]
+    },
+    {
+      "id": "art_29",
+      "numero_artigo": "29",
+      [cite_start]"texto_caput": "Para a compensação a que se refere o art. [cite: 719]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO V - DA NÃO-CUMULATIVIDADE DO IMPOSTO",
+        "secao": "Seção II - Do Crédito"
+      },
+      "tags_semanticas": [
+        "Crédito",
+        "Direito ao Crédito"
+      ],
+      "notas": [
+        [cite_start]"Vide Resolução Normativa , , , e . [cite: 720]"
+      ]
+    },
+    {
+      "id": "art_34",
+      "numero_artigo": "34",
+      [cite_start]"texto_caput": "Não dão direito a crédito as entradas de mercadorias ou utilização de serviços: [cite: 745]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO V - DA NÃO-CUMULATIVIDADE DO IMPOSTO",
+        "secao": "Seção III - Da Vedação ao Crédito"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "resultantes de operações ou prestações isentas ou não tributadas; [cite: 745]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "com imposto retido na origem em regime de substituição tributária, ressalvadas as hipóteses previstas no do Anexo 3. [cite: 746]"
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "que se refiram a mercadorias ou serviços alheios à atividade do estabelecimento; [cite: 746]"
+        },
+        {
+          "numero_inciso": "IV",
+          [cite_start]"texto": "aplicados em atividades sujeitas ao imposto sobre serviços, de competência municipal; [cite: 747]"
+        },
+        {
+          "numero_inciso": "V",
+          [cite_start]"texto": "aplicados na prestação de serviço de transporte iniciado em outro Estado; [cite: 748]"
+        },
+        {
+          "numero_inciso": "VI",
+          [cite_start]"texto": "quando o documento fiscal, relativo a operação ou prestação sujeita ao pagamento do imposto por ocasião do fato gerador, vier desacompanhado do respectivo documento de arrecadação. [cite: 749]"
+        }
+      ],
+      "tags_semanticas": [
+        "Vedação ao Crédito"
+      ]
+    },
+    {
+      "id": "art_36",
+      "numero_artigo": "36",
+      [cite_start]"texto_caput": "O sujeito passivo deverá efetuar o estorno do imposto de que se tiver creditado, sempre que o serviço tomado ou a mercadoria entrada no estabelecimento: [cite: 755]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO V - DA NÃO-CUMULATIVIDADE DO IMPOSTO",
+        "secao": "Seção IV - Do Estorno de Crédito"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "for objeto de saída ou prestação de serviço isenta ou não tributada, sendo esta circunstância imprevisível na data da entrada da mercadoria ou da utilização do serviço; [cite: 755]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "for integrada ou consumida em processo de industrialização, quando a saída do produto resultante for isenta ou não tributada, sendo esta circunstância imprevisível por ocasião da sua entrada; [cite: 756]"
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "vier a ser utilizada em fim alheio à atividade do estabelecimento; [cite: 757]"
+        },
+        {
+          "numero_inciso": "IV",
+          [cite_start]"texto": "vier a perecer, deteriorar-se ou extraviar-se. [cite: 758]"
+        }
+      ],
+      "tags_semanticas": [
+        "Estorno de Crédito"
+      ]
+    },
+    {
+      "id": "art_37",
+      "numero_artigo": "37",
+      [cite_start]"texto_caput": "Os créditos decorrentes de operações de que decorra entrada de mercadorias destinadas ao ativo permanente, para efeito da compensação prevista nos arts. [cite: 763]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO V - DA NÃO-CUMULATIVIDADE DO IMPOSTO",
+        "secao": "Seção V - Do Controle do Crédito do Ativo Permanente"
+      },
+      "tags_semanticas": [
+        "Crédito do Ativo Permanente",
+        "CIAP"
+      ]
+    },
+    {
+      "id": "art_40",
+      "numero_artigo": "40",
+      [cite_start]"texto_caput": "Consideram-se acumulados os saldos credores decorrentes de manutenção expressamente autorizada de créditos fiscais relativos a operações ou prestações subseqüentes isentas ou não tributadas. [cite: 784]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO VI - DA TRANSFERÊNCIA E COMPENSAÇÃO DE CRÉDITOS ACUMULADOS",
+        "secao": "Seção I - Créditos Acumulados"
+      },
+      "tags_semanticas": [
+        "Créditos Acumulados",
+        "Transferência de Créditos"
+      ]
+    },
+    {
+      "id": "art_41",
+      "numero_artigo": "41",
+      [cite_start]"texto_caput": "Operações tributadas posteriores às saídas de produtos agropecuários isentos ou não tributados, dão ao estabelecimento que as praticar o direito de creditar-se do imposto cobrado nas operações anteriores. [cite: 814]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO VI - DA TRANSFERÊNCIA E COMPENSAÇÃO DE CRÉDITOS ACUMULADOS",
+        "secao": "Seção II - Créditos de Produtos Agropecuários"
+      },
+      "tags_semanticas": [
+        "Créditos de Produtos Agropecuários"
+      ]
+    },
+    {
+      "id": "art_53",
+      "numero_artigo": "53",
+      [cite_start]"texto_caput": "O imposto a recolher será apurado mensalmente, pelo confronto entre os débitos e os créditos escriturados durante o mês, em cada estabelecimento do sujeito passivo. [cite: 280]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO VII - DA APURAÇÃO DO IMPOSTO",
+        "secao": "Seção I - Da Apuração"
+      },
+      "tags_semanticas": [
+        "Apuração do Imposto",
+        "Débitos e Créditos"
+      ]
+    },
+    {
+      "id": "art_54",
+      "numero_artigo": "54",
+      [cite_start]"texto_caput": "Fica facultado ao sujeito passivo apurar o imposto a recolher levando em conta o conjunto de todos os seus estabelecimentos situados em território catarinense, mediante comunicação efetuada por meio da página oficial da Secretaria de Estado da Fazenda na internet, produzindo efeitos a partir do primeiro dia do mês seguinte ao da comunicação. [cite: 323]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO VII - DA APURAÇÃO DO IMPOSTO",
+        "secao": "Seção II - Da Apuração Consolidada"
+      },
+      "tags_semanticas": [
+        "Apuração Consolidada"
+      ]
+    },
+    {
+      "id": "art_57",
+      "numero_artigo": "57",
+      [cite_start]"texto_caput": "A critério da administração fazendária, o imposto poderá ser calculado e recolhido mensalmente por estimativa de duração semestral, assegurado ao sujeito passivo o direito de impugná-la e instaurar processo contraditório. [cite: 353]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO VII - DA APURAÇÃO DO IMPOSTO",
+        "secao": "Seção III - Da Estimativa Fiscal"
+      },
+      "tags_semanticas": [
+        "Estimativa Fiscal"
+      ]
+    },
+    {
+      "id": "art_58",
+      "numero_artigo": "58",
+      [cite_start]"texto_caput": "A obrigação tributária considera-se vencida no último dia do período de apuração e será liquidada por compensação ou mediante pagamento em dinheiro, observando-se o seguinte: [cite: 355]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO VIII - DA LIQUIDAÇÃO DO IMPOSTO",
+        "secao": "Seção I - Da Liquidação"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "a obrigação considera-se liquidada por compensação até o montante dos créditos escriturados no mesmo período acrescido do saldo credor de período ou períodos anteriores, se for o caso; [cite: 355]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "se o montante dos débitos do período superar o dos créditos, a diferença será liquidada nos prazos previstos no ; [cite: 356]"
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "se o montante dos créditos superar o dos débitos, a diferença será transportada para o período seguinte. [cite: 357]"
+        }
+      ],
+      "tags_semanticas": [
+        "Liquidação do Imposto"
+      ]
+    },
+    {
+      "id": "art_59",
+      "numero_artigo": "59",
+      [cite_start]"texto_caput": "O imposto será recolhido: [cite: 358]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO VIII - DA LIQUIDAÇÃO DO IMPOSTO",
+        "secao": "Seção II - Local e Forma de Pagamento"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "em qualquer agência bancária integrante da rede autorizada, por meio de Documento de Arrecadação de Receitas Estaduais - DARE-SC; [cite: 358]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "por contribuintes estabelecidos em outros Estados, nos casos previstos neste Regulamento, nas agências bancárias integrantes da rede autorizada, através de Guia Nacional de Recolhimento de Tributos Estaduais - GNRE, modelo 23 ou DARE-SC; [cite: 359]"
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "em casos excepcionais, nas repartições fazendárias. [cite: 360]"
+        }
+      ],
+      "tags_semanticas": [
+        "Local de Pagamento",
+        "Forma de Pagamento"
+      ]
+    },
+    {
+      "id": "art_60",
+      "numero_artigo": "60",
+      [cite_start]"texto_caput": "O imposto será recolhido até o 10° (décimo) dia após o encerramento do período de apuração, ressalvadas as hipóteses previstas nesta Seção. [cite: 362]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO IX - DO RECOLHIMENTO DO IMPOSTO",
+        "secao": "Seção I - Dos Prazos de Recolhimento"
+      },
+      "tags_semanticas": [
+        "Recolhimento do Imposto",
+        "Prazos de Recolhimento"
+      ]
+    },
+    {
+      "id": "art_63",
+      "numero_artigo": "63",
+      [cite_start]"texto_caput": "O crédito tributário decorrente de ICMS vencido e não pago, poderá ser parcelado: [cite: 495]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO IX - DO RECOLHIMENTO DO IMPOSTO",
+        "secao": "Seção II - Do Pagamento Parcelado"
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": "em até 12 (doze) prestações, quando denunciado espontaneamente (, art. 2°); [cite: 495]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": "em até 60 (sessenta) prestações, quando exigido por Notificação Fiscal (, art. 2°). [cite: 496]"
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": "em até 84 (oitenta e quatro) prestações, quando devido por empresa em recuperação judicial (Convênio ICMS ). [cite: 497]"
+        }
+      ],
+      "tags_semanticas": [
+        "Pagamento Parcelado"
+      ]
+    },
+    {
+      "id": "art_68",
+      "numero_artigo": "68",
+      [cite_start]"texto_caput": "Compete à Secretaria de Estado da Fazenda a supervisão, o controle da arrecadação e a fiscalização do imposto [cite: 924]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO X - DO CONTROLE E FISCALIZAÇÃO DO IMPOSTO",
+        "secao": ""
+      },
+      "tags_semanticas": [
+        "Controle e Fiscalização"
+      ]
+    },
+    {
+      "id": "art_69",
+      "numero_artigo": "69",
+      [cite_start]"texto_caput": "A fiscalização será exercida sobre todas as pessoas, naturais ou jurídicas, contribuintes ou não, que estiverem obrigadas ao cumprimento de disposições da legislação do imposto, mesmo as que gozarem de imunidade ou isenção. [cite: 925]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO X - DO CONTROLE E FISCALIZAÇÃO DO IMPOSTO",
+        "secao": ""
+      },
+      "tags_semanticas": [
+        "Fiscalização"
+      ]
+    },
+    {
+      "id": "art_79",
+      "numero_artigo": "79",
+      [cite_start]"texto_caput": "Integram este Regulamento os seguintes anexos: [cite: 1011]",
+      "hierarquia": {
+        "capitulo": "CAPÍTULO XI - DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+        "secao": ""
+      },
+      "incisos": [
+        {
+          "numero_inciso": "I",
+          [cite_start]"texto": ", que trata dos PRODUTOS SUJEITOS A TRATAMENTO ESPECÍFICO; [cite: 1011]"
+        },
+        {
+          "numero_inciso": "II",
+          [cite_start]"texto": ", que trata dos BENS E MERCADORIAS SUJEITOS AO REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA; [cite: 1012]"
+        },
+        {
+          "numero_inciso": "III",
+          [cite_start]"texto": ", que trata dos BENEFÍCIOS FISCAIS; [cite: 1013]"
+        },
+        {
+          "numero_inciso": "IV",
+          [cite_start]"texto": ", que trata da SUBSTITUIÇÃO TRIBUTÁRIA; [cite: 1013]"
+        },
+        {
+          "numero_inciso": "V",
+          [cite_start]"texto": ", que dispõe sobre o TRATAMENTO DIFERENCIADO E SIMPLIFICADO DA MICROEMPRESA E DA EMPRESA DE PEQUENO PORTE - SIMPLES/SC; [cite: 1014]"
+        },
+        {
+          "numero_inciso": "VI",
+          [cite_start]"texto": ", que trata das OBRIGAÇÕES ACESSÓRIAS; [cite: 1015]"
+        },
+        {
+          "numero_inciso": "VII",
+          [cite_start]"texto": ", que trata dos REGIMES E PROCEDIMENTOS ESPECIAIS; [cite: 1015]"
+        },
+        {
+          "numero_inciso": "VIII",
+          [cite_start]"texto": ", que trata do SISTEMA DE EMISSÃO DE DOCUMENTOS FISCAIS E ESCRITURAÇÃO DE LIVROS FISCAIS POR CONTRIBUINTE USUÁRIO DE EQUIPAMENTO DE PROCESSAMENTO DE DADOS E REGIME ESPECIAL PARA IMPRESSÃO E EMISSÃO SIMULTÂNEA DE DOCUMENTOS FISCAIS; [cite: 1016]"
+        },
+        {
+          "numero_inciso": "IX",
+          [cite_start]"texto": ", que trata do EQUIPAMENTO DE USO FISCAL; [cite: 1017]"
+        },
+        {
+          "numero_inciso": "X",
+          [cite_start]"texto": ", que trata do EMISSOR DE CUPOM FISCAL; [cite: 1017]"
+        },
+        {
+          "numero_inciso": "XI",
+          [cite_start]"texto": ", que trata dos CÓDIGOS FISCAIS; e [cite: 1018]"
+        },
+        {
+          "numero_inciso": "XII",
+          [cite_start]"texto": ", que trata dos DOCUMENTOS FISCAIS ELETRÔNICOS. [cite: 1018]"
+        }
+      ],
+      "tags_semanticas": [
+        "Disposições Finais",
+        "Anexos"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "id": "faq_1",
+      [cite_start]"pergunta": "O que é o ICMS e sobre o que ele incide? [cite: 165]",
+      [cite_start]"resposta": "O ICMS (Imposto sobre Circulação de Mercadorias e Serviços) é um tributo estadual que incide sobre operações relativas à circulação de mercadorias, serviços de transporte interestadual e intermunicipal, e serviços de comunicação. [cite: 166]",
+      "tags_semanticas": ["ICMS", "Incidência", "Fato Gerador"],
+      "artigos_relacionados": ["art_1"]
+    },
+    {
+      "id": "faq_2",
+      [cite_start]"pergunta": "Quais operações estão isentas do ICMS? [cite: 167]",
+      "resposta": "O ICMS não incide sobre algumas operações, incluindo: Livros, jornais, periódicos e papel destinado à impressão; Exportação de mercadorias e serviços; Energia elétrica e petróleo quando destinados à industrialização ou comercialização; Ouro, quando definido como ativo financeiro; [cite_start]Transferência de propriedade de estabelecimento comercial. [cite: 167, 168, 169]",
+      "tags_semanticas": ["Não Incidência", "Isenção", "Exportação"],
+      "artigos_relacionados": ["art_6"]
+    },
+    {
+      "id": "faq_3",
+      [cite_start]"pergunta": "Quem é considerado contribuinte do ICMS? [cite: 170]",
+      [cite_start]"resposta": "Contribuinte é qualquer pessoa, física ou jurídica, que realize operações de circulação de mercadorias ou prestação de serviços de transporte e comunicação, mesmo que sem habitualidade ou intuito comercial. [cite: 170]",
+      "tags_semanticas": ["Contribuinte", "Sujeito Passivo"],
+      "artigos_relacionados": ["art_7"]
+    },
+    {
+      "id": "faq_4",
+      [cite_start]"pergunta": "Como é calculado o ICMS? [cite: 171]",
+      "resposta": "A base de cálculo do ICMS depende da operação. Alguns exemplos: O valor da operação para vendas de mercadorias; O preço do serviço para transporte e comunicação; [cite_start]No caso de importação, inclui impostos de importação, IPI e demais taxas alfandegárias. [cite: 171, 172, 173]",
+      "tags_semanticas": ["Cálculo do Imposto", "Base de Cálculo"],
+      "artigos_relacionados": ["art_9", "art_12"]
+    },
+    {
+      "id": "faq_5",
+      [cite_start]"pergunta": "Quais são as alíquotas do ICMS? [cite: 174]",
+      "resposta": "As alíquotas variam conforme a operação: 17% para a maioria das mercadorias e serviços; 25% para produtos considerados supérfluos; 12% para operações específicas, como energia elétrica residencial até 150 Kw; [cite_start]7% para serviços de comunicação destinados a empresas de telemarketing. [cite: 174, 175, 176]",
+      "tags_semanticas": ["Alíquotas"],
+      "artigos_relacionados": ["art_26", "art_27"]
+    },
+    {
+      "id": "faq_6",
+      [cite_start]"pergunta": "Como funciona o crédito do ICMS? [cite: 177]",
+      "resposta": "O ICMS é um imposto não cumulativo, ou seja, o valor pago em operações anteriores pode ser compensado. [cite_start]O crédito é permitido para mercadorias destinadas à revenda, matérias-primas, bens do ativo permanente e serviços de transporte e comunicação utilizados pelo contribuinte. [cite: 177, 178]",
+      "tags_semanticas": ["Crédito", "Não Cumulativo", "Compensação"],
+      "artigos_relacionados": ["art_28", "art_29"]
+    },
+    {
+      "id": "faq_7",
+      [cite_start]"pergunta": "Quando ocorre a obrigação de pagar o ICMS? [cite: 179]",
+      "resposta": "O fato gerador ocorre, por exemplo: Na saída da mercadoria do estabelecimento; No início da prestação de serviços de transporte e comunicação; [cite_start]No desembaraço aduaneiro em importações. [cite: 179, 180]",
+      "tags_semanticas": ["Momento do Fato Gerador", "Obrigação Tributária"],
+      "artigos_relacionados": ["art_3"]
+    },
+    {
+      "id": "faq_8",
+      [cite_start]"pergunta": "Como é feita a apuração do ICMS devido? [cite: 181]",
+      "resposta": "O ICMS devido é apurado mensalmente, comparando os créditos e débitos do período. [cite_start]Se houver saldo devedor, o pagamento deve ser feito até o dia 10 do mês seguinte ao da apuração. [cite: 181, 182]",
+      "tags_semanticas": ["Apuração", "Pagamento", "Prazo"],
+      "artigos_relacionados": ["art_53", "art_60"]
+    },
+    {
+      "id": "faq_9",
+      [cite_start]"pergunta": "Como ocorre a fiscalização do ICMS? [cite: 183]",
+      "resposta": "A Secretaria da Fazenda é responsável pelo controle e fiscalização do ICMS. [cite_start]Os contribuintes devem manter seus documentos fiscais arquivados por pelo menos 5 anos e apresentá-los quando solicitados. [cite: 183, 184]",
+      "tags_semanticas": ["Fiscalização", "Obrigações Acessórias"],
+      "artigos_relacionados": ["art_68", "art_69"]
+    },
+    {
+      "id": "faq_10",
+      [cite_start]"pergunta": "Há benefícios fiscais para o ICMS? [cite: 185]",
+      "resposta": "Sim, existem benefícios fiscais como: Redução de base de cálculo; Isenção para determinados produtos e serviços; [cite_start]Tratamento diferenciado para micro e pequenas empresas optantes pelo Simples Nacional. [cite: 185, 186]",
+      "tags_semanticas": ["Benefícios Fiscais", "Isenção", "Redução de Base de Cálculo", "Simples Nacional"],
+      "artigos_relacionados": []
+    },
+    {
+      "id": "faq_11",
+      [cite_start]"pergunta": "O que é o diferencial de alíquota (DIFAL) do ICMS? [cite: 187]",
+      "resposta": "O DIFAL é a diferença entre a alíquota interna do estado de destino e a alíquota interestadual aplicada na venda de mercadorias para consumidores finais localizados em outro estado. [cite_start]O imposto é recolhido pelo remetente ou pelo destinatário, dependendo se este é contribuinte ou não. [cite: 188, 189]",
+      "tags_semanticas": ["DIFAL", "Diferencial de Alíquota"],
+      "artigos_relacionados": ["art_4", "art_7"]
+    },
+    {
+      "id": "faq_12",
+      [cite_start]"pergunta": "Como funciona a substituição tributária no ICMS? [cite: 190]",
+      "resposta": "A substituição tributária ocorre quando a responsabilidade pelo recolhimento do ICMS é atribuída a um único contribuinte da cadeia produtiva. [cite_start]O objetivo é facilitar a fiscalização e garantir o pagamento antecipado do imposto nas operações subsequentes. [cite: 190, 191]",
+      "tags_semanticas": ["Substituição Tributária", "ICMS-ST"],
+      "artigos_relacionados": ["art_8"]
+    },
+    {
+      "id": "faq_22",
+      [cite_start]"pergunta": "O que caracteriza um estabelecimento para fins de ICMS? [cite: 214]",
+      [cite_start]"resposta": "Para efeitos de tributação, considera-se estabelecimento qualquer local onde o contribuinte exerça suas atividades, de forma permanente ou temporária, incluindo lojas físicas, depósitos, escritórios e até veículos utilizados para comércio ambulante. [cite: 215]",
+      "tags_semanticas": ["Estabelecimento"],
+      "artigos_relacionados": ["art_5"]
+    },
+    {
+      "id": "faq_26",
+      [cite_start]"pergunta": "Como funciona a apuração consolidada do ICMS? [cite: 225]",
+      "resposta": "Empresas com vários estabelecimentos podem optar por apurar o ICMS de forma consolidada, ou seja, agrupando os débitos e créditos de todas as unidades dentro do mesmo estado. [cite_start]Para isso, é necessário comunicar a Secretaria da Fazenda. [cite: 225, 226]",
+      "tags_semanticas": ["Apuração Consolidada"],
+      "artigos_relacionados": ["art_54"]
+    },
+    {
+      "id": "faq_30",
+      [cite_start]"pergunta": "Como é feita a liquidação do ICMS devido? [cite: 233]",
+      "resposta": "A liquidação do ICMS ocorre por compensação de créditos e débitos no período de apuração. [cite_start]Se houver saldo devedor, o contribuinte deve efetuar o pagamento dentro dos prazos estipulados pela legislação. [cite: 233, 234]",
+      "tags_semanticas": ["Liquidação do Imposto"],
+      "artigos_relacionados": ["art_58"]
+    },
+    {
+      "id": "faq_35",
+      [cite_start]"pergunta": "Qual é o prazo para pagamento do ICMS? [cite: 243]",
+      "resposta": "O ICMS geralmente deve ser pago até o 10º dia do mês seguinte ao período de apuração. [cite_start]Alguns casos exigem pagamento antecipado, como importações e operações sujeitas à substituição tributária. [cite: 243, 244]",
+      "tags_semanticas": ["Prazo de Pagamento", "Recolhimento"],
+      "artigos_relacionados": ["art_60"]
+    },
+    {
+      "id": "faq_36",
+      [cite_start]"pergunta": "O que é o regime de estimativa fiscal no ICMS? [cite: 245]",
+      "resposta": "O regime de estimativa fiscal permite que a Secretaria da Fazenda determine um valor fixo de ICMS a ser pago mensalmente por determinados contribuintes. [cite_start]Esse modelo é aplicado a empresas que possuem dificuldades em apurar o imposto devido com base na escrituração normal. [cite: 246, 247]",
+      "tags_semanticas": ["Estimativa Fiscal"],
+      "artigos_relacionados": ["art_57"]
+    },
+    {
+      "id": "faq_42",
+      [cite_start]"pergunta": "O que é o ICMS sobre software e bens digitais? [cite: 261]",
+      [cite_start]"resposta": "O ICMS incide sobre a disponibilização de bens digitais, como softwares e aplicativos, quando houver transferência de titularidade e quando não estiverem sujeitos ao ISS (Imposto sobre Serviços) municipal. [cite: 262]",
+      "tags_semanticas": ["Software", "Bens Digitais", "Incidência"],
+      "artigos_relacionados": ["art_1"]
+    },
+    {
+      "id": "faq_46",
+      [cite_start]"pergunta": "O que é o ICMS Diferido? [cite: 270]",
+      "resposta": "O ICMS diferido é um regime especial que posterga o pagamento do imposto para uma fase posterior da cadeia produtiva. [cite_start]Esse benefício é concedido para setores estratégicos, como agronegócio e indústria. [cite: 270, 271]",
+      "tags_semanticas": ["Diferimento"],
+      "artigos_relacionados": []
+    },
+    {
+      "id": "faq_47",
+      [cite_start]"pergunta": "Como funciona o parcelamento de débitos do ICMS? [cite: 272]",
+      "resposta": "Os contribuintes podem parcelar débitos de ICMS diretamente com a Secretaria da Fazenda. [cite_start]O parcelamento pode incluir juros e multas, e o número de parcelas varia conforme a legislação vigente. [cite: 272, 273]",
+      "tags_semanticas": ["Parcelamento", "Débitos"],
+      "artigos_relacionados": ["art_63"]
+    }
+  ],
+  "glossario_semantico": [
+    {
+      "termo": "Fato Gerador",
+      [cite_start]"definicao": "Definição dos eventos que configuram a ocorrência do imposto. [cite: 108]",
+      "artigos_principais": ["art_1", "art_2"]
+    },
+    {
+      "termo": "Momento da Ocorrência do Fato Gerador",
+      [cite_start]"definicao": "Momento exato em que ocorre a obrigação tributária do ICMS. [cite: 108]",
+      "artigos_principais": ["art_3"]
+    },
+    {
+      "termo": "Local da Operação ou da Prestação",
+      [cite_start]"definicao": "Determinação do estado responsável pelo recolhimento do imposto conforme a origem e o destino da operação. [cite: 109]",
+      "artigos_principais": ["art_4"]
+    },
+    {
+      "termo": "Estabelecimento",
+      [cite_start]"definicao": "Conceito de estabelecimento para fins de tributação do ICMS. [cite: 110]",
+      "artigos_principais": ["art_5"]
+    },
+    {
+      "termo": "Não Incidência",
+      [cite_start]"definicao": "Casos em que o ICMS não incide sobre operações e prestações específicas. [cite: 111]",
+      "artigos_principais": ["art_6"]
+    },
+    {
+      "termo": "Contribuinte",
+      [cite_start]"definicao": "Quem é considerado contribuinte do ICMS. [cite: 112]",
+      "artigos_principais": ["art_7"]
+    },
+    {
+      "termo": "Responsável Tributário",
+      [cite_start]"definicao": "Situações em que terceiros são responsáveis pelo pagamento do imposto. [cite: 113]",
+      "artigos_principais": ["art_8"]
+    },
+    {
+      "termo": "Base de Cálculo",
+      [cite_start]"definicao": "Como calcular o valor sobre o qual o imposto será aplicado em operações com mercadorias e serviços. [cite: 114, 115]",
+      "artigos_principais": ["art_9", "art_10", "art_11", "art_12", "art_13", "art_14"]
+    },
+    {
+      "termo": "Alíquotas",
+      [cite_start]"definicao": "Percentuais aplicáveis sobre a base de cálculo para determinação do ICMS devido. [cite: 118]",
+      "artigos_principais": ["art_26", "art_27"]
+    },
+    {
+      "termo": "Não Cumulatividade",
+      [cite_start]"definicao": "Possibilidade de compensação do imposto devido com créditos fiscais. [cite: 119]",
+      "artigos_principais": ["art_28"]
+    },
+    {
+      "termo": "Crédito Fiscal",
+      [cite_start]"definicao": "Direito ao crédito fiscal em determinadas operações e prestações. [cite: 120]",
+      "artigos_principais": ["art_29", "art_30", "art_31", "art_32", "art_33"]
+    },
+    {
+      "termo": "Vedação ao Crédito",
+      [cite_start]"definicao": "Situações em que não é permitido o aproveitamento de crédito do ICMS. [cite: 121]",
+      "artigos_principais": ["art_34", "art_35", "art_35-A"]
+    },
+    {
+      "termo": "Estorno de Crédito",
+      [cite_start]"definicao": "Hipóteses de estorno do crédito anteriormente apropriado. [cite: 122]",
+      "artigos_principais": ["art_36"]
+    },
+    {
+      "termo": "Crédito do Ativo Permanente",
+      [cite_start]"definicao": "Normas para controle e apropriação de crédito relativo a bens do ativo permanente. [cite: 123]",
+      "artigos_principais": ["art_37", "art_38", "art_39"]
+    },
+    {
+      "termo": "Transferência de Créditos Acumulados",
+      [cite_start]"definicao": "Regras para apropriação, utilização e transferência de créditos acumulados de ICMS. [cite: 124]",
+      "artigos_principais": ["art_40", "art_41"]
+    },
+    {
+      "termo": "Apuração do Imposto",
+      [cite_start]"definicao": "Regras gerais para apuração do ICMS devido no período fiscal. [cite: 132]",
+      "artigos_principais": ["art_53"]
+    },
+    {
+      "termo": "Apuração Consolidada",
+      [cite_start]"definicao": "Apuração unificada para estabelecimentos que operam em mais de um estado ou possuem atividades diversificadas. [cite: 133]",
+      "artigos_principais": ["art_54", "art_55", "art_56"]
+    },
+    {
+      "termo": "Estimativa Fiscal",
+      [cite_start]"definicao": "Aplicação do regime de estimativa para determinados contribuintes. [cite: 134]",
+      "artigos_principais": ["art_57"]
+    },
+    {
+      "termo": "Liquidação do Imposto",
+      [cite_start]"definicao": "Formas de pagamento do ICMS devido. [cite: 135]",
+      "artigos_principais": ["art_58"]
+    },
+    {
+      "termo": "Recolhimento do Imposto",
+      [cite_start]"definicao": "Definição dos prazos para pagamento do ICMS conforme a atividade do contribuinte. [cite: 137]",
+      "artigos_principais": ["art_60", "art_61", "art_62"]
+    },
+    {
+      "termo": "Pagamento Parcelado",
+      [cite_start]"definicao": "Condições e critérios para parcelamento do ICMS devido. [cite: 138]",
+      "artigos_principais": ["art_63", "art_64", "art_65", "art_66", "art_67"]
+    },
+    {
+      "termo": "Controle e Fiscalização",
+      [cite_start]"definicao": "Normas gerais sobre fiscalização e controle da arrecadação do ICMS. [cite: 139]",
+      "artigos_principais": ["art_68", "art_69", "art_70", "art_71", "art_72", "art_73", "art_74", "art_75", "art_77", "art_78"]
+    }
+  ]
+}

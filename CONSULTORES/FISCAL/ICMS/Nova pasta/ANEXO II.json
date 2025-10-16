@@ -1,0 +1,319 @@
+{
+  "anexo": "ANEXO 2 - BENEFÍCIOS FISCAIS",
+  "fonte": "RICMS/SC - Anexo II",
+  "data_extracao": "2025-08-21",
+  "capitulos": [
+    {
+      "numero_capitulo": "I",
+      "titulo_capitulo": "DAS ISENÇÕES",
+      "secoes": [
+        {
+          "numero_secao": "I",
+          "titulo_secao": "Das Operações com Mercadorias",
+          "artigos": [
+            {
+              "id": "anexo2_art_1",
+              "numero_artigo": "1°",
+              [cite_start]"texto_caput": "São isentas as seguintes operações internas: [cite: 107]",
+              "incisos": [
+                {
+                  "numero_inciso": "I",
+                  [cite_start]"texto": "a saída de leite fresco, pasteurizado ou não, e de leite reconstituído, destinada a consumidor final, caso em que fica mantido o crédito fiscal relativo à entrada, ocorrida no período de 1° de março a 30 de setembro de cada ano, de leite em pó utilizado na reconstituição (Convênios ICM 25/83, ICMS 43/90 e 124/93); [cite: 107]"
+                },
+                {
+                  "numero_inciso": "II",
+                  [cite_start]"texto": "enquanto vigorar o Convênio ICMS 147/92, a saída de mexilhão, marisco, ostra, berbigão e vieira, em estado natural, resfriado ou congelado; [cite: 108]",
+                  "notas": [
+                    [cite_start]"II - Prorrogado pelo Convênio ICMS 226/23, até 30.04.26. [cite: 109]"
+                  ]
+                },
+                {
+                  "numero_inciso": "III",
+                  [cite_start]"texto": "a saída de veículos, quando adquiridos pela Secretaria de Segurança Pública através do Programa de Reequipamento Policial da Polícia Militar ou pela Secretaria de Estado da Fazenda, para reequipamento da fiscalização estadual, dispensado o estorno de crédito de que trata o art. [cite: 109]"
+                },
+                {
+                  "numero_inciso": "IV",
+                  [cite_start]"texto": "enquanto vigorar o Convênio ICMS 32/95, a saída de veículo automotor, máquina e equipamento, para utilização exclusiva pelos Corpos de Bombeiros Voluntários, devidamente constituídos e reconhecidos como de utilidade pública por lei municipal, observado o seguinte: [cite: 111]",
+                  "notas": [
+                    [cite_start]"IV - Prorrogado pelo Convênio ICMS 226/23, até 30.04.26. [cite: 111]"
+                  ],
+                  "alineas": [
+                    {
+                      "letra_alinea": "a",
+                      [cite_start]"texto": "a fruição do benefício fica condicionada a que a operação esteja isenta do IPI; [cite: 112]"
+                    },
+                    {
+                      "letra_alinea": "b",
+                      "texto": "não será exigido o estorno de crédito de que trata o art. [cite_start]36, I e II do Regulamento; [cite: 113]"
+                    },
+                    {
+                      "letra_alinea": "c",
+                      [cite_start]"texto": "o benefício deverá ser solicitado na página oficial da Secretaria de Estado da Fazenda na Internet, por intermédio de aplicativo disponível no Sistema de Administração Tributária – SAT. [cite: 114]"
+                    },
+                    {
+                      "letra_alinea": "d",
+                      [cite_start]"texto": "o protocolo gerado a partir da solicitação prevista na alínea “c” deverá ser apresentado à Gerência Regional da Fazenda Estadual nele indicada, acompanhado dos documentos comprobatórios da constituição e do reconhecimento de utilidade pública do Corpo de Bombeiros Voluntários solicitante; [cite: 115]"
+                    },
+                    {
+                      "letra_alinea": "e",
+                      [cite_start]"texto": "o benefício será reconhecido por meio de despacho eletrônico do Gerente Regional da Fazenda Estadual a que estiver circunscrita a entidade solicitante; [cite: 116]"
+                    }
+                  ]
+                },
+                {
+                  "numero_inciso": "V",
+                  [cite_start]"texto": "a saída de produto típico de artesanato regional, quando confeccionado sem utilização de trabalho assalariado, destinada a consumidor final, promovida diretamente pelo artesão ou por intermédio de entidade de que o artesão faça parte ou pela qual seja assistido (Convênios ICM 32/75, ICMS 40/90, 103/90 e 151/94); [cite: 117]"
+                },
+                {
+                  "numero_inciso": "VI",
+                  [cite_start]"texto": "o fornecimento de energia elétrica destinada ao consumo pelos órgãos da administração pública estadual direta e suas fundações e autarquias, mantidas pelo poder público estadual, devendo o benefício ser transferido aos beneficiários, mediante redução do valor da operação, em montante correspondente ao imposto dispensado (Convênio ICMS 24/03); [cite: 118]"
+                },
+                {
+                  "numero_inciso": "VII",
+                  [cite_start]"texto": "a saída de peças de argamassa armada destinadas à construção de obras com finalidades sociais, objeto de convênios ou contratos firmados com o Governo Federal, Estadual ou Municipal (Convênio ICMS 12/93); [cite: 119]"
+                },
+                {
+                  "numero_inciso": "VIII",
+                  [cite_start]"texto": "a saída de produto resultante do trabalho de reeducação dos detentos, promovida pelos estabelecimentos do Sistema Penitenciário do Estado (Convênio ICMS 85/94); [cite: 120]"
+                },
+                {
+                  "numero_inciso": "IX",
+                  [cite_start]"texto": "REVOGADO. [cite: 121]"
+                },
+                {
+                  "numero_inciso": "X",
+                  [cite_start]"texto": "nas aquisições efetuadas por adjudicação de mercadorias que tenham sido oferecidas à penhora, observado o seguinte (Convênio ICMS 57/00): [cite: 121]",
+                  "alineas": [
+                    {
+                      "letra_alinea": "a",
+                      [cite_start]"texto": "fica dispensado o estorno do crédito fiscal de que trata o art. [cite: 121]"
+                    },
+                    {
+                      "letra_alinea": "b",
+                      [cite_start]"texto": "a avaliação das mercadorias adjudicadas levará em consideração o benefício previsto neste inciso. [cite: 122]"
+                    }
+                  ]
+                },
+                {
+                  "numero_inciso": "XI",
+                  [cite_start]"texto": "a saída de bens e mercadorias destinadas aos órgãos da administração pública estadual direta e às suas fundações e autarquias, mantidas pelo poder público estadual, observado o disposto no § 5º (Convênio ICMS 26/03); [cite: 123]"
+                },
+                {
+                  "numero_inciso": "XII",
+                  [cite_start]"texto": "a saída de máquinas, equipamentos, peças, partes e acessórios quando adquiridos por indústria naval ou náutica, observado o disposto nos §§ 1º e 2º (Lei n° 10.297/96, art. 43). [cite: 124]",
+                  "notas": [
+                    "Art. 1°, inc. XII – REINSTITUÍDO – Lei 17763/19, art. [cite_start]1°, inc. [cite: 125]"
+                  ]
+                },
+                {
+                  "numero_inciso": "XIII",
+                  [cite_start]"texto": "a saída de produtos farmacêuticos e de fraldas geriátricas a consumidor final promovida pelas farmácias integrantes do Programa Farmácia Popular do Brasil, instituído pela Lei federal no 10.858, de 13 de abril de 2004, observado o disposto no § 3o e desde que (Convênios ICMS 56/05 e 81/08): [cite: 126]",
+                  "alineas": [
+                    {
+                      "letra_alinea": "a",
+                      [cite_start]"texto": "o preço do produto cobrado do consumidor seja igual ao valor de ressarcimento à Fundação Oswaldo Cruz - FIOCRUZ; [cite: 126]"
+                    },
+                    {
+                      "letra_alinea": "b",
+                      [cite_start]"texto": "a parcela relativa à receita bruta decorrente das saídas previstas neste inciso esteja desonerada das contribuições para o PIS/Pasep e a Cofins. [cite: 127]"
+                    }
+                  ]
+                },
+                {
+                  "numero_inciso": "XIV",
+                  [cite_start]"texto": "enquanto vigorar o Convênio ICMS 106/10, a saída do sanduíche Big Mac promovida durante 1 (um) dia a cada ano, realizada pelos integrantes da Rede McDonald’s, lojas próprias e franqueadas, que participarem do evento McDia Feliz, desde que comprovem a doação do total da receita líquida auferida com a venda dos mencionados sanduíches, após dedução de outros tributos, às seguintes entidades: [cite: 128]",
+                  "notas": [
+                    [cite_start]"XIV - Prorrogado pelo Convênio ICMS 226/23, até 30.04.26. [cite: 128]"
+                  ],
+                  "alineas": [
+                    {
+                      "letra_alinea": "a",
+                      [cite_start]"texto": "Associação de Voluntários de Saúde do Hospital Infantil Joana de Gusmão (AVOS), inscrita no CNPJ nº 81.840.340/0001-22; [cite: 129]"
+                    },
+                    {
+                      "letra_alinea": "b",
+                      [cite_start]"texto": "Hospital Nossa Senhora das Graças (Hospital Materno Infantil Dr. Jeser Amarante Faria), inscrito no CNPJ nº 76.562.198/0003-20. [cite: 130]"
+                    }
+                  ]
+                },
+                {
+                  "numero_inciso": "XV",
+                  [cite_start]"texto": "a saída de caprino e produtos comestíveis resultantes de sua matança, exceto quando destinada à industrialização (Convênios ICM 44/75, ICMS 68/90, 78/91, 124/93 e 89/05); [cite: 131]"
+                },
+                {
+                  "numero_inciso": "XVI",
+                  [cite_start]"texto": "enquanto vigorar o Convênio ICMS 03/06, a saída dos bens relacionados na Seção XXX do Anexo 1, destinados exclusivamente a integrar o ativo imobilizado de empresa beneficiada pelo Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária (REPORTO), instituído pela Lei federal nº 11.033, de 21 de dezembro de 2004, observado o seguinte: [cite: 132]",
+                  "notas": [
+                    [cite_start]"XVI - Prorrogado pelo Convênio ICMS 226/23, até 30.04.26. [cite: 132]"
+                  ],
+                  "alineas": [
+                    {
+                      "letra_alinea": "a",
+                      [cite_start]"texto": "o benefício fica condicionado à: [cite: 133]",
+                      "itens": [
+                        {
+                          "numero_item": "1",
+                          [cite_start]"texto": "integral desoneração dos impostos federais, em razão de suspensão, isenção ou alíquota zero, nos termos e condições da Lei n° 11.033, de 2004; [cite: 133]"
+                        },
+                        {
+                          "numero_item": "2",
+                          [cite_start]"texto": "integração do bem ao ativo imobilizado da empresa beneficiada pelo REPORTO e seu efetivo uso na execução dos serviços de carga, descarga e movimentação de mercadorias, pelo prazo mínimo de 5 (cinco) anos; [cite: 134]"
+                        }
+                      ]
+                    },
+                    {
+                      "letra_alinea": "b",
+                      [cite_start]"texto": "o imposto deverá ser integralmente recolhido, acrescido de juros e multa, no caso de inobservância das condições previstas na aliena “a”, inclusive a não conversão, por qualquer motivo, da suspensão do Imposto de Importação e do IPI em isenção. [cite: 135]"
+                    }
+                  ]
+                },
+                {
+                  "numero_inciso": "XVII",
+                  [cite_start]"texto": "a saída de veículo automotor, máquina e equipamento, para utilização exclusiva pelo Corpo de Bombeiros Militar nas suas atividades específicas, observado o seguinte (Convênio ICMS 38/06): [cite: 136]",
+                  "alineas": [
+                    {
+                      "letra_alinea": "a",
+                      [cite_start]"texto": "não será exigido o estorno de crédito de que trata o art. [cite: 136]"
+                    },
+                    {
+                      "letra_alinea": "b",
+                      [cite_start]"texto": "o benefício será concedido, caso a caso, mediante despacho do Gerente Regional da Fazenda Estadual, à vista de requerimento do interessado; [cite: 137]"
+                    }
+                  ]
+                },
+                {
+                  "numero_inciso": "XVIII",
+                  [cite_start]"texto": "enquanto vigorar o Convênio ICMS 07/08, a saída de mercadorias ou bens destinados a Cruz Azul no Brasil, dispensado o estorno de crédito de que tratam os incisos I e II do art. [cite: 138]",
+                  "notas": [
+                    [cite_start]"XVIII – Prorrogado pelo Convênio ICMS 226/23, até 30.04.26. [cite: 139]"
+                  ]
+                },
+                {
+                  "numero_inciso": "XIX",
+                  [cite_start]"texto": "enquanto vigorar o Convênio ICMS 08/08, a saída de mercadorias ou bens destinados ao Centro de Recuperação Nova Esperança (CERENE), dispensado o estorno de crédito de que tratam os incisos I e II do art. [cite: 140]",
+                  "notas": [
+                    [cite_start]"XIX – Prorrogado pelo Convênio ICMS 226/23, até 30.04.26. [cite: 141]"
+                  ]
+                },
+                {
+                  "numero_inciso": "XX",
+                  [cite_start]"texto": "a saída de mercadorias doadas pela Receita Federal do Brasil, promovidas por entidade beneficente, desde que (Convênio ICMS 27/08): [cite: 142]",
+                  "alineas": [
+                    {
+                      "letra_alinea": "a",
+                      [cite_start]"texto": "a entidade seja portadora do Certificado de Entidade de Fins Filantrópicos fornecido pelo Conselho Nacional de Serviço Social; [cite: 142]"
+                    },
+                    {
+                      "letra_alinea": "b",
+                      [cite_start]"texto": "refira-se a mercadorias constantes de termo próprio emitido pela Receita Federal do Brasil; [cite: 143]"
+                    }
+                  ]
+                },
+                {
+                  "numero_inciso": "XXI",
+                  "texto": "REVOGADO."
+                },
+                {
+                  "numero_inciso": "XXII",
+                  "texto": "REVOGADO."
+                },
+                {
+                  "numero_inciso": "XXIII",
+                  [cite_start]"texto": "a parcela da subvenção da tarifa de energia elétrica estabelecida pela Lei no 10.604, de 17 de dezembro de 2002, no respectivo fornecimento a consumidores enquadrados na “subclasse Residencial de Baixa Renda”, de acordo com as condições fixadas nas Resoluções no 246, de 30 de abril de 2002, e no 485, de 29 de agosto de 2002, da Agência Nacional de Energia Elétrica – ANEEL (Convênio ICMS 112/09). [cite: 144]"
+                },
+                {
+                  "numero_inciso": "XXIV",
+                  [cite_start]"texto": "de refeições promovidas pelos estabelecimentos que as tenham produzido, desde que destinadas a órgãos da administração pública estadual ou municipal para fornecimento aos seus servidores ou a alunos das respectivas redes de ensino (Convênio ICMS 94/11). [cite: 145]"
+                },
+                {
+                  "numero_inciso": "XXV",
+                  [cite_start]"texto": "a saída de grama natural, inclusive em leiva (Lei nº 15.856/2012). [cite: 146]"
+                },
+                {
+                  "numero_inciso": "XXVI",
+                  [cite_start]"texto": "o fornecimento de alimentação oriunda de aulas práticas promovidas pelo Restaurante/Escola do Serviço Nacional de Aprendizagem Comercial  (SENAC), Administração Regional de Santa Catarina, sem fins lucrativos, embora com cobrança do serviço (Convênios ICMS 05/93 e 101/14). [cite: 147]"
+                },
+                {
+                  "numero_inciso": "XXVII",
+                  [cite_start]"texto": "a saída de artigos de vestuário em doação com destino à Fundação Nova Vida, entidade beneficente de assistência social, nos termos da Lei Federal n° 12.101, de 27 de novembro de 2009 (Convênio ICMS 45/16). [cite: 148]"
+                },
+                {
+                  "numero_inciso": "XXVIII",
+                  [cite_start]"texto": "as saídas de mercadorias de produção própria promovidas por microprodutor primário, realizadas neste Estado, com destino a consumidor final, observado o disposto nos §§ 6º e 7º deste artigo, até o limite anual de (art. 3º da Lei nº 16.971, de 2016): [cite: 149]",
+                  "alineas": [
+                    {
+                      "letra_alinea": "a",
+                      [cite_start]"texto": "R$ 120.000,00 (cento e vinte mil reais); [cite: 149]"
+                    },
+                    {
+                      "letra_alinea": "b",
+                      [cite_start]"texto": "R$ 165.000,00 (cento e sessenta e cinco mil reais), enquanto vigorar o Convênio ICMS 138/23. [cite: 150]"
+                    }
+                  ]
+                },
+                {
+                  "numero_inciso": "XXIX",
+                  [cite_start]"texto": "enquanto vigorar o Convênio ICMS 57/19, as saídas de gordura animal mista, classificada no código 1501.90.00 da Nomenclatura Comum do Mercosul (NCM), realizadas pelo próprio estabelecimento fabricante a partir de carcaças de animais mortos e não abatidos provenientes de propriedades rurais situadas neste Estado (Lei nº 18.319/2021, art. 24). [cite: 151]"
+                },
+                {
+                  "numero_inciso": "XXX",
+                  [cite_start]"texto": "enquanto vigorar o Convênio ICMS 105/03, a saída de produtos vegetais comprovadamente empregados na produção de biodiesel e de querosene de aviação alternativo, desde que comprovado o efetivo emprego dos produtos na produção dos mencionados combustíveis (art. 4º da Lei nº 18.810, de 2023); [cite: 152]"
+                },
+                {
+                  "numero_inciso": "XXXI",
+                  [cite_start]"texto": "enquanto vigorar o Convênio ICMS 68/20, a saída relativa a doação de quaisquer mercadorias ou bens para a Administração Pública Estadual Direta, seus órgãos, suas fundações e suas autarquias, dispensado o estorno de crédito de que trata o art. [cite: 153]"
+                },
+                {
+                  "numero_inciso": "XXXII",
+                  [cite_start]"texto": "enquanto vigorar o Convênio ICMS 151/21, a saída dos produtos relacionados na Seção LXXIII do Anexo 1 deste Regulamento, destinados à geração de energia elétrica a partir do biogás, observado o disposto no § 10 deste artigo (art. 12 da Lei nº 18.810, de 2023). [cite: 155]"
+                },
+                {
+                  "numero_inciso": "XXXIII",
+                  [cite_start]"texto": "enquanto vigorar o Convênio ICMS 55/98, a saída dos produtos relacionados na Seção LXXIV do Anexo 1, destinados ao uso exclusivo por pessoas com deficiência física, visual ou auditiva, observado o seguinte (art. 3º da Lei  nº 18.810, de 2023): [cite: 156]",
+                  "alineas": [
+                    {
+                      "letra_alinea": "a",
+                      [cite_start]"texto": "o benefício fica condicionado: [cite: 156]",
+                      "itens": [
+                        {
+                          "numero_item": "1",
+                          [cite_start]"texto": "ao desconto no preço do valor equivalente ao imposto dispensado; [cite: 156]"
+                        },
+                        {
+                          "numero_item": "2",
+                          [cite_start]"texto": "à indicação do valor do desconto no respectivo documento fiscal; [cite: 157]"
+                        }
+                      ]
+                    },
+                    {
+                      "letra_alinea": "b",
+                      [cite_start]"texto": "não será exigido o estorno de crédito de que trata o art. [cite: 158]"
+                    }
+                  ]
+                },
+                {
+                  "numero_inciso": "XXXIV",
+                  [cite_start]"texto": "enquanto vigorar o Convênio ICMS 128/19, a saída de frascos, cartuchos, rótulos e caixas de transportes destinados à montagem de kits diagnósticos para detecção imuno-rápida de Zika, dengue, chikungunya, febre amarela, vírus da imunodeficiência humana (HIV), hepatite B, hepatite C, sífilis e leishmaniose  (art. 8º da Lei nº 18.810, de 2023); [cite: 160]"
+                },
+                {
+                  "numero_inciso": "XXXV",
+                  [cite_start]"texto": "enquanto vigorar o Convênio ICMS 102/21, as saídas de (art. 11 da Lei nº 18.810, de 2023): [cite: 161]",
+                  "alineas": [
+                    {
+                      "letra_alinea": "a",
+                      [cite_start]"texto": "mercadorias produzidas por agroindústrias familiares; [cite: 161]"
+                    },
+                    {
+                      "letra_alinea": "b",
+                      [cite_start]"texto": "produtos agrícolas e pequenos animais de produção ou criação própria promovidas por produtores rurais participantes de programa estadual instituído para disciplinar atividade da agricultura familiar. [cite: 162]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

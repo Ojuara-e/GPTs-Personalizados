@@ -1,0 +1,199 @@
+FAQ - Regulamento do ICMS
+1. O que é o ICMS e sobre o que ele incide?
+O ICMS (Imposto sobre Circulação de Mercadorias e Serviços) é um tributo estadual que incide sobre operações relativas à circulação de mercadorias, serviços de transporte interestadual e intermunicipal, e serviços de comunicação​.
+
+2. Quais operações estão isentas do ICMS?
+O ICMS não incide sobre algumas operações, incluindo:
+Livros, jornais, periódicos e papel destinado à impressão;
+Exportação de mercadorias e serviços;
+Energia elétrica e petróleo quando destinados à industrialização ou comercialização;
+Ouro, quando definido como ativo financeiro;
+Transferência de propriedade de estabelecimento comercial​.
+
+3. Quem é considerado contribuinte do ICMS?
+Contribuinte é qualquer pessoa, física ou jurídica, que realize operações de circulação de mercadorias ou prestação de serviços de transporte e comunicação, mesmo que sem habitualidade ou intuito comercial​.
+
+4. Como é calculado o ICMS?
+A base de cálculo do ICMS depende da operação. Alguns exemplos:
+O valor da operação para vendas de mercadorias;
+O preço do serviço para transporte e comunicação;
+No caso de importação, inclui impostos de importação, IPI e demais taxas alfandegárias​.
+
+5. Quais são as alíquotas do ICMS?
+As alíquotas variam conforme a operação:
+17% para a maioria das mercadorias e serviços;
+25% para produtos considerados supérfluos;
+12% para operações específicas, como energia elétrica residencial até 150 Kw;
+7% para serviços de comunicação destinados a empresas de telemarketing​.
+
+6. Como funciona o crédito do ICMS?
+O ICMS é um imposto não cumulativo, ou seja, o valor pago em operações anteriores pode ser compensado. O crédito é permitido para mercadorias destinadas à revenda, matérias-primas, bens do ativo permanente e serviços de transporte e comunicação utilizados pelo contribuinte​.
+
+7. Quando ocorre a obrigação de pagar o ICMS?
+O fato gerador ocorre, por exemplo:
+Na saída da mercadoria do estabelecimento;
+No início da prestação de serviços de transporte e comunicação;
+No desembaraço aduaneiro em importações​.
+
+8. Como é feita a apuração do ICMS devido?
+O ICMS devido é apurado mensalmente, comparando os créditos e débitos do período. Se houver saldo devedor, o pagamento deve ser feito até o dia 10 do mês seguinte ao da apuração​.
+
+9. Como ocorre a fiscalização do ICMS?
+A Secretaria da Fazenda é responsável pelo controle e fiscalização do ICMS. Os contribuintes devem manter seus documentos fiscais arquivados por pelo menos 5 anos e apresentá-los quando solicitados​.
+
+10. Há benefícios fiscais para o ICMS?
+Sim, existem benefícios fiscais como:
+Redução de base de cálculo;
+Isenção para determinados produtos e serviços;
+Tratamento diferenciado para micro e pequenas empresas optantes pelo Simples Nacional​.
+11. O que é o diferencial de alíquota (DIFAL) do ICMS?
+O DIFAL é a diferença entre a alíquota interna do estado de destino e a alíquota interestadual aplicada na venda de mercadorias para consumidores finais localizados em outro estado. O imposto é recolhido pelo remetente ou pelo destinatário, dependendo se este é contribuinte ou não​.
+
+12. Como funciona a substituição tributária no ICMS?
+A substituição tributária ocorre quando a responsabilidade pelo recolhimento do ICMS é atribuída a um único contribuinte da cadeia produtiva. O objetivo é facilitar a fiscalização e garantir o pagamento antecipado do imposto nas operações subsequentes​.
+
+13. Quais são as penalidades para quem não pagar o ICMS corretamente?
+As penalidades incluem:
+Multas por atraso no pagamento;
+Multas por falta de emissão de nota fiscal;
+Apreensão de mercadorias em trânsito sem documentação fiscal adequada;
+Suspensão ou cassação da inscrição estadual​.
+
+14. O que acontece se houver erro no recolhimento do ICMS?
+Se um contribuinte pagar um valor maior que o devido, ele pode solicitar compensação ou restituição. Caso contrário, pode ser exigido o pagamento do valor correto acrescido de juros e multas​.
+
+15. Como ocorre a fiscalização das empresas em relação ao ICMS?
+A fiscalização pode ocorrer presencialmente ou de forma remota, por meio do cruzamento de dados fiscais. Empresas devem manter os documentos fiscais organizados e disponíveis para consulta da Secretaria da Fazenda​.
+
+16. Quais são as obrigações acessórias do ICMS?
+Os contribuintes devem cumprir obrigações acessórias, como:
+Emissão de Nota Fiscal Eletrônica (NF-e);
+Escrituração Fiscal Digital (EFD);
+Declaração de Informações Econômico-Fiscais (DIEF);
+Manutenção dos livros fiscais e contábeis​.
+
+17. Como funciona o parcelamento de débitos de ICMS?
+Contribuintes com débitos podem solicitar parcelamento junto à Secretaria da Fazenda, seguindo regras específicas. Alguns programas de regularização tributária oferecem redução de juros e multas​.
+
+18. Existe alguma regra específica para empresas do Simples Nacional?
+Sim. Empresas do Simples Nacional têm um regime simplificado, onde o ICMS é recolhido dentro da guia única do DAS (Documento de Arrecadação do Simples Nacional). No entanto, em operações interestaduais ou com substituição tributária, pode haver obrigações adicionais​.
+
+19. Como o ICMS impacta as operações de importação?
+Nas importações, o ICMS é calculado com base no valor aduaneiro da mercadoria, somado a outros tributos incidentes, como imposto de importação e IPI. O imposto deve ser pago no momento do desembaraço aduaneiro​.
+
+20. Existe algum benefício fiscal para exportações?
+Sim. As exportações são isentas de ICMS, garantindo que a carga tributária não encareça os produtos exportados. Além disso, as empresas podem manter o direito ao crédito do imposto pago nas etapas anteriores​.
+21. O que acontece se uma empresa não escriturar corretamente o ICMS?
+Se uma empresa não escriturar corretamente o ICMS em seus livros fiscais ou omitir informações, poderá sofrer penalidades, como:
+Multas por erro ou omissão na escrituração;
+Perda do direito ao crédito fiscal;
+Autuação fiscal e cobrança do imposto devido com acréscimos legais​.
+
+22. O que caracteriza um estabelecimento para fins de ICMS?
+Para efeitos de tributação, considera-se estabelecimento qualquer local onde o contribuinte exerça suas atividades, de forma permanente ou temporária, incluindo lojas físicas, depósitos, escritórios e até veículos utilizados para comércio ambulante​.
+
+23. Como funciona a emissão de nota fiscal para operações interestaduais?
+Nas operações interestaduais, a nota fiscal deve conter:
+CFOP (Código Fiscal de Operações e Prestações) correto para operações entre estados;
+Destaque da alíquota interestadual do ICMS;
+Indicação do DIFAL, se aplicável;
+Informações do destinatário e do remetente conforme exigências fiscais​.
+
+24. Como ocorre a fiscalização de mercadorias em trânsito?
+A fiscalização pode ocorrer em postos fixos ou móveis da Secretaria da Fazenda. Veículos de carga devem obrigatoriamente parar para conferência da documentação fiscal. Caso sejam encontradas irregularidades, as mercadorias podem ser apreendidas e o contribuinte autuado​.
+
+25. Empresas que vendem pela internet devem recolher ICMS?
+Sim. Empresas que realizam vendas online devem recolher o ICMS conforme a regra do destino, ou seja, para o estado onde o comprador está localizado. Isso inclui o pagamento do DIFAL em operações interestaduais para consumidores finais​.
+
+26. Como funciona a apuração consolidada do ICMS?
+Empresas com vários estabelecimentos podem optar por apurar o ICMS de forma consolidada, ou seja, agrupando os débitos e créditos de todas as unidades dentro do mesmo estado. Para isso, é necessário comunicar a Secretaria da Fazenda​.
+
+27. O que é o ICMS-ST (Substituição Tributária)?
+O ICMS-ST é um regime onde um único contribuinte da cadeia produtiva (normalmente o fabricante ou distribuidor) recolhe o imposto de forma antecipada, evitando a tributação nas etapas seguintes da comercialização​.
+
+28. Como uma empresa pode recuperar créditos de ICMS?
+Empresas podem recuperar créditos acumulados de ICMS de diversas formas, incluindo:
+Compensação com débitos futuros;
+Transferência para terceiros autorizados;
+Solicitação de ressarcimento junto à Secretaria da Fazenda​.
+
+29. O que ocorre se um contribuinte for considerado devedor contumaz do ICMS?
+Um contribuinte que reiteradamente deixa de pagar o ICMS pode ser classificado como devedor contumaz, ficando sujeito a:
+Restrição de benefícios fiscais;
+Exclusão de regimes especiais de tributação;
+Medidas judiciais e administrativas para cobrança do débito​.
+
+30. Como é feita a liquidação do ICMS devido?
+A liquidação do ICMS ocorre por compensação de créditos e débitos no período de apuração. Se houver saldo devedor, o contribuinte deve efetuar o pagamento dentro dos prazos estipulados pela legislação​.
+
+31. Há incentivos fiscais para determinadas atividades econômicas?
+Sim. Alguns setores podem ter benefícios fiscais, como redução de base de cálculo, crédito presumido e isenções, dependendo da legislação estadual. Exemplos incluem a indústria, agronegócio e exportadores​.
+
+32. Como é feito o recolhimento do ICMS nas importações?
+O ICMS sobre importações deve ser pago no momento do desembaraço aduaneiro. A base de cálculo inclui o valor da mercadoria, frete, seguro e outros tributos incidentes​.
+
+33. Como funciona a fiscalização eletrônica do ICMS?
+A fiscalização eletrônica ocorre por meio do cruzamento de dados enviados pelos contribuintes via SPED Fiscal, NF-e, e outras obrigações acessórias. Qualquer inconsistência pode gerar autuação automática​.
+
+34. O que é o Simples Nacional e como ele afeta o ICMS?
+O Simples Nacional é um regime tributário simplificado para micro e pequenas empresas, onde o ICMS é recolhido dentro da guia única do DAS. No entanto, empresas optantes ainda podem estar sujeitas ao recolhimento do ICMS-ST e DIFAL​.
+
+35. Qual é o prazo para pagamento do ICMS?
+O ICMS geralmente deve ser pago até o 10º dia do mês seguinte ao período de apuração. Alguns casos exigem pagamento antecipado, como importações e operações sujeitas à substituição tributária​.
+36. O que é o regime de estimativa fiscal no ICMS?
+O regime de estimativa fiscal permite que a Secretaria da Fazenda determine um valor fixo de ICMS a ser pago mensalmente por determinados contribuintes. Esse modelo é aplicado a empresas que possuem dificuldades em apurar o imposto devido com base na escrituração normal​.
+
+37. Como funciona a transferência de créditos acumulados de ICMS?
+Empresas que acumulam créditos de ICMS podem utilizá-los para:
+Compensação com débitos próprios;
+Transferência para outros contribuintes autorizados;
+Solicitação de ressarcimento, conforme regras da Secretaria da Fazenda​.
+
+38. O que é a Escrituração Fiscal Digital (EFD-ICMS/IPI)?
+A EFD-ICMS/IPI faz parte do SPED (Sistema Público de Escrituração Digital) e substitui livros fiscais em papel. Nela, os contribuintes informam mensalmente todas as operações que geram ICMS e IPI, permitindo a fiscalização eletrônica​.
+
+39. Empresas do Simples Nacional precisam emitir Nota Fiscal Eletrônica (NF-e)?
+Sim, empresas do Simples Nacional devem emitir NF-e quando realizam operações interestaduais, vendem para órgãos públicos ou participam de regimes especiais de tributação​.
+
+40. O que acontece se a empresa não pagar o ICMS dentro do prazo?
+O não pagamento do ICMS dentro do prazo pode resultar em:
+Multa sobre o valor devido;
+Juros e atualização monetária;
+Inscrição em dívida ativa do estado;
+Restrição para emissão de notas fiscais e participação em licitações​.
+
+41. Como a fiscalização do ICMS pode autuar um contribuinte?
+A fiscalização pode autuar um contribuinte nos seguintes casos:
+Falta de emissão de documentos fiscais;
+Divergências entre notas fiscais emitidas e declarações enviadas ao fisco;
+Omissão de receitas identificada pelo cruzamento de dados digitais​.
+
+42. O que é o ICMS sobre software e bens digitais?
+O ICMS incide sobre a disponibilização de bens digitais, como softwares e aplicativos, quando houver transferência de titularidade e quando não estiverem sujeitos ao ISS (Imposto sobre Serviços) municipal​.
+
+43. Como funciona a fiscalização do ICMS em transportadoras?
+As transportadoras são obrigadas a emitir documentos fiscais eletrônicos, como o Conhecimento de Transporte Eletrônico (CT-e). Caso a fiscalização identifique operações sem documentação, poderá autuar e apreender a carga​.
+
+44. Como empresas podem se defender de autuações de ICMS?
+Se uma empresa for autuada, pode apresentar defesa administrativa dentro do prazo legal, contestando a cobrança e apresentando documentos que comprovem o pagamento correto do imposto​.
+
+45. O que acontece se uma empresa não declarar suas operações ao fisco?
+A não entrega de obrigações acessórias, como EFD ou DIME, pode resultar em:
+Multas por descumprimento da obrigação;
+Bloqueio da inscrição estadual;
+Autuação fiscal e cobrança do imposto devido​.
+
+46. O que é o ICMS Diferido?
+O ICMS diferido é um regime especial que posterga o pagamento do imposto para uma fase posterior da cadeia produtiva. Esse benefício é concedido para setores estratégicos, como agronegócio e indústria​.
+
+47. Como funciona o parcelamento de débitos do ICMS?
+Os contribuintes podem parcelar débitos de ICMS diretamente com a Secretaria da Fazenda. O parcelamento pode incluir juros e multas, e o número de parcelas varia conforme a legislação vigente​.
+
+48. Como funciona a retenção do ICMS na fonte?
+Em algumas operações, como as de substituição tributária, o ICMS é retido na fonte pelo fornecedor, que já recolhe o imposto antes da mercadoria chegar ao consumidor final​.
+
+49. Como calcular a base de cálculo do ICMS para operações interestaduais?
+A base de cálculo do ICMS interestadual inclui o valor da mercadoria, frete, seguro e outras despesas acessórias. Para produtos sujeitos ao DIFAL, deve-se considerar a diferença entre a alíquota interna e a interestadual​.
+
+50. Empresas que prestam serviços pagam ICMS ou ISS?
+A maioria dos serviços é tributada pelo ISS (Imposto sobre Serviços), de competência municipal. No entanto, quando há fornecimento de mercadorias junto ao serviço, pode haver incidência do ICMS​.

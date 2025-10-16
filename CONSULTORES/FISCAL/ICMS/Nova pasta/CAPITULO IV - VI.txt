@@ -1,0 +1,545 @@
+CAPÍTULO IV
+DO CÁLCULO DO IMPOSTO
+Seção I
+Da Base de Cálculo
+Subseção I
+Da Base de Cálculo nas Operações com Mercadorias
+Art. 9° A base de cálculo do imposto nas operações com mercadorias é:
+ 
+I - na saída de mercadoria prevista no , I, III e IV, o valor da operação;
+II - na hipótese do , II, o valor da operação, compreendendo mercadoria e serviço;
+III - no fornecimento de que trata o :
+a) o valor da operação, na hipótese da alínea “a”;
+b) o preço corrente da mercadoria fornecida ou empregada, na hipótese da alínea “b”;
+IV - na hipótese do  , a soma das seguintes parcelas:
+Nota:
+Vide Resoluções Normativas  e .
+a) o valor da mercadoria ou bem constante dos documentos de importação;
+b) o imposto de importação;
+c) o imposto sobre produtos industrializados;
+d) o imposto sobre operações de câmbio;
+e) quaisquer outros impostos, taxas, contribuições e despesas devidas às repartições alfandegárias ();
+f) o montante do próprio imposto ().
+V - no caso do , o valor da operação acrescido dos impostos de importação e sobre produtos industrializados e de todas as despesas cobradas ou debitadas ao adquirente;
+VI - na hipótese do , o valor da operação de que decorrer a entrada;
+VII – na hipótese do  do caput do art. 3º, o valor da operação neste Estado, para o cálculo do imposto devido a este Estado;
+VIII - no caso do imposto devido antecipadamente por vendedor ambulante ou por ocasião da entrada no Estado de mercadoria destinada a contribuinte com inscrição temporária, sem inscrição ou sem destinatário certo, o valor da mercadoria acrescido de margem de lucro definida em .
+IX – na hipótese do inciso XV do caput do art. 3º, o valor da operação, para o cálculo do imposto devido à unidade da federada de origem e a este Estado (MP nº 250/2022).
+§ 1° No caso do inciso IV, “a”, o preço de importação, expresso em moeda estrangeira, será convertido em moeda nacional pela mesma taxa de câmbio utilizada no cálculo do imposto de importação, sem qualquer acréscimo ou devolução posterior se houver variação da taxa de câmbio até o pagamento efetivo do preço.
+§ 2º Na hipótese a que se refere o § 1º, se for o caso, o preço declarado será substituído pelo valor fixado pela autoridade aduaneira para base de cálculo do imposto de importação, nos termos da lei aplicável.
+§ 3º No caso do inciso VII do caput deste artigo, o imposto a recolher a este Estado será o valor correspondente à diferença entre a alíquota interna e a interestadual, observado o disposto no § 7º deste artigo.
+§ 4º Na hipótese do inciso XV do art. 3º, o remetente do bem ou mercadoria:
+I – utilizará a alíquota interna prevista neste Estado para calcular o ICMS total devido na operação;
+II – utilizará a alíquota interestadual prevista para a operação, para o cálculo do imposto devido à unidade federada de origem; e
+III – recolherá para este Estado o imposto correspondente à diferença entre o imposto calculado na forma do inciso I e o calculado na forma do inciso II deste parágrafo.
+§ 5º Nas saídas interestaduais de bens e mercadorias com destino a consumidor final não contribuinte do imposto, localizado em outra Unidade da Federação, o cálculo do valor correspondente à diferença entre a alíquota interna da Unidade da Federação de destino e a alíquota interestadual observará a legislação da unidade federada de destino.
+§ 6º Nos casos previstos nos §§ 4º e 5º deste artigo, o imposto devido a este Estado será calculado por meio da aplicação das fórmulas “ICMS origem = BC x ALQ inter” e “ICMS destino = [BC x ALQ intra] - ICMS origem”, em que:
+I – “BC” é a base de cálculo do imposto, que é única e corresponde ao valor da operação, observado o disposto no art. 22;
+II – “ALQ inter” é alíquota interestadual aplicável à operação;
+III – “ALQ intra” é a alíquota interna aplicável à operação no Estado de destino.
+§ 7º A base de cálculo, para efeitos do inciso VII do caput deste artigo, será calculada por meio da aplicação da fórmula “BC = V oper/ (1 - ALQ intra)”,  onde:
+I – “V oper” é o valor da operação interestadual a que se refere o  do caput do art. 3º; e
+II – “ALQ intra” é a alíquota prevista para a operação interna.
+Art. 10. Na saída de mercadoria para estabelecimento localizado em outro Estado ou no Distrito Federal, pertencente ao mesmo titular, a base de cálculo do imposto é:
+I - o valor correspondente à entrada mais recente da mercadoria;
+II - o custo da mercadoria produzida, assim entendida a soma do custo da matéria-prima, material secundário, mão-de-obra e acondicionamento;
+III - tratando-se de mercadorias não industrializadas, o seu preço corrente no mercado atacadista do estabelecimento remetente.
+§ 1º Na hipótese do inciso I do caput deste artigo, serão acrescidos ao valor da entrada mais recente da mercadoria os custos incorridos até o estabelecimento, tais como frete, seguro e demais despesas de aquisição, bem como outros custos incorridos no local de armazenamento, logística e distribuição.
+§ 2º Nas hipóteses dos incisos II e III do caput deste artigo, fica facultada a utilização do valor fixado em pauta fiscal.
+Art. 10-A. Na transferência ou remessa de mercadoria para fins de exportação, promovida por estabelecimento industrial, o valor da operação de saída deverá corresponder ao preço de exportação.
+§ 1º Caso a exportação seja realizada por valor superior ao da saída da indústria, o estabelecimento industrial emitirá nota fiscal complementar para ajustar o valor ao da efetiva exportação.
+§ 2º O procedimento de que trata o § 1º deste artigo poderá ser suprido mediante emissão de nota fiscal de retorno simbólico ao estabelecimento industrial que emitirá a nota fiscal da respectiva exportação.
+§ 3º Não serão abrangidos pelo disposto neste artigo os estabelecimentos equiparados a industriais pela legislação federal.
+§ 4º O processo utilizado para obtenção do produto, a localização e as condições das instalações ou equipamentos empregados são irrelevantes para caracterizar a operação como industrialização.
+§ 5º Para fins deste artigo, entende-se por estabelecimento industrial aquele definido no art. 8º do , combinado com o art. 4º do mesmo diploma normativo, assim como as cooperativas agroindustriais que executem operações definidas pela legislação federal como de industrialização.
+Art. 10-B. Para fins de apuração do Índice de Participação dos Municípios na arrecadação do ICMS, caso não seja possível o procedimento previsto no art. 10-A deste Regulamento, o valor adicionado calculado para o estabelecimento exportador localizado no Estado será atribuído da seguinte forma:
+I – 90% (noventa por cento) ao Município onde realizada a industrialização; e
+II – 10% (dez por cento) ao Município em que sediado o estabelecimento que recebeu e efetuou a exportação.
+§ 1º O Secretário de Estado da Fazenda editará portaria dispondo sobre as informações acerca do cálculo do valor adicionado.
+§ 2º Conforme o disposto nos incisos I a IV do art. 2º da , o cálculo mencionado no caput deste artigo levará em consideração a proporcionalidade em que os produtos exportados contribuíram com o valor adicionado do estabelecimento exportador, independentemente do local de embarque do produto exportado.
+§ 3º O valor adicionado na forma do inciso I do caput deste artigo deverá ser atribuído aos municípios-sede dos estabelecimentos industriais proporcionalmente às respectivas produções.
+§ 4º O disposto no caput deste artigo aplica-se somente sobre as operações de produtos industrializados por estabelecimento industrial localizado no Estado.
+Art. 10-C. No caso de remessa ou transferência de mercadorias para fins de exportação por meio de estabelecimento localizado em outro Estado, será considerado como valor de saída, para cálculo do valor adicionado do Município onde estiver localizado o estabelecimento industrial, o da efetiva exportação.
+§ 1º O Secretário de Estado da Fazenda poderá editar portaria dispondo sobre as informações acerca do cálculo do valor adicionado.
+Art. 11. Na falta do valor a que se refere o , I e VI, a base de cálculo do imposto é:
+I - o preço corrente da mercadoria, ou de seu similar, no mercado atacadista do local da operação ou, na sua falta, no mercado atacadista regional, caso o remetente seja produtor, extrator ou gerador, inclusive de energia elétrica;
+II - o preço FOB estabelecimento industrial à vista, caso o remetente seja industrial;
+III - o preço FOB estabelecimento comercial à vista, na venda a outros comerciantes ou industriais, caso o remetente seja comerciante.
+§ 1º Para aplicação dos incisos II e III, adotar-se-á:
+I - o preço efetivamente cobrado pelo remetente na operação mais recente;
+II - caso o remetente não tenha efetuado venda de mercadoria, o preço corrente da mercadoria ou de seu similar no mercado atacadista do local da operação ou, na falta deste, no mercado atacadista regional.
+§ 2º Na hipótese do inciso III, caso o estabelecimento remetente não efetue vendas a outros comerciantes ou industriais ou, em qualquer caso, se não houver mercadoria similar, a base de cálculo será equivalente a 75% (setenta e cinco por cento) do preço de venda corrente no varejo.
+Subseção II
+Da Base de Cálculo nas Prestações de Serviços
+Art. 12. A base de cálculo do imposto nas prestações de serviço de transporte interestadual e intermunicipal e de comunicação é o preço do serviço.
+Nota:
+Vide Resoluções Normativas .
+§ 1° Na  hipótese do , o valor da prestação será acrescido, se for o caso, de todos os encargos relacionados com a sua utilização.
+§ 2° Na hipótese do  do caput do art. 3º, o imposto a recolher a este Estado correspondente à diferença entre a alíquota interna e a interestadual será obtido mediante a aplicação das fórmulas “BC = V prest / (1 - ALQ intra)” e “ICMS DIFAL = BC x (ALQ intra – ALQ inter)”, onde:
+I – “BC” é a base de cálculo do imposto e corresponde ao valor da prestação neste Estado;
+II – “V prest” é o valor da prestação a que se refere o inciso XIII do caput do art. 3º;
+III – “ALQ intra” é a alíquota interna aplicável à prestação neste Estado;
+IV – “ICMS DIFAL” é o valor do imposto correspondente à diferença entre a alíquota interna prevista para a prestação e a alíquota interestadual; e
+V – “ALQ inter” é alíquota interestadual aplicável à prestação a que se refere o inciso XIII do caput do art. 3º.
+§ 3º Na hipótese do inciso XVI do art. 3º, o prestador do serviço:
+I – utilizará a alíquota interna prevista neste Estado para calcular o ICMS total devido na prestação;
+II – utilizará a alíquota interestadual prevista para a prestação, para o cálculo do imposto devido à unidade federada de origem; e
+III – recolherá para este Estado o imposto correspondente à diferença entre o imposto calculado na forma do inciso I e o calculado na forma doinciso II deste parágrafo.
+§ 4º O recolhimento de que trata o inciso III do § 3º deste artigo não se aplica quando o transporte for efetuado pelo próprio remetente ou por sua conta e ordem (cláusula CIF – Cost, Insurance and Freight).
+§ 5º Nas prestações com destino a consumidor final não contribuinte do imposto, localizado em outra Unidade da Federação, o cálculo do valor correspondente à diferença entre a alíquota interna da Unidade da Federação de destino e a alíquota interestadual observará a legislação da unidade federada de destino.
+§ 6º Nos casos previstos nos §§ 3º e 5º deste artigo, o imposto devido a este Estado será calculado por meio da aplicação das fórmulas “ICMS origem = BC x ALQ inter” e “ICMS destino = [BC x ALQ intra] - ICMS origem”, em que:
+I – “BC” é a base de cálculo do imposto, que é única e corresponde àquela prevista no caput deste artigo, observado o disposto no ;
+II – “ALQ inter” é alíquota interestadual aplicável à prestação;
+III – “ALQ intra” é a alíquota interna aplicável à prestação no Estado de destino
+Art. 13. Nas prestações sem preço determinado, a base de cálculo do imposto é o valor corrente do serviço, no local da prestação.
+Art. 14. Quando o valor do frete, cobrado por estabelecimento pertencente ao mesmo titular da mercadoria ou por outro estabelecimento de empresa que com aquele mantenha relação de interdependência, exceder os níveis normais de preços em vigor, no mercado local, para serviço semelhante, constantes de tabelas elaboradas pelos órgãos competentes, o valor excedente será havido como parte do preço da mercadoria.
+Parágrafo único. Considerar-se-ão interdependentes duas empresas quando:
+I - uma delas, por si, seus sócios ou acionistas e respectivos cônjuges ou filhos menores, for titular de mais de 50% (cinqüenta por cento) do capital da outra;
+II - uma mesma pessoa fizer parte de ambas, na qualidade de diretor ou sócio com funções de gerência, ainda que exercidas sob outra denominação;
+III - uma delas locar ou transferir a outra, a qualquer título, veículo destinado ao transporte de mercadorias.
+Subseção III
+Do Arbitramento
+Art. 15. Sempre que forem omissos ou não mereçam fé as declarações ou os esclarecimentos prestados, ou os documentos expedidos pelo sujeito passivo ou pelo terceiro legalmente obrigado, a base de cálculo do imposto será arbitrada pela autoridade fiscal.
+Art. 16. A autoridade fiscal que proceder ao arbitramento da base de cálculo lavrará Termo de Arbitramento, valendo-se dos dados e elementos que possa colher junto:
+I - a contribuintes que promovam operações ou prestações semelhantes;
+II - ao próprio sujeito passivo, relativamente a operações ou prestações realizadas em períodos anteriores.
+§ 1° O arbitramento poderá basear-se ainda em quaisquer outros elementos probatórios, inclusive despesas necessárias à manutenção do estabelecimento ou à efetivação das operações ou prestações.
+§ 2º O arbitramento do valor de bens, mercadorias ou serviços será precedido de intimação ao sujeito passivo para, no prazo de 30 (trinta) dias, apresentar os esclarecimentos e provas que julgar necessários, os quais serão anexados ao processo administrativo, no caso de impugnação do lançamento ().
+Art. 17. O Termo de Arbitramento integra a Notificação Fiscal e deve conter:
+I - a identificação do sujeito passivo;
+II - o motivo do arbitramento;
+III - a descrição das operações ou prestações;
+IV - as datas inicial e final, ainda que aproximadas, de cada período em que tenham ocorrido as operações ou prestações;
+V - os critérios de arbitramento utilizados pela autoridade fazendária;
+VI - o valor da base de cálculo arbitrada, correspondente ao total das operações ou prestações realizadas em cada um dos períodos considerados;
+VII - o ciente do sujeito passivo.
+Art. 18. Cópias dos documentos que serviram de base para o arbitramento devem acompanhar o Termo de Arbitramento, salvo quando for baseado em documentos do próprio sujeito passivo, devendo, neste caso, ser identificados no termo.
+Art. 19. Não se aplica o disposto nesta Subseção quando o fisco dispuser de elementos suficientes para determinar o valor real das operações ou prestações.
+Art. 20. Fica assegurada ao contribuinte, em reclamação administrativa, avaliação contraditória do valor arbitrado.
+Art. 21.  O Secretário de Estado da Fazenda expedirá pauta fiscal cujos valores poderão ser utilizados nas hipóteses e para os fins previstos nesta Subseção.
+Nota:
+ V. 
+Subseção IV
+Disposições Gerais
+Art. 22. Integra a base de cálculo do imposto:
+Nota:
+Vide Resolução Normativa .
+I - o montante do próprio imposto, constituindo o respectivo destaque mera indicação para fins de controle;
+II - o valor correspondente a:
+a) seguros, juros e demais importâncias pagas, recebidas ou debitadas, bem como descontos concedidos sob condição;
+b) frete, caso o transporte seja efetuado pelo próprio remetente ou por sua conta e ordem e seja cobrado em separado.
+Art. 23. Não integra a base de cálculo do imposto:
+Nota:
+Vide Resolução Normativa .
+I - o montante do Imposto sobre Produtos Industrializados - IPI, quando a operação, realizada entre contribuintes e relativa a produto destinado à industrialização ou à comercialização, configurar fato gerador dos dois impostos;
+II - os acréscimos financeiros cobrados nas vendas a prazo a consumidor final.
+III – as bonificações em mercadorias.
+IV – o valor da demanda de potência não utilizada, na hipótese de fornecimento de energia elétrica por demanda contratada.
+Parágrafo único. Considera-se bonificação a unidade entregue a mais, pelo vendedor, da mesma mercadoria consignada no documento fiscal e que não represente acréscimo ao valor da operação.
+Nota:
+V. 
+Art. 24. A exclusão dos acréscimos financeiros de que trata o art. 23, II, fica condicionada a que a base de cálculo do imposto, em cada operação, não seja inferior ao valor da entrada da mercadoria no estabelecimento, acrescido de percentual de margem de lucro bruto definido em .
+§ 1° O contribuinte, para o fim previsto neste artigo, deverá indicar na nota fiscal, , ou no respectivo  ou , modelo 2, emitidos por equipamento emissor de al - ECF:
+I - o preço a vista da mercadoria;
+II - o valor do acréscimo financeiro efetivamente cobrado;
+III - o valor da entrada, se houver, e o número de prestações.
+§ 2° O valor do acréscimo financeiro a ser excluído da base de cálculo não deve exceder o valor resultante da aplicação, sobre o preço à vista, excluído o valor da entrada, de percentuais fixados em .
+§ 3° Consideram-se vendas a prazo aquelas cujo valor, exceto o da entrada, deverá ser pago em uma ou mais vezes, observando-se o seguinte:
+I - nos casos de venda em prestação única ou em prestações uniformes, com espaço mínimo de 30 (trinta) dias entre os vencimentos das prestações, a contar da data da realização da venda, o montante máximo do acréscimo financeiro será determinado em função do número de prestações fixado entre as partes no ato da venda;
+II - no caso de venda em prestações desiguais, com espaço mínimo de 30 (trinta) dias, a contar da data da realização da venda, o montante máximo do acréscimo financeiro será determinado em função do prazo médio de pagamento do valor financiado.
+§ 4° Considera-se prazo médio de pagamento do valor financiado a parte inteira do quociente da divisão em que:
+I - o dividendo será a soma dos produtos das multiplicações das quantidades de dias decorridos entre a data da venda e a data do vencimento de cada prestação e os valores das prestações respectivas;
+II - o divisor será igual à soma dos valores das prestações.
+Art. 25. Nas operações e prestações praticadas entre estabelecimentos de contribuintes diferentes, caso haja reajuste do valor depois da remessa ou da prestação, a diferença fica sujeita ao imposto no estabelecimento do remetente ou do prestador.
+Seção II
+Das Alíquotas
+Art. 26. As alíquotas do imposto, nas operações e prestações internas, inclusive na entrada de mercadoria importada e nos casos de serviços iniciados ou prestados no exterior, são:
+I - 17% (dezessete por cento), salvo quanto às mercadorias e serviços relacionados nos incisos II, III e IV;
+II - 25% (vinte e cinco por cento) nos seguintes casos:
+a) REVOGADA;
+b) operações com os produtos supérfluos relacionados no ;
+c) REVOGADA;
+d) REVOGADA;
+III - 12% (doze por cento) nos seguintes casos:
+a) operações com energia elétrica de consumo domiciliar, até os primeiros 150 Kw (cento e cinquenta quilowatts);
+b) operações com energia elétrica destinada a produtor rural e cooperativas rurais redistribuidoras, na parte que não exceder a 500 Kw (quinhentos quilowatts) mensais por produtor rural;
+c) prestações de serviço de transporte rodoviário, ferroviário e aquaviário de passageiros;
+d) mercadorias de consumo popular, relacionadas no ;
+e) produtos primários, em estado natural,  relacionados no ;
+f) veículos automotores, relacionados no ;
+g) óleo diesel;
+h) coque de carvão mineral.
+i) pias, lavatórios, colunas para lavatórios, banheiros, bidês, sanitários e caixas de descarga, mictórios e aparelhos fixos semelhantes para uso sanitário, de porcelana ou cerâmica, 6910.10.00 e 6910.90.00 ();
+j) ladrilhos e placas de cerâmica, exclusivamente para pavimentação ou revestimento, classificados segundo a Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado – NBM/SH nas posições 6907 e 6908 ();
+l) blocos de concreto, telhas e lajes planas pré-fabricadas, painéis de lajes, pré-lajes e pré-moldados, classificados, segundo a Nomenclatura Comum do Mercosul (NCM), respectivamente, nos códigos 6810.11.00, 6810.19.00, 6810.91.00 e 6810.99.00 ();
+m) mercadorias integrantes da cesta básica da construção civil, relacionadas no  ();
+n) mercadorias destinadas a contribuinte do imposto; e
+o) fornecimento de alimentação em bares, restaurantes e estabelecimentos similares.
+IV - 7% (sete por cento) nas prestações de serviços de comunicação destinadas a empreendimentos enquadrados no Programa de Fomento às Empresas Prestadoras de Serviço de “Telemarketing”. ().
+Nota:
+V. .
+§ 1º Até 30 setembro de 2006, a alíquota do imposto incidente nas operações com álcool etílico hidratado carburante fica reduzida para 18% (dezoito por cento) ().
+§ 2º Até 31 de dezembro de 2006, a alíquota do imposto incidente nas operações com vinho fica reduzida para 17% (dezessete por cento) ().
+§ 3º Fica reduzida para 17% (dezessete por cento) a alíquota do imposto nas operações com protetor solar ().
+Nota:
+§ 3º – REINSTITUÍDO – .
+§ 4º Para fins do disposto neste artigo, são internas as operações com mercadorias entregues a consumidor final não contribuinte do imposto em território catarinense, independentemente do seu domicílio ou da sua eventual inscrição no cadastro de contribuintes do ICMS de outra unidade da Federação.
+§ 5º O disposto na alínea “n” do inciso III do caput deste artigo não se aplica:
+I – às operações sujeitas à alíquota prevista no inciso II do caput deste artigo;
+II – às operações com mercadorias:
+a) destinadas ao uso, consumo ou ativo imobilizado do destinatário; ou
+b) utilizadas pelo destinatário na prestação de serviços sujeitos ao imposto sobre serviços, de competência dos Municípios; e
+III – às saídas de artigos têxteis, de vestuário e de artefatos de couro e seus acessórios promovidas pelo estabelecimento industrial que os tenha produzido.
+IV – por opção do contribuinte, às saídas de telhas onduladas de fibrocimento com espessura maior do que 5 mm (cinco milímetros), sem utilização de amianto, classificadas, segundo a NCM, no código 6811.82.00, e produzidas pelo próprio estabelecimento.
+V – às operações com energia elétrica, gasolina automotiva e álcool carburante ().
+§ 6º Na hipótese da alínea “n” do inciso III do caput deste artigo, o destinatário responde solidariamente pelo recolhimento do imposto correspondente à diferença entre a alíquota prevista no inciso I do caput deste artigo e aquela definida na própria alínea “n” do inciso III do caput deste artigo, observado o disposto nos arts. 22 e 23 deste Regulamento, e pelos respectivos acréscimos legais, quando destinar ou utilizar as mercadorias em qualquer dos casos previstos no inciso II do § 5º deste artigo.
+§ 7º O disposto na alínea “o” do inciso III do caput deste artigo não se aplica ao fornecimento de bebidas, exceto quando se tratar de fornecimento de sucos de fruta não alcoólicos preparados pelo próprio estabelecimento, classificados, segundo a Nomenclatura Comum do Mercosul (NCM), no código 20.09.
+§ 8º Aplica-se a alíquota prevista no inciso I do caput deste artigo às operações de importação de mercadorias ou de bens integrantes de remessa postal ou de encomenda aérea internacional (Lei nº 18.319/2021, ).
+§ 9º Sujeitam-se à alíquota de que trata o inciso I do caput deste artigo os valores apurados nos termos do deste Regulamento, salvo quando houver operações ou prestações internas tributáveis declaradas pelo próprio sujeito passivo na respectiva competência, hipótese em que será aplicada a proporção destas operações ou prestações às receitas omitidas (da Lei nº 19.048, de 2024).
+§ 10. Para efeitos do disposto no § 9º deste artigo, serão utilizadas para o cálculo do imposto incidente sobre as receitas omitidas as alíquotas internas previstas na legislação tributária para as respectivas operações e prestações tributadas informadas à Secretaria de Estado da Fazenda (SEF), independentemente do efetivo destaque do imposto por parte do sujeito passivo.
+Art. 27. Nas operações e prestações interestaduais, as alíquotas do imposto são:
+I – 12 (doze por cento), nas operações ou prestações que destinarem mercadorias, bens ou serviços a pessoa localizada nos Estados de Minas Gerais, Paraná, Rio de Janeiro, Rio Grande do Sul e São Paulo;
+II – 7% (sete por cento), nas operações ou prestações que destinarem mercadorias, bens ou serviços a pessoa localizada nos demais Estados e no Distrito Federal;
+III - 4% (quatro por cento) na prestação de serviço de transporte aéreo de passageiros, carga e mala postal ().
+IV – 4% (quatro por cento), nas operações que destinarem a pessoa localizada em outro Estado ou no Distrito Federal mercadorias ou bens importados do exterior que, após seu desembaraço aduaneiro:
+a) não tenham sido submetidos a processo de industrialização; ou
+b) ainda que, submetidos a qualquer processo de transformação, beneficiamento, montagem, acondicionamento, reacondicionamento, renovação ou recondicionamento, resultem em mercadorias ou bens com conteúdo de importação superior a 40% (quarenta por cento), observado o disposto no Capítulo LXII do Título II do Anexo 6.
+ 
+§1º - REVOGADO.
+§ 2º Não se aplica a alíquota do ICMS de 4% (quatro por cento), de que trata o inciso IV deste artigo, nas operações interestaduais com:
+I – bens e mercadorias importados do exterior que não tenham similar nacional, definidos em lista editada pelo Conselho de Ministros da Câmara de Comércio Exterior (CAMEX) para os fins da Resolução do Senado Federal nº 13, de 25 de abril de 2012;
+II – bens e mercadorias produzidos em conformidade com os processos produtivos básicos de que tratam o , e as , nº , nº , e nº ; e
+III – gás natural importado do exterior.
+§ 3º O Conteúdo de Importação a que se refere a alínea “b” do inciso IV do caput deste artigo é o percentual correspondente ao quociente entre o valor da parcela importada do exterior e o valor total da operação de saída da mercadoria ou bem, observado o disposto no  do Anexo 6.
+CAPÍTULO V
+DA NÃO-CUMULATIVIDADE DO IMPOSTO
+Seção I
+Da Compensação do Imposto
+Art. 28. O imposto é não-cumulativo, compensando-se o que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços de transporte interestadual e intermunicipal e de comunicação com o montante cobrado nas anteriores por este ou por outro Estado ou pelo Distrito Federal.
+Nota:
+Vide Resoluções Normativas .
+Seção II
+Do Crédito
+Art. 29. Para a compensação a que se refere o art. 28, é assegurado ao sujeito passivo o direito de creditar-se do imposto anteriormente cobrado em operações de que tenha resultado a entrada de mercadoria, real ou simbólica, no estabelecimento, inclusive a destinada ao seu uso ou consumo ou ao ativo  permanente, ou  o  recebimento de serviços de transporte interestadual e intermunicipal ou de comunicação.
+Nota:
+Vide Resolução Normativa , , ,  e .
+§ 1° REVOGADO.
+§ 2º O imposto recolhido na forma do art. 60, § 1º, II, “” a “f”, poderá ser apropriado como crédito, pelo destinatário, enquadrado no regime normal de apuração, juntamente com o imposto destacado no documento fiscal, observado, em relação a este, o disposto nos arts.  e .
+§ 3º Na aplicação do disposto no § 2° deverá ser observado:
+I - relativamente à parcela do imposto recolhido na forma do art. 60, § 1º, II, “” que exceder o imposto destacado no documento fiscal relativo à operação interestadual, não se aplicam as disposições dos arts. 30 e 35;
+II - o creditamento do imposto destacado no documento fiscal deverá ser efetuado na forma e condições da legislação pertinente.
+§ 4º - REVOGADO.
+§ 5º O crédito decorrente da entrada de mercadoria adquirida de contribuinte enquadrado no Simples Nacional, aproveitado nas condições e limites previstos no art. 23 da Lei Complementar federal nº 123, de 14 de dezembro de 2006, deverá ser escriturado com observância ao disposto no § 9º do  e no § 1º do , ambos do Anexo 5 deste Regulamento.
+§ 6º Nas operações ou prestações destinadas a consumidor final não contribuinte do imposto, localizado em outra Unidade da Federação, o crédito relativo às operações e prestações anteriores deve ser deduzido do débito correspondente ao imposto devido a este Estado, observado o disposto neste Capítulo.
+§ 7º O disposto no § 6º deste artigo também se aplica à parcela do diferencial de alíquota devida a este Estado nos termos do .
+§ 8º Para a apropriação, pelo prestador de serviço de transporte, do crédito do imposto incidente sobre a entrada de combustíveis, lubrificantes, aditivos, fluidos, pneus, câmaras de ar e peças de reposição, efetivamente utilizados na prestação de serviço de transporte em que o Estado seja sujeito ativo, o documento fiscal e eventuais documentos referenciados deverão conter (§ 3º do  da Lei nº 10.297, de 1996):
+I – o nome ou a razão social, o endereço, a inscrição estadual e o CNPJ do destinatário; e
+II – tratando-se de operações com combustíveis, a placa do veículo abastecido.
+Art. 30. O crédito será apropriado proporcionalmente nos casos em que a operação ou prestação subseqüente for beneficiada por redução da base de cálculo, na forma prevista na legislação tributária.
+Nota:
+Vide Resolução Normativa .
+Art. 31. O direito de crédito, para efeito de compensação com débito do imposto, reconhecido ao estabelecimento que tenha recebido as mercadorias ou para o qual tenham sido prestados os serviços, está condicionado à idoneidade da documentação e, se for o caso, à escrituração nos prazos e condições estabelecidos na legislação.
+Nota:
+Vide Resolução Normativa .
+§ 1º Para fins do disposto no caput deste artigo, considera-se escrituração inidônea, impedindo o creditamento do imposto:
+I – a utilização dos códigos de ajustes da Escrituração Fiscal Digital (EFD) em desacordo com a legislação; ou
+II – a utilização de códigos de ajuste da EFD genéricos, na hipótese de a legislação estabelecer códigos específicos para a operação ou prestação.
+§ 2º O disposto no § 1º deste artigo também se aplica à escrituração de créditos presumidos ou de qualquer outro crédito escriturado em função de saídas de mercadoria ou prestação de serviços.
+Art. 32. O direito de utilizar o crédito extingue-se depois de decorridos 5 (cinco) anos contados da data de emissão do documento.
+Art. 33. O contribuinte, independentemente de prévia autorização do fisco, poderá creditar-se do imposto indevidamente pago, em virtude de erro de fato, ocorrido na escrituração dos livros fiscais ou no preenchimento de documento de arrecadação.
+Parágrafo único. O crédito será escriturado no livro Registro de Apuração do ICMS, consignando-se, no campo destinado a observações, a natureza do erro cometido e o período de apuração a que se refere.
+Notas: INCENTIVO À CULTURA:
+6 – V. arts. 7º, 8º e 41 do  (Lei n° 10.929/98) - (REVOGADOS pelo  – Vigente até 28.04.05).
+5 – V. art. 1º do  - (REVOGADO pelo  – Vigente até 28.04.05);
+4 – V. art. 31 do  () - (REVOGADO pelo );
+3 – V. arts. 7° e 8° do ;
+2 – V. arts. 1° e 2° do ;
+1 – V. ;
+Notas: FUNDOSOCIAL:
+5 – V. Art. 2° da .
+4 – V. art. 1°, 2° e 4º do ;
+3 – V. art. 1° e 2° do ;
+2 – V. art. 8° do ;
+1 – V. art. 22 do  ()
+Seção III
+Da Vedação ao Crédito
+Art. 34. Não dão direito a crédito as entradas de mercadorias ou utilização de serviços:
+I - resultantes de operações ou prestações isentas ou não tributadas;
+II – com imposto retido na origem em regime de substituição tributária, ressalvadas as hipóteses previstas no  do Anexo 3.
+III - que se refiram a mercadorias ou serviços alheios à atividade do estabelecimento;
+IV - aplicados em atividades sujeitas ao imposto sobre serviços, de competência municipal;
+V - aplicados na prestação de serviço de transporte iniciado em outro Estado;
+VI – quando o documento fiscal, relativo a operação ou prestação sujeita ao pagamento do imposto por ocasião do fato gerador, vier desacompanhado do respectivo documento de arrecadação.
+Parágrafo único. Salvo prova em contrário, presumem-se alheios à atividade do estabelecimento os veículos de transporte pessoal.
+Art. 35. Salvo disposição em contrário, é vedado o crédito relativo à mercadoria entrada no estabelecimento ou a prestação de serviços a ele feita:
+I - para integração ou consumo em processo de industrialização ou produção rural, quando a saída do produto resultante for isenta ou não tributada;
+II - para comercialização ou prestação de serviço, quando a saída ou a prestação subseqüente for isenta ou não tributada.
+Parágrafo único. Fica assegurado o crédito correspondente às mercadorias ou serviços destinados ao exterior ou com fim específico de exportação, de que tratam o °, II e seus §§ 1º e 2º.
+Art. 35-A. Fica vedado o aproveitamento de crédito, ainda que destacado em documento fiscal, de operações oriundas de unidades da Federação que tenham concedido isenção, incentivos ou benefícios fiscais à revelia da  ().
+Art. 35-B. – REVOGADO.
+Seção IV
+Do Estorno de Crédito
+Art. 36. O sujeito passivo deverá efetuar o estorno do imposto de que se tiver creditado, sempre que o serviço tomado ou a mercadoria entrada no estabelecimento:
+I - for objeto de saída ou prestação de serviço isenta ou não tributada, sendo esta circunstância imprevisível na data da entrada da mercadoria ou da utilização do serviço;
+II - for integrada ou consumida em processo de industrialização, quando a saída do produto resultante for isenta ou não tributada, sendo esta circunstância imprevisível por ocasião da sua entrada;
+III - vier a ser utilizada em fim alheio à atividade do estabelecimento;
+IV - vier a perecer, deteriorar-se ou extraviar-se.
+§ 1° Não se estornam créditos referentes a mercadorias e serviços que venham a ser objeto de operações ou prestações destinadas ao exterior ou com fim específico de exportação, de que tratam o , II e seus §§ 1º e 2º.
+§ 2° Deverão ainda ser estornados, proporcionalmente ao respectivo faturamento, observado o disposto no , § 1º, os créditos incorridos:
+I - na prestação do serviço, por estabelecimentos que praticarem operações e prestações sujeitas ao ICMS e ao imposto sobre serviços, de competência municipal;
+II - na prestação de serviço de transporte iniciado em outro Estado.
+§ 3º Deverão ser estornados, proporcionalmente ao respectivo faturamento, os créditos previstos no § 8º do art. 29 deste Regulamento incorridos na prestação de serviço de transporte em que o Estado não seja sujeito ativo.
+Seção V
+Do Controle do Crédito do Ativo Permanente
+Art. 37. Os créditos decorrentes de operações de que decorra entrada de mercadorias destinadas ao ativo permanente, para efeito da compensação prevista nos arts.  e 29, além do lançamento em conjunto com os demais créditos, serão lançados em ficha própria para esse fim, que será  preenchida para cada bem e mantida em arquivo próprio à disposição do fisco ().
+§ 1º Quando se tratar de ativo permanente que tiver ingressado no estabelecimento até 31 de dezembro de 2000, será adotada a ficha Controle de Créditos do Ativo Permanente, aprovada por , a qual servirá para o cálculo e controle dos estornos a que se refere o  que, ao final de cada período de apuração, serão transferidos para o livro Registro de Apuração do ICMS.
+§ 2º Quando se tratar de ativo permanente que tiver ingressado no estabelecimento a partir de 1º de janeiro de 2001, será adotada a ficha Controle de Crédito de ICMS do Ativo Permanente – CIAP, aprovada por , a qual servirá para o cálculo e controle do crédito a que se refere o .
+§ 3º - REVOGADO.
+Art. 38. Na hipótese do , § 1º, devem ser estornados os créditos relativos a bens do ativo permanente:
+I - alienados antes de decorrido o prazo de cinco anos contados da data da sua aquisição, hipótese em que o estorno será de 20% (vinte por cento) por ano ou fração que faltar para completar o quinquênio;
+II - utilizados para produção ou comercialização de mercadorias cuja saída resulte em operações isentas ou não tributadas;
+III - utilizados na prestação de serviços isentos ou não tributados.
+§ 1º Em cada período de apuração, o montante do estorno previsto nos incisos II e III do “caput” será o que se obtiver multiplicando-se o respectivo crédito pelo fator igual a 1/60 (um sessenta avos) da relação entre a soma das saídas e prestações isentas e não tributadas e o total das saídas e prestações no mesmo período, observado o seguinte:
+I - as saídas e prestações com destino ao exterior ou com fim específico de exportação, de que tratam o  e seus §§ 1º e 2º, equiparam-se às tributadas;
+II - na hipótese de apuração decendial, o fator de estorno será de 1/180 (um cento e oitenta avos).
+§ 2º Aplica-se o disposto no inciso I, no caso de transferência, perecimento, extravio ou deterioração do bem.
+§ 3º Ao final do quinto ano contado da data da entrada do bem no estabelecimento, o saldo remanescente será cancelado de modo a não mais ocasionar estornos.
+Art. 39. Na hipótese do , §§ 2º e 3º, a apropriação dos créditos relativos a bens do ativo permanente ():
+Nota:
+Vide Resolução Normativa .
+I - será feita à razão de 1/48 (um quarenta e oito avos) por mês, devendo a primeira fração ser apropriada no mês em que ocorrer a entrada no estabelecimento;
+II - em cada período de apuração do imposto, não será admitido o creditamento de que trata o inciso I, em relação à proporção das saídas ou prestações isentas ou não tributadas sobre o total das saídas e prestações efetuadas no mesmo período.
+§ 1º Para aplicação do disposto nos incisos I e II do “caput”, o montante do crédito a ser apropriado será o obtido multiplicando-se o valor total do respectivo crédito pelo fator igual a 1/48 (um quarenta e oito avos) da relação entre o valor das saídas e prestações tributadas e o total das saídas e prestações do período, observado o seguinte:
+I - as saídas e prestações com destino ao exterior ou com fim específico de exportação, de que tratam o , II e seus §§ 1º e 2º, equiparam-se às tributadas;
+II - na hipótese de apuração decendial, o fator será de 1/144 (um cento e quarenta e quatro avos).
+§ 2º Na hipótese de alienação, transferência, perecimento, extravio ou deterioração dos bens do ativo permanente, antes de decorrido o prazo de quatro anos contado da data da sua entrada no estabelecimento, não será admitido, a partir da data da ocorrência, o creditamento de que trata este artigo em relação à fração que corresponderia ao restante do quadriênio.
+§ 3º Ao final do quadragésimo oitavo mês contado da data da entrada do bem no estabelecimento, o saldo remanescente do crédito será cancelado.
+§ 4º Fica facultada a apropriação em parcela única de crédito de até R$ 1.000,00 (mil reais), relativo a bem do ativo permanente, não se aplicando o disposto no inciso I do caput deste artigo.
+Nota:
+§ 4º – REINSTITUÍDO – .
+Art. 39-A. A aplicação do disposto nos , II e III, e , II, não afasta o estorno proporcional do crédito previsto no .
+CAPÍTULO VI
+DA TRANSFERÊNCIA E COMPENSAÇÃO DE CRÉDITOS ACUMULADOS
+Seção I
+Créditos Acumulados
+Art. 40. Consideram-se acumulados os saldos credores decorrentes de manutenção expressamente autorizada de créditos fiscais relativos a operações ou prestações subseqüentes isentas ou não tributadas.
+§ 1º O crédito transferível deve corresponder à proporção que as operações ou prestações referidas neste artigo representem do total das operações ou prestações realizadas pelo estabelecimento, observado ainda o disposto no inciso  do § 1º do art. 45 deste Regulamento.
+§ 2° Os créditos acumulados serão utilizados prioritariamente para compensação de débitos próprios do estabelecimento prevista no .
+§ 3º Poderão ser transferidos, a qualquer estabelecimento do mesmo titular ou para estabelecimento de empresa interdependente, neste Estado, os saldos credores acumulados por estabelecimentos que realizem operações e prestações:
+I - destinadas ao exterior, de que tratam o  II, e seus  §§ 1º e 2º:
+II - isentas ou não tributadas.
+§ 4º O saldo credor acumulado, na hipótese do § 3º, I, poderá também:
+I - ser compensado:
+a) com o imposto devido na entrada de máquinas e equipamentos importados diretamente do exterior do país, destinados ao ativo permanente do importador;
+b) REVOGADA.
+c) desde que autorizado pelo Secretário de Estado da Fazenda, com créditos tributários constituídos de ofício decorrentes de fatos geradores ocorridos até 31 de dezembro de 2018, inclusive os inscritos em dívida ativa, ajuizada ou não, contra o próprio sujeito passivo detentor do saldo acumulado, e observado o disposto no  deste artigo (Lei nº 17.878/2019, ).
+II – ser alienado a outros contribuintes deste Estado, de acordo com a disponibilidade financeira do erário, para:
+a) apropriação em conta gráfica;
+b) REVOGADA.
+III - ser transferido a outro estabelecimento do mesmo titular, localizado neste Estado, para compensar com o imposto devido na entrada de máquinas e equipamentos importados diretamente do exterior do país, destinados ao ativo permanente do importador.
+§ 5º O saldo credor acumulado, na hipótese do inciso II do § 3º deste artigo, poderá também ser alienado a outros contribuintes deste Estado para apropriação em conta gráfica, de acordo com a disponibilidade financeira do erário.
+§ 6º Para os efeitos do disposto no § 3º, considerar-se-ão interdependentes duas empresas quando uma delas, por si, seus sócios ou acionistas, for titular de mais de 50% (cinqüenta por cento) do capital da outra.
+§ 7º - REVOGADO.
+§ 8º - REVOGADO.
+§ 9º - REVOGADO.
+§ 10. Nas compensações previstas no § 4º, I, “a” e III, a liberação do bem importado através de recinto alfandegado localizado em outra unidade da Federação ou com DSI, dependerá da obtenção de visto prévio na Guia para Liberação de Mercadoria Estrangeira sem Comprovação do Recolhimento do ICMS, na Gerência Regional da Fazenda Estadual, conforme previsto no .
+§ 11. Mediante regime especial concedido pelo Diretor de Administração Tributária, atendidas as condições e limites nele previstos, ao estabelecimento de cooperativa não associada à cooperativa central poderá ser autorizado que o crédito acumulado em decorrência da saída de insumos agropecuários para suas filiais, nos termos do art. 42, II, na mesma proporção que se destinem à produção agropecuária, relativamente ao crédito acumulado transferível, tenha o mesmo tratamento do disposto no § 3º, II.
+§ 12. O montante das operações, resultante da proporção prevista no § 11, apurado em cada filial, será informado de forma unificada, para fins do controle previsto no .
+§ 13. A compensação de que trata a alínea “c” do inciso I do § 4º deste artigo observará o seguinte:
+I – fica condicionada:
+a) à comprovação da desistência, em sua totalidade:
+1. de ações ou embargos à execução fiscal relacionados com os respectivos créditos tributários, com renúncia ao direito sobre o qual se fundam, nos autos judiciais respectivos, com a quitação integral pelo sujeito passivo das custas e demais despesas processuais;
+2. de impugnações, defesas e recursos eventualmente apresentados pelo sujeito passivo no âmbito administrativo; e
+3. do recebimento, pelo procurador do sujeito passivo, de eventuais honorários de sucumbência do Estado; e
+b) ao pagamento:
+1. do valor remanescente do crédito tributário, à vista ou de forma parcelada, na hipótese de compensação parcial; e
+2. das despesas processuais e dos honorários advocatícios devidos ao Fundo Especial de Estudos Jurídicos e de Reaparelhamento (FUNJURE), instituído pela , de 29 de junho de 1992, em montante equivalente a 5% (cinco por cento) do valor compensado;
+II – no requerimento, o interessado deverá enumerar as notificações fiscais respectivas e, se for o caso, as Certidões de Dívida Ativa, o número do processo e o órgão administrativo ou judicial onde estejam tramitando; e
+III – em se tratando de crédito inscrito em dívida ativa, o pedido deverá ser instruído com parecer conclusivo do Procurador do Estado responsável pela cobrança.
+Art. 40-A. Mediante regime especial concedido à cooperativa central ou federação de cooperativas pelo Diretor de Administração Tributária, será autorizada a retransferência de eventual saldo remanescente, decorrente de operações previstas no , § 3º e no , II:
+I - entre estabelecimentos da mesma cooperativa;
+II - do estabelecimento de cooperativa filiada para estabelecimento de cooperativa central ou de federação de cooperativas;
+III - do estabelecimento de cooperativa central ou de federação de cooperativas para outras cooperativas filiadas situadas no Estado.
+Parágrafo único. A autorização de que trata o inciso, II, poderá ser estendida à cooperativa de produtores não associada a cooperativa central.
+Art. 40-B. Mediante regime especial autorizado pelo Secretário de Estado da Fazenda, que estabeleça os mecanismos formais de verificação e compensação dos créditos e que considere os impactos relativos à concentração econômica e à repercussão fiscal, o saldo credor acumulado decorrente das operações previstas no art. 40, § 3°, I, poderá ser transferido para integralização de capital de nova empresa ou modificação de sociedade existente, desde que do ramo industrial.
+Nota:
+V. 
+Art. 40-C. Com base no  do Decreto nº 105, de 14 de março de 2007, os créditos acumulados a que se referem os arts. , § 3º, e , atendidas as condições previstas em regime especial, poderão ser transferidos ou compensados, observado o disposto na .
+Seção II
+Créditos de Produtos Agropecuários
+Art. 41. Operações tributadas posteriores às saídas de produtos agropecuários isentos ou não tributados, dão ao estabelecimento que as praticar o direito de creditar-se do imposto cobrado nas operações anteriores.
+§ 1º O estabelecimento que promover as saídas isentas ou não tributadas, referidas no “caput”, deverá apresentar os documentos fiscais relativos aos créditos fiscais correspondentes na Gerência Regional da Fazenda Estadual a que jurisdicionado, a qual:
+I - aporá carimbo e visto nos documentos fiscais, indicando que não mais poderão ser utilizados para fins de crédito do imposto;
+II - efetuará um ou mais pedidos de transferência de crédito conforme disposto no , “caput”, que resultarão na geração de uma ou mais Autorizações de Utilização de Crédito, nos termos do , as quais servirão para o lançamento do crédito na escrita fiscal do destinatário.
+§ 2º Deverá ser elaborada uma relação dos documentos fiscais apresentados, que será entregue na Gerência Regional da Fazenda Estadual, para fins de controle, indicando: número da nota fiscal, data de emissão, identificação do emitente, valor da operação e valor do crédito.
+§ 3º As transferências de crédito de que trata esta Seção atenderão, no que couber, ao disposto na Seção IV.
+§ 4º O valor do crédito solicitado nos termos do § 1º, II, não poderá ser superior a 10% (dez por cento) do valor da operação.
+§ 5º Aplica-se o disposto nesta Seção às saídas de produtos agropecuários promovidas pelo próprio produtor com diferimento do imposto, relativamente ao crédito fiscal correspondente aos insumos, máquinas e implementos utilizados na produção agropecuária.
+§§ 6º e 7º REVOGADOS.
+§ 8º Até 31 de dezembro de 2016, em relação ao crédito das operações anteriores à saída de suínos, será observado o seguinte:
+I – poderá ser alienado a outros contribuintes deste Estado, de acordo com a disponibilidade financeira do erário, para apropriação em conta gráfica, não se aplicando o disposto no caput deste artigo; e
+II – não se aplica o disposto no § 4º deste artigo aos pedidos de transferência de crédito efetuados nos termos do inciso II do § 1º deste artigo.
+§ 9º O disposto no inciso I do § 8º deste artigo não se aplica nas saídas destinadas a estabelecimentos abatedores beneficiários do crédito presumido previsto no inciso II do  do Anexo 2.
+Art. 41-A. Fica facultado ao microprodutor primário que realizar operações isentas, não tributadas ou com diferimento do imposto, cuja saída subsequente for tributada, a transferência do crédito acumulado ao adquirente das mercadorias ou, alternativamente, ao estabelecimento fabricante ou revendedor, para pagamento de aquisições de máquinas, equipamentos, materiais e insumos que forem utilizados exclusivamente na exploração da sua atividade ( da Lei no 16.971, de 26 de julho de 2016).
+§ 1º O crédito transferível, oriundo da aquisição de bens destinados à exploração da atividade desenvolvida pelo microprodutor primário, poderá ser transferido em parcela única, até o limite de R$ 5.000,00 (cinco mil reais) a cada ano civil, dispensando-se o atendimento do disposto no  deste Regulamento.
+§ 2º No caso de aquisição de bens em conjunto com outros produtores primários, inclusive por meio de associações, consórcio de produtores ou condomínio, somente terão direito à modalidade de cálculo do imposto transferível prevista neste artigo os produtores primários que atenderem aos requisitos do  do Anexo 6.
+§ 3º Na hipótese de alienação do bem antes de decorrido o prazo de 48 (quarenta e oito) meses, contado da data da sua aquisição, fica o microprodutor primário obrigado a efetuar o recolhimento do imposto até o dia 20 do mês seguinte ao da alienação, relativo aos meses faltantes para completar o restante do quadriênio.
+§ 4º Para a autorização do crédito transferível, será observado, no que couber, o disposto na  deste Capítulo.
+Seção III
+Outros Créditos
+Art. 42. REVOGADO.
+Nota:
+V. art. 2º do 
+Art. 43. O não-creditamento ou o estorno a que se referem os arts.  e  não impedem a utilização dos mesmos créditos em operações posteriores, sujeitas ao imposto, com a mesma mercadoria:
+I - nas operações de que decorra transferência de propriedade do estabelecimento, previstas no ;
+II - nas operações com produtos agropecuários a que se refere o .
+Art. 44. Poderá ainda ser transferido:
+I - ao estabelecimento destinatário do bem, o crédito remanescente, calculado na forma prevista no , no caso de transferência de bens do ativo permanente para outro estabelecimento do mesmo titular;
+II – de acordo com o , o saldo credor acumulado em decorrência do diferimento previsto no , I e III.
+Parágrafo único. A transferência prevista no inciso I do “caput”:
+I - será consignada na nota fiscal de transferência do bem:
+a) registrando-se o crédito no livro Registro de Entradas do estabelecimento de destino;
+b) procedendo-se ao estorno correspondente na escrita fiscal do estabelecimento de origem.
+II - implicará que:
+a) o prazo referido no , § 3º, seja contado pelo tempo faltante;
+b) os estornos referidos no art. 38 sejam calculados sobre o valor do crédito original.
+Art. 44-A. O crédito relativo à aquisição de bens para integração ao ativo imobilizado por consórcio de empresas poderá ser transferido às empresas consorciadas, na mesma proporção da participação de cada consorciada.
+§ 1° A transferência do crédito far-se-á mediante emissão de Nota Fiscal, , a qual, além dos demais requisitos exigidos, conterá:
+I – como natureza da operação, “Transferência de Crédito de Consórcio – RICMS-SC, art. 44-A”;
+II – o valor do crédito transferido, em algarismos, a ser indicado no retângulo da Nota Fiscal destinado ao destaque do imposto, e por extenso.
+§ 2° O documento fiscal será lançado, pelo destinatário, no livro Registro de Entradas, registrando o crédito na coluna Imposto Creditado, consignando na coluna Observações: “crédito recebido de consórcio em transferência – RICMS-SC, art. 44-A”.
+§ 3° O consórcio deverá estar devidamente inscrito no CCICMS, na forma prevista no Anexo 5, , § 9°.
+§ 4° O crédito transferido, apropriado pelo destinatário,  fica sujeita ao estabelecido nos , II, e §§ 2º e 3º, e .
+§ 5° Na hipótese de os créditos transferidos serem indevidos, a responsabilidade recairá sobre seus destinatários.
+Seção IV
+Procedimentos para Transferência de Créditos
+Subseção I
+Disposições Gerais
+Art. 45. O controle do crédito acumulado transferível, previsto no , § 3°, no  e no , II, será efetuado pelo estabelecimento transmitente, em quadro específico da DIME, segundo sua origem.
+Nota:
+Vide Resolução Normativa .
+§ 1º O valor do crédito acumulado transferível será:
+I - determinado com base no saldo existente no período de apuração imediatamente anterior;
+II – limitado ao saldo credor existente em conta gráfica, deduzido:
+a) do saldo credor recebido de estabelecimentos consolidados, conforme disposto no art. 56 deste Regulamento;
+b) do crédito recebido de outros contribuintes por meio do documento denominado Autorização para Utilização de Crédito (AUC), previsto no art. 52 deste Regulamento;
+c) do crédito estornado por determinação da autoridade fiscal responsável pela análise do pedido de reserva previsto no art. 48 deste Regulamento;
+d) dos créditos que foram objeto de notificação fiscal, ainda não definitivamente julgados.
+§ 2º O controle dos valores relativos aos períodos de referência encerrados para o envio da DIME, nos termos do  do Anexo 5, será efetuado pela apresentação do Demonstrativo de Crédito Acumulado para Exercício Encerrado (DCAEE), encaminhado por meio do aplicativo disponibilizado na página oficial da Secretaria de Estado da Fazenda (SEF) na internet.
+§ 3º As especificações técnicas do DCAEE de que trata o § 2º deste artigo serão disciplinadas em portaria do Secretário de Estado da Fazenda.
+Art. 45-A. - REVOGADO.
+Art. 46. O controle das transferências de créditos far-se-á por meio de sistema eletrônico específico, incluindo:
+I - a recepção, nos termos do art. 45, das seguintes informações prestadas pelo transmitente do crédito acumulado:
+a) o valor total do crédito disponível para transferência;
+b) a origem dos créditos;
+II - a respectiva apropriação:
+a) no estabelecimento transmitente do crédito, do débito referente à reserva do crédito acumulado transferível, no período de referência em que efetuado o pedido;
+b) no estabelecimento destinatário do crédito, no caso de aproveitamento em conta gráfica, no período de referência em que declarado na DIME, conforme § 1º, II.
+§ 1º Para compatibilização com o sistema eletrônico de transferência de crédito, os valores relativos aos créditos acumulados serão declarados no quadro específico da DIME:
+I - pelo estabelecimento transmitente do crédito no período de referência em que efetuado o pedido de reserva, informando:
+a) a origem do crédito transferível;
+b) o valor da reserva de crédito aprovado no período de referência;
+II - pelo estabelecimento destinatário do crédito em transferência, à vista da , informando:
+a) a origem do crédito recebido;
+b) o valor das transferências recebidas lançadas no período de referência;
+c) o número da autorização de que trata o , I.
+§ 2º Os valores relativos à transferência de crédito serão registrados no livro Registro de Apuração do ICMS, no período de referência em que foi efetuado o lançamento na DIME, indicando:
+I - na hipótese do § 1º, I, “a”, o valor do crédito aprovado e o número do protocolo a que se refere o , I;
+II - nas hipóteses do § 1º, II, o valor do crédito constante da AUC e os respectivos números de controle.
+§ 3º  disciplinará os procedimentos relativos à transferência e compensação de crédito previstos neste Capítulo.
+Art. 47. Não se autorizará a transferência de créditos prevista neste Capítulo se o estabelecimento transmitente, na data do pedido de transferência ou compensação:
+I - for devedor da Fazenda Estadual, inclusive com parcelamentos em atraso;
+II - possuir crédito inscrito em dívida ativa não garantida.
+Parágrafo único. O disposto neste artigo:
+I - aplica-se ao destinatário da transferência de crédito destinada a compensação do imposto devido na importação de mercadoria ou bem; e
+II – não se aplica na hipótese do , § 4º, I, “b”, e II, “b”.
+Art. 47-A. Ressalvadas as hipóteses previstas neste Regulamento, é vedada a retransferência de créditos para o estabelecimento de origem ou para terceiros.
+Subseção II
+Da Reserva dos Créditos Transferíveis
+Art. 48. O pedido de reserva para transferência do saldo do crédito acumulado transferível, informado nos termos do , será efetuado via Internet, por meio da página oficial da Secretaria de Estado da Fazenda, informando no mínimo:
+I - o nome e os números de inscrição no CCICMS e no CNPJ do detentor do crédito acumulado transferível;
+II - a origem do crédito transferível.
+§ 1º A apreciação do pedido está condicionada à apresentação, junto à Gerência Regional a que jurisdicionado o estabelecimento detentor do crédito acumulado transferível, dos seguintes documentos:
+I - protocolo gerado a partir do pedido previsto no “caput”;
+II - cópia dos documentos comprobatórios das operações de saída realizadas em cada mês a que se refiram os demonstrativos de créditos acumulados;
+III - outros documentos, a critério do responsável pela análise do pedido de reserva.
+IV - comprovante de pagamento da taxa de serviços gerais.
+§ 2º Atendidas as exigências previstas no § 1º, o Auditor Fiscal procederá a análise conclusiva sobre o pedido de reserva.
+§ 3º Na hipótese de anuência ao parecer favorável do Auditor Fiscal pelo Gerente Regional, automaticamente, o crédito acumulado passa para a condição de reservado e imediatamente será publicado na página oficial da Secretaria de Estado da Fazenda, na Internet, conforme o disposto no § 6°.
+§ 4º O protocolo previsto no § 1º, I, apresentará como valor reservado o saldo do crédito acumulado transferível existente no período de apuração imediatamente anterior.
+§ 5° A utilização do saldo reservado de crédito acumulado para transferência ou compensação dar-se-á a partir do período seguinte à sua aprovação e do respectivo lançamento do débito na DIME, conforme o art. 46, § 1º, I.
+§ 6º REVOGADO.
+§ 7º Na hipótese de decisão contrária ao pedido de reserva, caberá recurso ao Diretor de Administração Tributária.
+Art. 49. A aprovação do pedido de reserva do crédito acumulado, bem como das demais faculdades previstas neste Capítulo não implica reconhecimento da legitimidade do saldo credor acumulado, nem homologação dos lançamentos efetuados pelo contribuinte.
+Subseção III
+Da Transferência dos Créditos Reservados
+Art. 50. O pedido de transferência ou compensação do saldo reservado do crédito acumulado será efetuada, via Internet, por meio da página oficial da Secretaria de Estado da Fazenda, informando no mínimo:
+I - o nome e os números de inscrição no CCICMS e no CNPJ do transmitente do crédito;
+II - a origem do crédito transferível;
+III - o número de inscrição no CCICMS e CNPJ do destinatário da transferência ou compensação;
+IV - o valor da transferência ou compensação solicitada;
+V - declaração de aceite, de acordo com o § 1°, se for o caso;
+VI - a destinação do crédito a ser transferido.
+§ 1º Conforme a destinação do crédito acumulado poderá ser exigida declaração de aceite prevista no .
+§ 2° Na compensação prevista no , I, “a” e III, para cada DI ou DSI será exigida uma única solicitação e a  correspondente declaração de aceite.
+Art. 51. Nas hipóteses previstas neste Capítulo, previamente ao pedido de transferência ou compensação do crédito, poderá ser exigida declaração de aceite, que conforme o caso, poderá ser emitida:
+I - pelo destinatário do crédito a ser transferido ou pelo transmitente do crédito a ser compensado;
+II - pela Diretoria de Administração Tributária, nos casos em que seja exigida autorização especial.
+§ 1° A declaração prevista no “caput” será efetuada via Internet, por meio da página oficial da Secretaria de Estado da Fazenda, informando no mínimo, conforme o caso:
+I - o nome e os números de inscrição no CCICMS e no CNPJ do declarante;
+II - o número de inscrição no CCICMS do transmitente do crédito;
+III - o valor do crédito aceitado;
+IV - as seguintes informações de acordo com a destinação dada ao crédito reservado:
+a) quando se tratar de transferência de crédito acumulado em decorrência de diferimento ou suspensão do imposto, o destinatário informará o número da nota fiscal da industrialização ou da entrada das mercadorias, a série, a data, a descrição do serviço ou mercadoria e o valor;
+b) quando se tratar de compensação de imposto devido na importação, o número da Declaração de Importação - DI ou da Declaração Simplificada de Importação - DSI, conforme o caso, e a identificação da mercadoria ou bem importado;
+c) quando se tratar de compensação de créditos tributários constituídos de ofício ou não, a relação dos créditos tributários, a serem liquidados, total ou parcialmente;
+d) outras informações que se fizerem necessárias sempre que exigida a declaração de aceite.
+§ 2º Na hipótese do § 1º, IV, “a”, somente serão relacionados os documentos que não excedam o montante do crédito que será autorizado para o declarante.
+Subseção IV
+Da Autorização para Utilização de Crédito
+Art. 52. Atendidos os requisitos previstos nesta Seção, as transferências e compensações serão autorizadas por intermédio do sistema eletrônico de transferência de crédito, na data da aprovação do pedido, mediante documento denominado Autorização para Utilização de Crédito - AUC, que servirá para lançamento do crédito na conta gráfica, quando cabível, e conterá, no mínimo:
+I - o número da autorização gerada pelo sistema;
+II - a data da autorização;
+III - o nome e os números de inscrição no CCICMS e no CNPJ do requerente da transferência ou os números de inscrição no CPP e no CPF quando se tratar de produtor primário;
+IV - o nome e os números de inscrição no CCICMS e no CNPJ do destinatário da transferência;
+V - o valor do crédito autorizado, sua origem e destinação;
+VI - outras informações de acordo com a destinação do crédito;
+VII - a identificação do Auditor Fiscal que analisou o processo e do Gerente Regional que homologou a informação.
+§ 1º A Autorização para Utilização de Crédito - AUC será:
+I - disponibilizada ao destinatário do crédito, na data da autorização, para ser impressa, via Internet, por meio da página oficial da Secretaria de Estado da Fazenda;
+II - arquivada juntamente com os documentos fiscais e apresentada ao fisco sempre que solicitado.
+§ 2º REVOGADO.
+§ 3º A AUC será válida para lançamento na DIME entregue até o décimo dia do quarto mês subseqüente ao da respectiva emissão.
+Art. 52-A. REVOGADO.
+Art. 52-B. REVOGADO.
+NOTAS:
+CRÉDITO ACUMULADO X SC PARCERIAS:
+V.  arts. 1° e 2º do .
+CRÉDITO ACUMULADO X PRODEC:
+2) V. art. 1° do .
+1) V. arts. 1° a 4° do .
+Subseção V                                                                                             Da Autorização de Limites Especiais para Transferência de Créditos
+Art. 52-C. Mediante regime especial concedido pelo Secretário de Estado da Fazenda, poderão ser autorizados limites especiais para a transferência de créditos acumulados decorrentes de manutenção expressamente autorizada de créditos fiscais relativos a operações ou prestações subsequentes com destino ao exterior, isentas ou diferidas, a:
+I – empresas cujo plano de recuperação judicial esteja homologado pelo Poder Judiciário, nos termos da Lei federal nº , de 9 de fevereiro de 2005;
+II – demais empresas, condicionado a investimentos em projetos de expansão de atividades ou à criação de novos negócios em território catarinense; e
+III – demais empresas, na forma prevista em Portaria do Secretário de Estado da Fazenda, a qual fixará critérios e outras condições para autorização de limites especiais de que trata esta Subseção.
+§ 1º Na hipótese do inciso II do caput deste artigo, deverão ser anexados eletronicamente os seguintes documentos quando do pedido do regime especial:
+I – meta de geração de empregos diretos;
+II – plano de investimentos com cronograma físico-financeiro do projeto;
+III – REVOGADO.
+IV – REVOGADO.
+§ 2º Na hipótese do inciso II do caput deste artigo, adicionalmente à documentação de que trata o § 1º, a empresa deverá firmar os seguintes termos de compromisso com a Secretaria de Estado da Fazenda (SEF) para obtenção do regime especial de que trata este artigo:
+I – termo de compromisso para execução do plano de investimentos; e
+II – termo de compromisso para contribuição, a fundo estadual indicado no ato concessório, equivalente a 5% (cinco por cento) do valor do crédito efetivamente transferido no período de apuração.
+§ 3º Na hipótese do inciso III do caput deste artigo, para obtenção do regime especial, a empresa deverá firmar com a Secretaria de Estado da Fazenda (SEF) termo de compromisso para contribuição, a fundo estadual indicado no  ato concessório, equivalente a 5% (cinco por cento) do valor do crédito efetivamente transferido no período de apuração.
+§ 4º Mediante requerimento ao Secretário de Estado da Fazenda, poderá ser dispensada do regime especial de que trata este artigo a autorização de limites especiais para a transferência de créditos acumulados relativos às operações diferidas, realizadas pelos contribuintes enquadrados nas atividades previstas na CNAE 500301 e 500302.
+Art. 52-D. O regime especial de que trata o art. 52-C deste Regulamento observará o seguinte:
+I – deverá ser solicitado por meio de aplicativo próprio disponibilizado no Sistema de Administração Tributária (SAT), na página oficial da SEF na internet;
+II – será concedido por prazo certo, e a sua prorrogação, o aumento de limite especial ou a nova concessão de regime especial, depende:
+a) na hipótese do inciso I do caput do art. 52-C deste Regulamento, da manutenção da situação de recuperação judicial;
+b) na hipótese do inciso II do caput do art. 52-C deste Regulamento, do cumprimento das regras estabelecidas em portaria do Secretário de Estado da Fazenda;
+c) REVOGADA.
+III – na hipótese do inciso II do caput do art. 52-C deste Regulamento, Portaria do Secretário de Estado da Fazenda definirá matriz de pontuação que estabelecerá os critérios, valores e prazos para fruição dos limites especiais de que trata esta Subseção;
+IV – não se aplica a contribuintes que possuam débitos para com a Fazenda Estadual, salvo se com exigibilidade suspensa; e
+V – o procedimento de transferência de créditos observará, no que couber, o disposto nesta Seção.
+Art. 52-E. O regime especial de que trata o art. 52-C deste Regulamento obedecerá a limites de valores mensais e anuais para transferência de créditos de acordo com critérios estabelecidos em Portaria do Secretário de Estado da Fazenda.
