@@ -1,0 +1,796 @@
+{
+  "livro": "LIVRO III",
+  "titulo_livro": "DAS DEMAIS DISPOSIÇÕES",
+  "titulos": [
+    {
+      "titulo": "TÍTULO I",
+      "nome_titulo": "DA ZONA FRANCA DE MANAUS, DAS ÁREAS DE LIVRE COMÉRCIO E DA DEVOLUÇÃO DO IBS E DA CBS AO TURISTA ESTRANGEIRO",
+      "capitulos": [
+        {
+          "capitulo": "CAPÍTULO I",
+          "nome_capitulo": "DA ZONA FRANCA DE MANAUS",
+          "artigos": [
+            {
+              "numero": "Art. 439",
+              "caput": "Os benefícios relativos à Zona Franca de Manaus estabelecidos neste Capítulo aplicam-se até a data estabelecida pelo art. 92-A do ADCT."
+            },
+            {
+              "numero": "Art. 440",
+              "caput": "Para fins deste Capítulo, considera-se:",
+              "incisos": [
+                {
+                  "texto": "Zona Franca de Manaus a área definida e demarcada pela legislação específica;"
+                },
+                {
+                  "texto": "indústria incentivada a pessoa jurídica contribuinte do IBS e da CBS e habilitada na forma do art. 442 desta Lei Complementar para fruição de benefícios fiscais na industrialização de bens na Zona Franca de Manaus, exceto aqueles de que trata o art. 441 desta Lei Complementar;"
+                },
+                {
+                  "texto": "bem intermediário:",
+                  "alineas": [
+                    {
+                      "letra": "a",
+                      "texto": "o produto industrializado destinado à incorporação ou ao consumo em processo de industrialização de outros bens, desde que o destinatário imediato seja estabelecimento industrial;"
+                    },
+                    {
+                      "letra": "b",
+                      "texto": "o produto destinado à embalagem pelos estabelecimentos industriais;"
+                    }
+                  ]
+                },
+                {
+                  "texto": "bem final, aquele sobre o qual não se agrega mais valor no processo produtivo e que é destinado ao consumo."
+                }
+              ],
+              "paragrafos": [
+                {
+                  "numero": "Parágrafo único",
+                  "texto": "Para fins deste Capítulo, em todas as operações entre partes relacionadas observar-se-á o disposto no § 4º do art. 12 desta Lei Complementar."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 441",
+              "caput": "Não estão contemplados pelo regime favorecido da Zona Franca de Manaus:",
+              "incisos": [
+                {
+                  "texto": "armas e munições;"
+                },
+                {
+                  "texto": "fumo e seus derivados;"
+                },
+                {
+                  "texto": "bebidas alcoólicas;"
+                },
+                {
+                  "texto": "automóveis de passageiros;"
+                },
+                {
+                  "texto": "petróleo, lubrificantes e combustíveis líquidos e gasosos derivados de petróleo, exceto para a indústria de refino de petróleo localizada na Zona Franca de Manaus, em relação exclusivamente às saídas internas para aquela área incentivada, desde que cumprido o processo produtivo básico, permanecendo a vedação para todas as demais etapas; e"
+                },
+                {
+                  "texto": "produtos de perfumaria ou de toucador, preparados e preparações cosméticas, salvo quanto a estes (posições 3303 a 3307 da Nomenclatura Comum do Mercosul), se destinados exclusivamente a consumo interno na Zona Franca de Manaus ou se produzidos com utilização de matérias-primas da fauna e da ﬂora regionais, em conformidade com processo produtivo básico."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 442",
+              "caput": "Nos termos definidos em regulamento, é condição para habilitação aos incentivos fiscais da Zona Franca de Manaus:",
+              "incisos": [
+                {
+                  "numero": "I",
+                  "texto": "a inscrição específica em cadastro da Superintendência da Zona Franca de Manaus - Suframa, para a pessoa jurídica que desenvolva atividade comercial ou fornecimento de serviços; e"
+                },
+                {
+                  "numero": "II",
+                  "texto": "a inscrição específica e aprovação de projeto técnico-econômico pelo Conselho de Administração da Suframa, com base nos respectivos processos produtivos básicos, para pessoa jurídica que desenvolva atividade industrial."
+                }
+              ],
+              "paragrafos": [
+                {
+                  "numero": "Parágrafo único",
+                  "texto": "No processo de aprovação dos projetos e dos processos produtivos básicos de que trata este artigo, deverão ser ouvidos o Estado do Amazonas e o Município de Manaus."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 443",
+              "caput": "Fica suspensa a incidência do IBS e da CBS na importação de bem material realizada por indústria incentivada para utilização na Zona Franca de Manaus.",
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "Não se aplica a suspensão de que trata ocaput às importações de:",
+                  "incisos": [
+                    {
+                      "numero": "I",
+                      "texto": "bens não contemplados pelo regime favorecido da Zona Franca de Manaus previstos no art. 441 desta Lei Complementar; e"
+                    },
+                    {
+                      "numero": "II",
+                      "texto": "bens de uso e consumo pessoal de que trata o art. 57 desta Lei Complementar, salvo se demonstrado que são necessários ao desenvolvimento da atividade do contribuinte vinculada ao projeto técnico-econômico aprovado."
+                    }
+                  ]
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "A suspensão de que trata ocaput converte-se em isenção:",
+                  "incisos": [
+                    {
+                      "numero": "I",
+                      "texto": "quando os bens importados forem consumidos ou incorporados em processo produtivo do importador na Zona Franca de Manaus;"
+                    },
+                    {
+                      "numero": "II",
+                      "texto": "após a depreciação integral do bem ou a permanência por 48 (quarenta e oito) meses no ativo imobilizado do estabelecimento adquirente, o que ocorrer primeiro."
+                    }
+                  ]
+                },
+                {
+                  "numero": "§ 3º",
+                  "texto": "Caso os bens importados com a suspensão de que trata ocaput sejam remetidos para fora da Zona Franca de Manaus antes da conversão em isenção de que trata o § 2º deste artigo, o importador deverá recolher os tributos suspensos com os acréscimos legais cabíveis, na forma dos § 2º do art. 29 desta Lei Complementar, permitida a apropriação e a utilização de créditos na forma dos arts. 47 a 56 desta Lei Complementar em relação aos valores efetivamente pagos, exceto em relação aos acréscimos legais."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 444",
+              "caput": "Fica concedido ao contribuinte habilitado na forma do art. 442 e sujeito ao regime regular ou ao Simples Nacional crédito presumido de IBS relativo à importação de bem material para revenda presencial na Zona Franca de Manaus.",
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "O crédito presumido de que trata ocaput será calculado mediante aplicação de percentual correspondente 50% (cinquenta por cento) da alíquota do IBS aplicável na importação."
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "O crédito presumido de que trata este artigo deverá ser deduzido do valor do IBS devido na importação."
+                },
+                {
+                  "numero": "§ 3º",
+                  "texto": "Ao importador dos bens de que trata ocaput sujeito ao regime regular do IBS, é garantida a apropriação e a utilização dos créditos integrais de IBS pelo valor do tributo incidente na importação, observadas as regras previstas nos arts. 47 a 56 desta Lei Complementar."
+                },
+                {
+                  "numero": "§ 4º",
+                  "texto": "O importador deverá recolher IBS corresponde ao valor do crédito presumido deduzido do valor devido na importação com os acréscimos legais cabíveis, na forma do § 2º do art. 29, desde a data da importação, caso:",
+                  "incisos": [
+                    {
+                      "numero": "I",
+                      "texto": "a revenda não cumpra a exigência disposta nocaput ;"
+                    },
+                    {
+                      "numero": "II",
+                      "texto": "não se comprove o ingresso do bem no estabelecimento de destino na Zona Franca de Manaus nos prazos estabelecidos em regulamento; e"
+                    },
+                    {
+                      "numero": "III",
+                      "texto": "o bem seja revendido para fora da Zona Franca de Manaus ou transferido para fora da Zona Franca de Manaus."
+                    }
+                  ]
+                },
+                {
+                  "numero": "§ 5º",
+                  "texto": "(VETADO)."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 445",
+              "caput": "Ficam reduzidas a zero as alíquotas do IBS e da CBS incidentes sobre operação originada fora da Zona Franca de Manaus que destine bem material industrializado de origem nacional a contribuinte estabelecido na Zona Franca de Manaus que seja:",
+              "incisos": [
+                {
+                  "numero": "I",
+                  "texto": "habilitado nos termos do art. 442 desta Lei Complementar; e"
+                },
+                {
+                  "numero": "II",
+                  "texto": "sujeito ao regime regular do IBS e da CBS ou optante pelo regime do Simples Nacional de que trata o art. 12 da Lei Complementar nº 123, de 14 de dezembro de 2006."
+                }
+              ],
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "O disposto nocaput não se aplica a operações com bens de que trata o § 1º do art. 443."
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "O contribuinte sujeito ao regime regular do IBS e da CBS que realiza as operações de que trata ocaput poderá apropriar e utilizar os créditos relativos às operações antecedentes, observado o disposto nos arts. 47 a 56 desta Lei Complementar."
+                },
+                {
+                  "numero": "§ 3º",
+                  "texto": "Deverão ser instituídos controles específicos para verificação da entrada na Zona Franca de Manaus dos bens materiais de que trata ocaput , nos termos do regulamento."
+                },
+                {
+                  "numero": "§ 4º",
+                  "texto": "Caso não haja comprovação de que os bens destinados à Zona Franca de Manaus ingressaram no destino, nos prazos estabelecidos em regulamento, o contribuinte deverá recolher o valor de IBS e de CBS que seria devido caso não houvesse a redução a zero de alíquotas, com os acréscimos legais cabíveis, na forma do § 2º do art. 29 desta Lei Complementar."
+                },
+                {
+                  "numero": "§ 5º",
+                  "texto": "O disposto nocaput se aplica também à operação com bem material intermediário submetido a industrialização por encomenda."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 446",
+              "caput": "O IBS incidirá sobre a entrada, no estado do Amazonas, de bens materiais que tenham sido contemplados com a redução a zero de alíquotas nos termos do art. 445 desta Lei Complementar, exceto se destinados a indústria incentivada para utilização na Zona Franca de Manaus.",
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "Na hipótese de que trata ocaput :",
+                  "incisos": [
+                    {
+                      "numero": "I",
+                      "texto": "o contribuinte do IBS será o destinatário da operação de que trata ocaput do art. 445 desta Lei Complementar;"
+                    },
+                    {
+                      "numero": "II",
+                      "texto": "a base de cálculo do imposto será o valor da operação de que trata ocaput do art. 445 desta Lei Complementar;"
+                    },
+                    {
+                      "numero": "III",
+                      "texto": "o IBS será cobrado mediante aplicação de alíquota correspondente a 70% (setenta por cento) da alíquota que incidiria na respectiva operação caso não houvesse a redução a zero estabelecida pelo art. 445 desta Lei Complementar."
+                    }
+                  ]
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "O valor do IBS pago na forma do inciso III do § 1º permitirá ao contribuinte a apropriação e a utilização do crédito do imposto, na forma dos arts. 47 a 56 desta Lei Complementar."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 447",
+              "caput": "Fica concedido ao contribuinte sujeito ao regime regular do IBS e habilitado nos termos do art. 442 desta Lei Complementar crédito presumido de IBS relativo à aquisição de bem material industrializado de origem nacional contemplado pela redução a zero da alíquota do IBS nos termos do art. 445 desta Lei Complementar.",
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "O crédito presumido de que trata ocaput será calculado mediante aplicação dos seguintes percentuais sobre o valor da operação contemplada pela redução a zero da alíquota do IBS nos termos do art. 445 desta Lei Complementar:",
+                  "incisos": [
+                    {
+                      "numero": "I",
+                      "texto": "7,5% (sete inteiros e cinco décimos por cento), no caso de bens provenientes das regiões Sul e Sudeste, exceto do Estado do Espírito Santo; e"
+                    },
+                    {
+                      "numero": "II",
+                      "texto": "13,5% (treze inteiros e cinco décimos por cento), no caso de bens provenientes das regiões Norte, Nordeste e Centro-Oeste e do Estado do Espírito Santo."
+                    }
+                  ]
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "O crédito presumido deverá ser estornado caso:",
+                  "incisos": [
+                    {
+                      "numero": "I",
+                      "texto": "não se comprove o ingresso do bem no estabelecimento de destino na Zona Franca de Manaus nos prazos estabelecidos em regulamento, exigindo-se os acréscimos legais cabíveis nos termos do§ 2º do art. 29 desta Lei Complementar;"
+                    },
+                    {
+                      "numero": "II",
+                      "texto": "o bem seja revendido para fora da ZFM ou transferido para fora da ZFM, não se exigindo acréscimos legais caso o estorno seja efetuado tempestivamente."
+                    }
+                  ]
+                },
+                {
+                  "numero": "§ 3º",
+                  "texto": "Quando do retorno ao encomendante, de bens submetidos a industrialização por encomenda, o crédito presumido de que trata ocaput se aplica, tão somente, ao valor agregado neste processo de industrialização."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 448",
+              "caput": "Ficam reduzidas a zero as alíquotas do IBS e da CBS incidentes sobre operação realizada por indústria incentivada que destine bem material intermediário para outra indústria incentivada na Zona Franca de Manaus, desde que a entrega ou disponibilização dos bens ocorra dentro da referida área.",
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "O disposto nocaput não se aplica a operações com bens de que trata o § 1º do art. 443 desta Lei Complementar."
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "Ficam assegurados ao contribuinte sujeito ao regime regular do IBS e da CBS que realiza as operações de que trata ocaput a apropriação e a utilização dos créditos relativos às operações antecedentes, nos termos dos arts. 47 a 56 desta Lei Complementar."
+                },
+                {
+                  "numero": "§ 3º",
+                  "texto": "O disposto nocaput se aplica também à operação com bem material intermediário submetido a industrialização por encomenda, em relação ao valor adicionado na industrialização."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 449",
+              "caput": "Fica concedido à indústria incentivada na Zona Franca de Manaus, sujeita ao regime regular do IBS e da CBS, crédito presumido de IBS relativo à aquisição de bem intermediário produzido na referida área, desde que o bem esteja contemplado pela redução a zero de alíquota estabelecida pelo art. 448 desta Lei Complementar e seja utilizado para incorporação ou consumo na produção de bens finais.",
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "O crédito presumido de que trata ocaput será calculado mediante aplicação do percentual de 7,5% (sete inteiros e cinco décimos por cento) sobre o valor da operação contemplada pela redução a zero da alíquota do IBS estabelecida pelo art. 448 desta Lei Complementar."
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "No momento do retorno ao encomendante, de bens submetidos a industrialização por encomenda, o crédito presumido de que trata ocaput se aplica, tão somente, ao valor agregado neste processo de industrialização."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 450",
+              "caput": "Ficam concedidos à indústria incentivada na Zona Franca de Manaus créditos presumidos de IBS e de CBS relativos à operação que destine ao território nacional, inclusive para a própria Zona Franca de Manaus, bem material produzido pela própria indústria incentivada na referida área nos termos do projeto econômico aprovado, exceto em relação às operações previstas no art. 447 desta Lei Complementar.",
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "O crédito presumido de IBS de que trata ocaput será calculado mediante a aplicação dos seguintes percentuais sobre o saldo devedor do IBS no período de apuração:",
+                  "incisos": [
+                    {
+                      "numero": "I",
+                      "texto": "55% (cinquenta e cinco por cento) para bens de consumo final;"
+                    },
+                    {
+                      "numero": "II",
+                      "texto": "75% (setenta e cinco por cento) para bens de capital;"
+                    },
+                    {
+                      "numero": "III",
+                      "texto": "90,25% (noventa inteiros e vinte e cinco centésimos por cento) para bens intermediários; e"
+                    },
+                    {
+                      "numero": "IV",
+                      "texto": "100% (cem por cento) para bens de informática e para os produtos que a legislação do Estado do Amazonas, até 31 de dezembro de 2023, estabeleceu crédito estímulo de ICMS neste percentual."
+                    }
+                  ]
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "O crédito presumido de CBS de que trata ocaput será calculado mediante aplicação dos seguintes percentuais sobre o valor da operação registrado em documento fiscal idôneo:",
+                  "incisos": [
+                    {
+                      "numero": "I",
+                      "texto": "6% (seis por cento) na venda de produtos, nos termos do art. 454 desta Lei Complementar; ou"
+                    },
+                    {
+                      "numero": "II",
+                      "texto": "2% (dois por cento) nos demais casos."
+                    }
+                  ]
+                },
+                {
+                  "numero": "§ 3º",
+                  "texto": "O disposto nocaput não se aplica a operações:",
+                  "incisos": [
+                    {
+                      "numero": "I",
+                      "texto": "não sujeitas à incidência ou contempladas por hipóteses de isenção, alíquota zero, suspensão ou diferimento do IBS e da CBS; e"
+                    },
+                    {
+                      "numero": "II",
+                      "texto": "com bens não contemplados pelo regime favorecido da Zona Franca de Manaus, previstos no art. 441 desta Lei Complementar."
+                    }
+                  ]
+                },
+                {
+                  "numero": "§ 4º",
+                  "texto": "Aos adquirentes dos bens de que trata ocaput sujeitos ao regime regular do IBS e da CBS, é garantida a apropriação e a utilização integral dos créditos relativos ao IBS e à CBS pelo valor dos referidos tributos incidentes sobre a operação registrados em documento fiscal idôneo, observadas as regras previstas nos arts. 47 a 56 desta Lei Complementar."
+                },
+                {
+                  "numero": "§ 5º",
+                  "texto": "No caso de vendas para a União em que as alíquotas do IBS estejam sujeitas à redução de que trata a alínea \"a\" do inciso I do § 1º do art. 473, poderá ser apropriado o crédito presumido de IBS de que trata o § 1º deste artigo, considerando-se, exclusivamente para fins do cálculo do referido crédito presumido, a apuração de saldo devedor de IBS com base nas alíquotas que seriam aplicáveis à operação caso não houvesse a redução a zero."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 451",
+              "caput": "Ficam reduzidas a zero as alíquotas da CBS incidentes sobre as operações realizadas por pessoas jurídicas estabelecidas na Zona Franca de Manaus com bem material de origem nacional ou com serviços prestados fisicamente, quando destinadas a pessoa física ou jurídica localizadas dentro da referida área.",
+              "paragrafos": [
+                {
+                  "numero": "Parágrafo único",
+                  "texto": "O contribuinte que realizar as operações de que trata ocaput poderá apropriar e utilizar os créditos relativos às operações antecedentes, observado o disposto nos arts. 47 a 56 desta Lei Complementar."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 452",
+              "caput": "Os créditos presumidos de IBS e de CBS estabelecidos pelos arts. 444, 447, 449 e 450 desta Lei Complementar somente poderão ser utilizados para compensação, respectivamente, com o valor do IBS e da CBS devidos pelo contribuinte, vedada a compensação com outros tributos e o ressarcimento em dinheiro.",
+              "paragrafos": [
+                {
+                  "numero": "Parágrafo único",
+                  "texto": "O direito à utilização dos créditos presumidos de que trata ocaput extingue-se após 5 (cinco) anos, contados do primeiro dia do mês subsequente àquele em que ocorrer sua apropriação."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 453",
+              "caput": "As operações com bens e serviços ocorridas dentro da Zona Franca de Manaus ou destinadas à referida área, inclusive importações, que não estejam contempladas pelo disposto nos arts. 443, 445, 446 e 448 desta Lei Complementar sujeitam-se à incidência do IBS e da CBS com base nas demais regras previstas nesta Lei Complementar."
+            },
+            {
+              "numero": "Art. 454",
+              "caput": "A partir de 1º de janeiro de 2027, as alíquotas do IPI ficam reduzidas a zero para produtos sujeitos a alíquota inferior a 6,5% (seis inteiros e cinco décimos por cento) prevista na Tabela de Incidência do Imposto sobre Produtos Industrializados - Tipi vigente em 31 de dezembro de 2023 e que tenham:",
+              "incisos": [
+                {
+                  "numero": "I",
+                  "texto": "sido industrializados na Zona Franca de Manaus no ano de 2024; ou"
+                },
+                {
+                  "numero": "II",
+                  "texto": "projeto técnico-econômico aprovado pelo Conselho de Administração da Suframa (CAS) entre 1º de janeiro de 2022 e a data de publicação desta Lei."
+                }
+              ],
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "Serão beneficiados por crédito presumido de CBS, nos termos do inciso I do § 2º do art. 450 desta Lei Complementar os produtos:",
+                  "incisos": [
+                    {
+                      "numero": "I",
+                      "texto": "de que trata ocaput deste artigo ou"
+                    },
+                    {
+                      "numero": "II",
+                      "texto": "(VETADO)."
+                    }
+                  ]
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "A redução a zero das alíquotas a que se refere ocaput deste artigo não alcança os produtos enquadrados como bem de tecnologia da informação e comunicação, conforme regulamentação do art. 16-A da Lei nº 8.248, de 23 de outubro de 1991."
+                },
+                {
+                  "numero": "§ 3º",
+                  "texto": "O Poder Executivo da União divulgará a lista dos produtos cuja alíquota de IPI tenha sido reduzida a zero nos termos deste artigo e do art. 126, inciso III, alínea \"a\", do ADCT."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 455",
+              "caput": "Em relação a bens sem similar nacional cuja produção venha a ser instalada na Zona Franca de Manaus:",
+              "incisos": [
+                {
+                  "numero": "I",
+                  "texto": "o crédito presumido de CBS de que trata o art. 450 desta Lei Complementar será calculado mediante aplicação do percentual estabelecido pelo inciso I do § 2º do referido artigo; ou"
+                },
+                {
+                  "numero": "II",
+                  "texto": "a alíquota do IPI será de, no mínimo, 6,5% (seis inteiros e cinco décimos por cento), podendo o chefe do Poder Executivo da União majorá-la ou restabelecê-la, atendidas as seguintes condições:",
+                  "alineas": [
+                    {
+                      "letra": "a",
+                      "texto": "a majoração da alíquota será de, no máximo, trinta pontos percentuais;"
+                    },
+                    {
+                      "letra": "b",
+                      "texto": "a alíquota resultante do restabelecimento não poderá ser inferior à prevista no inciso II docaput deste artigo;"
+                    },
+                    {
+                      "letra": "c",
+                      "texto": "a redução ou restabelecimento não poderá ser efetivada antes de decorridos 60 (sessenta) meses da fixação ou majoração da alíquota do IPI;"
+                    },
+                    {
+                      "letra": "d",
+                      "texto": "a redução deverá ser feita de forma gradual, limitada a, no máximo, cinco pontos percentuais por ano."
+                    }
+                  ]
+                }
+              ],
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "No caso de bens com similar nacional cuja produção venha a ser instalada na Zona Franca de Manaus, ficam assegurados os incentivos tributários de que trata esta Lei, salvo os previstos nos incisos I e II docaput deste artigo."
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "Aplicam-se as condições previstas no inciso II docaput e suas alíneas para os produtos industrializados na Zona Franca de Manaus que possuam alíquota positiva de IPI."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 456",
+              "caput": "A redução da arrecadação do IBS e da CBS decorrente dos benefícios previstos neste Capítulo, inclusive em decorrência dos créditos presumidos previstos nos arts. 444, 447, 449 e 450 desta Lei Complementar, deverá ser considerada para fixação das alíquotas de referência."
+            },
+            {
+              "numero": "Art. 457",
+              "caput": "O Estado do Amazonas poderá instituir contribuição de contrapartida semelhante àquelas existentes em 31 de dezembro de 2023, desde que destinadas ao financiamento do ensino superior, ao fomento da micro, pequena e média empresa e da interiorização do desenvolvimento, conforme previsão docaput do art. 92-B do ADCT da Constituição Federal, devendo observar que:",
+              "incisos": [
+                {
+                  "texto": "o percentual da contrapartida prevista nocaput será de 1,5% (um ponto e meio percentual), calculado sobre o faturamento das indústrias incentivadas;"
+                },
+                {
+                  "texto": "a contrapartida a que se refere ocaput será cobrada a partir do ano de 2033, quando do fim da transição prevista nos arts. 124 a 133 do Ato das Disposições Constitucionais Transitórias;"
+                },
+                {
+                  "texto": "no ano de 2033, a cobrança da contrapartida prevista nocaput será equivalente a 10% (dez por cento) do percentual previsto no Inciso I, ficando o complemento de 90% (noventa por cento) a cargo da recomposição prevista no art. 131, § 1º, II do Ato das Disposições Constitucionais Transitórias;"
+                },
+                {
+                  "texto": "de 2034 a 2073, o percentual da cobrança da contrapartida prevista nocaput será acrescido à razão de 1/45 (um quarenta e cinco avos) por ano ao percentual aplicado no ano de 2033, ficando o complemento à cargo da recomposição prevista no art. 131, § 1º, III do Ato das Disposições Constitucionais Transitórias."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "TÍTULO II",
+      "nome_titulo": "DAS COMPRAS GOVERNAMENTAIS",
+      "artigos": [
+        {
+          "numero": "Art. 472",
+          "caput": "Nas aquisições de bens e serviços pela administração pública direta, por autarquias e por fundações públicas, as alíquotas do IBS e da CBS serão reduzidas, de modo uniforme, na proporção do redutor fixado:",
+          "incisos": [
+            {
+              "texto": "de 2027 a 2033, nos termos do art. 370 desta Lei Complementar; e"
+            },
+            {
+              "texto": "a partir de 2034, no nível fixado para 2033."
+            }
+          ],
+          "paragrafos": [
+            {
+              "numero": "Parágrafo único",
+              "texto": "Não se aplica o disposto neste artigo às aquisições que, cumulativamente, sejam efetuadas de forma presencial e sejam dispensadas de licitação, nos termos da legislação específica."
+            }
+          ]
+        },
+        {
+          "numero": "Art. 473",
+          "caput": "O produto da arrecadação do IBS e da CBS sobre as aquisições de bens e serviços pela administração pública direta, por autarquias e por fundações públicas será integralmente destinado ao ente federativo contratante, mediante redução a zero das alíquotas do IBS e da CBS devidos aos demais entes federativos e equivalente elevação da alíquota do tributo devido ao ente contratante.",
+          "paragrafos": [
+            {
+              "numero": "§ 1º",
+              "texto": "Para fins do atendimento ao disposto nocaput deste artigo:",
+              "incisos": [
+                {
+                  "texto": "nas aquisições pela União:",
+                  "alineas": [
+                    {
+                      "letra": "a",
+                      "texto": "serão reduzidas a zero as alíquotas do IBS dos demais entes federativos; e"
+                    },
+                    {
+                      "letra": "b",
+                      "texto": "será a alíquota da CBS fixada em montante equivalente à soma das alíquotas do IBS e da CBS incidentes sobre a operação, após a redução de que trata o art. 472 desta Lei Complementar;"
+                    }
+                  ]
+                },
+                {
+                  "texto": "nas aquisições por Estado:",
+                  "alineas": [
+                    {
+                      "letra": "a",
+                      "texto": "serão reduzidas a zero a alíquota da CBS e a alíquota municipal do IBS; e"
+                    },
+                    {
+                      "letra": "b",
+                      "texto": "será a alíquota estadual do IBS fixada em montante equivalente à soma das alíquotas do IBS e da CBS incidentes sobre a operação, após a redução de que trata o art. 472 desta Lei Complementar;"
+                    }
+                  ]
+                },
+                {
+                  "texto": "nas aquisições por Município:",
+                  "alineas": [
+                    {
+                      "letra": "a",
+                      "texto": "serão reduzidas a zero a alíquota da CBS e a alíquota estadual do IBS;"
+                    },
+                    {
+                      "letra": "b",
+                      "texto": "será a alíquota municipal do IBS fixada em montante equivalente à soma das alíquotas do IBS e da CBS incidentes sobre a operação, após a redução de que trata o art. 472 desta Lei Complementar; e"
+                    }
+                  ]
+                },
+                {
+                  "texto": "nas aquisições pelo Distrito Federal:",
+                  "alineas": [
+                    {
+                      "letra": "a",
+                      "texto": "será reduzida a zero a alíquota da CBS;"
+                    },
+                    {
+                      "letra": "b",
+                      "texto": "será a alíquota distrital do IBS fixada em montante equivalente à soma das alíquotas do IBS e da CBS incidentes sobre a operação, após a redução de que trata o art. 472 desta Lei Complementar."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "numero": "§ 2º",
+              "texto": "Não se aplica o disposto nocaput e no § 1º deste artigo às aquisições que, cumulativamente, sejam efetuadas de forma presencial e sejam dispensadas de licitação, nos termos da legislação específica."
+            },
+            {
+              "numero": "§ 3º",
+              "texto": "Aplica-se o disposto neste artigo às importações efetuadas pela administração pública direta, por autarquias e por fundações públicas, assegurada a igualdade de tratamento em relação às aquisições no País."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "TÍTULO III",
+      "nome_titulo": "DISPOSIÇÕES TRANSITÓRIAS",
+      "artigos": [
+        {
+          "numero": "Art. 474",
+          "caput": "Durante o período compreendido entre 2027 e 2032, os percentuais para incidência ou creditamento de IBS e de CBS previstos nos arts. 447, § 1º, 449, § 1º, e 465, § 1º, desta Lei Complementar serão reduzidos nas seguintes proporções:",
+          "incisos": [
+            {
+              "texto": "9/10 (nove décimos), em 2029;"
+            },
+            {
+              "texto": "8/10 (oito décimos), em 2030;"
+            },
+            {
+              "texto": "7/10 (sete décimos), em 2031; e"
+            },
+            {
+              "texto": "6/10 (seis décimos), em 2032."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "anexos": [
+    {
+      "anexo": "ANEXO I",
+      "titulo": "PRODUTOS DESTINADOS À ALIMENTAÇÃO HUMANA SUBMETIDOS À REDUÇÃO A ZERO DAS ALÍQUOTAS DO IBS E DA CBS (EXCLUSIVE PRODUTOS HORTÍCOLAS, FRUTAS E OVOS, RELACIONADOS NO ANEXO XV)",
+      "itens": [
+        { "item": "1", "descricao": "Arroz das subposições 1006.20 e 1006.30 e do código 1006.40.00 da NCM/SH" },
+        { "item": "2", "descricao": "Leite, em conformidade com os requisitos da legislação específica relativos ao consumo direto pela população, classificado nos códigos 0401.10.10, 0401.10.90, 0401.20.10, 0401.20.90, 0401.40.10 e 0401.50.10 da NCM/SH" },
+        { "item": "3", "descricao": "Leite em pó, em conformidade com os requisitos da legislação específica, classificado nos códigos 0402.10.10, 0402.10.90, 0402.21.10, 0402.21.20, 0402.29.10 e 0402.29.20 da NCM/SH" },
+        { "item": "4", "descricao": "Fórmulas infantis, em conformidade com os requisitos da legislação específica, classificadas nos códigos 1901.10.10, 1901.10.90 e 2106.90.90 da NCM/SH" },
+        { "item": "5", "descricao": "Manteiga do código 0405.10.00 da NCM/SH" },
+        { "item": "6", "descricao": "Margarina do código 1517.10.00 da NCM/SH" },
+        { "item": "7", "descricao": "Feijões dos códigos 0713.33.19, 0713.33.29, 0713.33.99 e 0713.35.90 da NCM/SH" },
+        { "item": "8", "descricao": "Café da posição 09.01 e da subposição 2101.1, ambos da NCM/SH" },
+        { "item": "9", "descricao": "Óleo de babaçu do código 1513.21.20 da NCM/SH, em conformidade com os requisitos da legislação específica relativos ao consumo como alimento" },
+        { "item": "10", "descricao": "Farinha de mandioca classificada no código 1106.20.00 da NCM/SH e tapioca e seus sucedâneos do código 1903.00.00 da NCM/SH" },
+        { "item": "11", "descricao": "Farinha, grumos e sêmolas, de milho, dos códigos 1102.20.00 e 1103.13.00 da NCM" },
+        { "item": "12", "descricao": "Grãos de milho classificados no código 1104.19.00 e do código 1104.23.00 da NCM/SH" },
+        { "item": "13", "descricao": "Farinha de trigo do código 1101.00.10 da NCM/SH" },
+        { "item": "14", "descricao": "Açúcar classificado nos códigos 1701.14.00 e 1701.99.00 da NCM/SH" },
+        { "item": "15", "descricao": "Massas alimentícias da subposição 1902.1 da NCM/SH" },
+        { "item": "16", "descricao": "Pão comumente denominado pão francês, de formato cilíndrico e alongado, com miolo branco creme e macio, e casca dourada e crocante, elaborado a partir da mistura ou pré-mistura de farinha de trigo, fermento biológico, água, sal, açúcar, aditivos alimentares e produtos de fortificação de farinhas, em conformidade com a legislação vigente, classificado no código 1905.90.90 da NCM/SH e a pré-mistura ou massa, para preparação do pão comumente denominado pão francês, dos códigos 1901.20.10 e 1901.20.90 da NCM/SH" },
+        { "item": "17", "descricao": "Grãos de aveia dos códigos 1104.12.00 e 1104.22.00 da NCM/SH" },
+        { "item": "18", "descricao": "Farinha de aveia classificada no código 1102.90.00 da NCM/SH" },
+        { "item": "19", "descricao": "Carnes bovina, suína, ovina, caprina e de aves e produtos de origem animal (exceto foies gras ) dos seguintes códigos, subposições e posições da NCM/SH: a) 02.01, 02.02, 0206.10.00, 0206.2 e 0210.20.00; b) 02.03, 0206.30.00, 0206.4, 0209.10 e 0210.1; c) 02.04 e 0210.99.20, carne caprina classificada no código 0210.99.90 e miudezas comestíveis de ovinos e caprinos classificadas nos códigos 0206.80.00 e 0206.90.00; d) 02.07, 0209.90.00 e 0210.99.1, exceto os produtos dos códigos 0207.43.00 e 0207.53.00" },
+        { "item": "20", "descricao": "Peixes e carnes de peixes (exceto salmonídeos, atuns, bacalhaus, hadoque, saithe e ovas e outros subprodutos) dos seguintes códigos, subposições e posições da NCM/SH: a) 03.02; exceto os produtos das subposições e dos códigos 0302.1, 0302.3, 0302.51.00, 0302.52.00, 0302.53.00 e 0302.9 da NCM/SH; b) 03.03; exceto os produtos das subposições e dos códigos 0303.1, 0303.4, 0303.63.00, 0303.64.00, 0303.65.00 e 0303.9 da NCM/SH; c) 03.04; exceto os salmonídeos, atuns, bacalhaus, hadoque e saithe classificados nas subposições 0304.4, 0304.5, 0304.7, 0304.8 e 0304.9 da NCM/SH" },
+        { "item": "21", "descricao": "Queijos tipo mozarela, minas, prato, queijo de coalho, ricota, requeijão, queijo provolone, queijo parmesão, queijo fresco não maturado e queijo do reino classificados nos códigos 0406.10.10, 0406.10.90, 0406.20.00, 0406.90.10, 0406.90.20 e 0406.90.30 da NCM/SH" },
+        { "item": "22", "descricao": "Sal em conformidade com os requisitos da legislação específica relativos ao teor de iodo enquadrado nos limites próprios para consumo humano classificado nos códigos 2501.00.20 e 2501.00.90 da NCM/SH" },
+        { "item": "23", "descricao": "Mate da posição 09.03 da NCM/SH" },
+        { "item": "24", "descricao": "Farinha com baixo teor de proteína para pessoas com aminoacidopatias, acidemias e defeitos do ciclo da uréia da NCM 1901.90.90" },
+        { "item": "25", "descricao": "Massas com baixo teor de proteína para pessoas com aminoacidopatias, acidemias e defeitos do ciclo da uréia da NCM 1902.19.00" },
+        { "item": "26", "descricao": "Fórmulas Dietoterápicas para Erros Inatos do Metabolismo da NCM 2106.9090" }
+      ]
+    },
+    {
+      "anexo": "ANEXO XV",
+      "titulo": "PRODUTOS HORTÍCOLAS, FRUTAS E OVOS SUBMETIDOS À REDUÇÃO DE 100% (CEM POR CENTO) DAS ALÍQUOTAS DO IBS E DA CBS",
+      "itens": [
+        { "item": "1", "descricao": "Ovos da subposição 0407.2 da NCM/SH" },
+        { "item": "2", "descricao": "Produtos hortícolas das posições 07.01, 07.02.00.00, 07.03, 07.04, 07.05, 07.06, 0707.00.00, 07.08, 07.09 e 07.10, exceto os cogumelos e trufas classificados na subposição 0709.5 e no código 0710.80.00 da NCM/SH" },
+        { "item": "3", "descricao": "Frutas frescas ou refrigeradas e frutas congeladas sem adição de açúcar ou de outros edulcorantes classificadas nas posições 08.03, 08.04, 08.05, 08.06, 08.07, 08.08, 08.09, 08.10 e 08.11 da NCM/SH" },
+        { "item": "4", "descricao": "Plantas e produtos de ﬂoricultura relativos à horticultura e cultivados para fins alimentares, ornamentais ou medicinais classificados no Capítulo 6 da NCM/SH" },
+        { "item": "5", "descricao": "Raízes e tubérculos da posição 07.14 da NCM/SH" },
+        { "item": "6", "descricao": "Cocos da subposição 0801.1 da NCM/SH" }
+      ]
+    },
+    {
+      "anexo": "ANEXO XVI",
+      "titulo": "LIMITE INFERIOR PARA FIXAÇÃO DA ALÍQUOTA PRÓPRIA EM PROPORÇÃO DA ALÍQUOTA DE REFERÊNCIA",
+      "itens": [
+        { "ano": "2029", "limite_inferior": "81,0%" },
+        { "ano": "2030", "limite_inferior": "81,0%" },
+        { "ano": "2031", "limite_inferior": "81,0%" },
+        { "ano": "2032", "limite_inferior": "81,0%" },
+        { "ano": "2033", "limite_inferior": "90,5%" },
+        { "ano": "2034", "limite_inferior": "88,6%" },
+        { "ano": "2035", "limite_inferior": "86,7%" },
+        { "ano": "2036", "limite_inferior": "84,8%" },
+        { "ano": "2037", "limite_inferior": "82,9%" },
+        { "ano": "2038", "limite_inferior": "81,0%" },
+        { "ano": "2039", "limite_inferior": "79,1%" },
+        { "ano": "2040", "limite_inferior": "77,2%" },
+        { "ano": "2041", "limite_inferior": "75,3%" },
+        { "ano": "2042", "limite_inferior": "73,4%" },
+        { "ano": "2043", "limite_inferior": "71,5%" },
+        { "ano": "2044", "limite_inferior": "69,6%" },
+        { "ano": "2045", "limite_inferior": "67,7%" },
+        { "ano": "2046", "limite_inferior": "65,8%" },
+        { "ano": "2047", "limite_inferior": "63,9%" },
+        { "ano": "2048", "limite_inferior": "62,0%" },
+        { "ano": "2049", "limite_inferior": "60,1%" },
+        { "ano": "2050", "limite_inferior": "58,2%" },
+        { "ano": "2051", "limite_inferior": "56,3%" },
+        { "ano": "2052", "limite_inferior": "54,4%" },
+        { "ano": "2053", "limite_inferior": "52,5%" },
+        { "ano": "2054", "limite_inferior": "50,6%" },
+        { "ano": "2055", "limite_inferior": "48,7%" },
+        { "ano": "2056", "limite_inferior": "46,8%" },
+        { "ano": "2057", "limite_inferior": "44,9%" },
+        { "ano": "2058", "limite_inferior": "43,0%" },
+        { "ano": "2059", "limite_inferior": "41,1%" },
+        { "ano": "2060", "limite_inferior": "39,2%" },
+        { "ano": "2061", "limite_inferior": "37,3%" },
+        { "ano": "2062", "limite_inferior": "35,4%" },
+        { "ano": "2063", "limite_inferior": "33,5%" },
+        { "ano": "2064", "limite_inferior": "31,6%" },
+        { "ano": "2065", "limite_inferior": "29,7%" },
+        { "ano": "2066", "limite_inferior": "27,8%" },
+        { "ano": "2067", "limite_inferior": "25,9%" },
+        { "ano": "2068", "limite_inferior": "24,0%" },
+        { "ano": "2069", "limite_inferior": "22,1%" },
+        { "ano": "2070", "limite_inferior": "20,2%" },
+        { "ano": "2071", "limite_inferior": "18,3%" },
+        { "ano": "2072", "limite_inferior": "16,4%" },
+        { "ano": "2073", "limite_inferior": "14,5%" },
+        { "ano": "2074", "limite_inferior": "12,6%" },
+        { "ano": "2075", "limite_inferior": "10,7%" },
+        { "ano": "2076", "limite_inferior": "8,8%" },
+        { "ano": "2077", "limite_inferior": "6,9%" }
+      ]
+    },
+    {
+      "anexo": "ANEXO XVII",
+      "titulo": "BENS E SERVIÇOS SUJEITOS AO IMPOSTO SELETIVO",
+      "categorias": [
+        { "categoria": "Veículos", "codigos": "87.03; 8704.21 (exceto os caminhões); 8704.31 (exceto os caminhões); 8704.41.00 (exceto os caminhões); 8704.51.00 (exceto os caminhões); 8704.60.00 (exceto os caminhões); 8704.90.00 (exceto os caminhões); ressalvados os veículos com características técnicas específicas para uso operacional das Forças Armadas ou dos órgãos de Segurança Pública" },
+        { "categoria": "Aeronaves e Embarcações", "codigos": "8802, exceto o código 8802.60.00; e embarcações com motor classificadas na posição 8903; ressalvadas as aeronaves e embarcações com características técnicas específicas para uso operacional das Forças Armadas ou dos órgãos de Segurança Pública" },
+        { "categoria": "Produtos fumígenos", "codigos": "2401; 2402; 2403; 2404" },
+        { "categoria": "Bebidas alcóolicas", "codigos": "2203; 2204; 2205; 2206; 2208" },
+        { "categoria": "Bebidas açucaradas", "codigos": "2202.10.00" },
+        { "categoria": "Bens minerais", "codigos": "2601; 2709.00.10; 2711.11.00; 2711.21.00" },
+        { "categoria": "Concursos de prognósticos eFantasy sport", "codigos": null }
+      ]
+    }
+  ],
+  "alteracoes_legislativas": [
+    {
+      "artigo": "Art. 496",
+      "lei_alterada": "Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional",
+      "alteracoes": [
+        { "artigo_alterado": "Art. 9º", "novo_texto": "IV - cobrar impostos e a contribuição de que trata o inciso V do art. 195 da Constituição Federal sobre: [...] b) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes;" }
+      ]
+    },
+    {
+      "artigo": "Art. 497",
+      "lei_alterada": "Decreto-Lei nº 37, de 18 de novembro de 1966",
+      "alteracoes": [
+        { "artigo_alterado": "Art. 44", "novo_texto": "Parágrafo único. As informações prestadas pelo sujeito passivo na declaração de importação constituem confissão de dívida pelo contribuinte e instrumento hábil e suficiente para a exigência do valor dos tributos incidentes sobre as operações nela consignadas, restando constituído o crédito tributário." }
+      ]
+    },
+    {
+      "artigo": "Art. 501",
+      "lei_alterada": "Lei Complementar nº 87, de 13 de setembro de 1996",
+      "alteracoes": [
+        { "artigo_alterado": "Art. 31-A", "novo_texto": "Em relação aos fatos geradores ocorridos de 1º de janeiro de 2029 a 31 de dezembro de 2032, as alíquotas do imposto serão reduzidas nas seguintes proporções das alíquotas previstas nas legislações dos Estados ou do Distrito Federal, vigentes em 31 de dezembro de 2028: I - 10% (dez por cento), em 2029; II - 20% (vinte por cento), em 2030; III - 30% (trinta por cento), em 2031; e IV - 40% (quarenta por cento), em 2032. [...]" }
+      ]
+    },
+    {
+      "artigo": "Art. 508",
+      "lei_alterada": "Lei Complementar nº 116, de 31 de julho de 2003",
+      "alteracoes": [
+        { "artigo_alterado": "Art. 8º-B", "novo_texto": "Em relação aos fatos geradores ocorridos de 1º de janeiro de 2029 a 31 de dezembro de 2032, as alíquotas do imposto serão reduzidas nas seguintes proporções das alíquotas previstas nas legislações dos Municípios ou do Distrito Federal, vigentes em 31 de dezembro de 2028: I - 10% (dez por cento), em 2029; II - 20% (vinte por cento), em 2030; III - 30% (trinta por cento), em 2031; e IV - 40% (quarenta por cento), em 2032. [...]" }
+      ]
+    },
+    {
+      "artigo": "Art. 516",
+      "lei_alterada": "Lei Complementar nº 123, de 14 de dezembro de 2006",
+      "alteracoes": [
+        { "artigo_alterado": "Art. 1º", "novo_texto": "[...] IV - ao cadastro nacional único de contribuintes a que se refere o inciso IV do § 1º do art. 146 da Constituição Federal. [...]" }
+      ]
+    }
+  ],
+  "disposicoes_finais": {
+    "entrada_em_vigor": "Esta Lei Complementar entra em vigor na data de sua publicação",
+    "producao_efeitos": [
+      { "data": "a partir do primeiro dia do quarto mês subsequente ao da sua publicação", "artigos": "em relação aos arts. 537 a 540" },
+      { "data": "a partir de 1º de janeiro de 2025", "artigos": "em relação aos arts. 35, 58,caput, 60, § 3º, 62, 266, 317, 403, 480 a 484, 516 e 541" },
+      { "data": "a partir de 1º de janeiro de 2027", "artigos": "em relação aos arts. 450, exceto os §§ 1º e 5º, 461, 467, 499, 500, 502, 504 a 507, 509 a 515, 517, 519 a 534 e 542" },
+      { "data": "a partir de 1º de janeiro de 2029", "artigos": "em relação aos arts. 446, 447, 449, 450, §§ 1º e 5º, 464, 465 e 474" },
+      { "data": "a partir de 1º de janeiro de 2033", "artigos": "em relação aos arts. 518 e 543" },
+      { "data": "a partir de 1º de janeiro de 2026", "artigos": "em relação aos demais dispositivos" }
+    ],
+    "local_data": "Brasília, 16 de janeiro de 2025; 204º da Independência e 137º da República.",
+    "assinaturas": [
+      "LUIZ INÁCIO LULA DA SILVA",
+      "Luiz Paulo Teixeira Ferreira",
+      "Fernando Haddad",
+      "Márcio Luiz França Gomes",
+      "Esther Dweck",
+      "Geraldo José Rodrigues Alckmin Filho",
+      "Maria Osmarina Marina da Silva Vaz de Lima",
+      "Silvio Serafim Costa Filho",
+      "Nísia Verônica Trindade Lima"
+    ]
+  }
+}

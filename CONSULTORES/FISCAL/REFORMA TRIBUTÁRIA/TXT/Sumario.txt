@@ -1,0 +1,505 @@
+{
+  "sumario": {
+    "informacoes_gerais": {
+      "publicacao": {
+        "diario": "DIÁRIO OFICIAL DA UNIÃO",
+        "data": "16/01/2025",
+        "edicao": "11-B",
+        "secao": "1 - Extra B",
+        "pagina": "1"
+      },
+      "orgao": "Atos do Poder Legislativo",
+      "lei_complementar": "Nº 214, DE 16 DE JANEIRO DE 2025",
+      "ementa": "Institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS); cria o Comitê Gestor do IBS e altera a legislação tributária."
+    },
+    "livros": [
+      {
+        "livro": "LIVRO I",
+        "titulo_livro": "DO IMPOSTO SOBRE BENS E SERVIÇOS (IBS) E DA CONTRIBUIÇÃO SOCIALSOBRE BENS E SERVIÇOS (CBS)",
+        "titulos": [
+          {
+            "titulo": "TÍTULO I",
+            "nome_titulo": "DAS NORMAS GERAIS DO IBS E DA CBS",
+            "capitulos": [
+              {
+                "capitulo": "CAPÍTULO I",
+                "nome_capitulo": "DISPOSIÇÕES PRELIMINARES",
+                "artigos": [
+                  "Art. 1º",
+                  "Art. 2º",
+                  "Art. 3º"
+                ],
+                "resumo_semantico": "Apresenta objetivos, âmbito de aplicação, conceitos e estrutura do regime; estabelece bases e definições iniciais.",
+                "keywords": [
+                  "disposições preliminares",
+                  "conceitos",
+                  "âmbito",
+                  "objetivos",
+                  "definições"
+                ],
+                "path_id": "L1:T1:C1"
+              },
+              {
+                "capitulo": "CAPÍTULO II",
+                "nome_capitulo": "DO IBS E DA CBS SOBRE OPERAÇÕES com bens e serviços",
+                "secoes": [
+                  {
+                    "secao": "Seção I",
+                    "nome_secao": "Das Hipóteses de Incidência",
+                    "artigos": [
+                      "Art. 4º",
+                      "Art. 5º",
+                      "Art. 6º",
+                      "Art. 7º"
+                    ],
+                    "resumo_semantico": "Delimita as operações e situações em que há incidência do tributo, com critérios e exceções principais.",
+                    "keywords": [
+                      "hipóteses de incidência",
+                      "operações alcançadas",
+                      "exceções",
+                      "critérios de incidência"
+                    ],
+                    "path_id": "L1:T1:C2:S1"
+                  },
+                  {
+                    "secao": "Seção II",
+                    "nome_secao": "Das Imunidades",
+                    "artigos": [
+                      "Art. 8º",
+                      "Art. 9º"
+                    ],
+                    "resumo_semantico": "Especifica hipóteses de imunidade tributária em que não se aplica a cobrança, alinhadas às previsões constitucionais e legais.",
+                    "keywords": [
+                      "imunidades",
+                      "não incidência qualificada",
+                      "constitucional",
+                      "isenções vs imunidades"
+                    ],
+                    "path_id": "L1:T1:C2:S2"
+                  },
+                  {
+                    "secao": "Seção III",
+                    "nome_secao": "Do Momento de Ocorrência do Fato Gerador",
+                    "artigos": [
+                      "Art. 10"
+                    ],
+                    "resumo_semantico": "Define quando ocorre o fato gerador para fins de apuração e exigibilidade do tributo nas diversas operações.",
+                    "keywords": [
+                      "fato gerador",
+                      "momento da ocorrência",
+                      "exigibilidade",
+                      "apuração"
+                    ],
+                    "path_id": "L1:T1:C2:S3"
+                  },
+                  {
+                    "secao": "Seção IV",
+                    "nome_secao": "Do Local da Operação",
+                    "artigos": [
+                      "Art. 11"
+                    ],
+                    "resumo_semantico": "Estabelece o local da operação para determinação de competência e repartição de receitas.",
+                    "keywords": [
+                      "local da operação",
+                      "competência",
+                      "destino",
+                      "origem",
+                      "repartição"
+                    ],
+                    "path_id": "L1:T1:C2:S4"
+                  },
+                  {
+                    "secao": "Seção V",
+                    "nome_secao": "Da Base de Cálculo",
+                    "artigos": [
+                      "Art. 12",
+                      "Art. 13"
+                    ],
+                    "resumo_semantico": "Determina a base de cálculo, com inclusões, exclusões, descontos e regras específicas por tipo de operação.",
+                    "keywords": [
+                      "base de cálculo",
+                      "inclusões",
+                      "exclusões",
+                      "descontos",
+                      "critérios de valoração"
+                    ],
+                    "path_id": "L1:T1:C2:S5"
+                  }
+                ],
+                "resumo_semantico": "Sintetiza o conteúdo de capítulo “DO IBS E DA CBS SOBRE OPERAÇÕES com bens e serviços”, indicando finalidade, alcance e organização dos dispositivos.",
+                "keywords": [
+                  "sumário",
+                  "alcance",
+                  "finalidade",
+                  "estrutura"
+                ],
+                "path_id": "L1:T1:C2"
+              }
+            ],
+            "resumo_semantico": "Reúne regras gerais do tributo: hipóteses de incidência, imunidades, fato gerador, local da operação, base de cálculo e demais parâmetros.",
+            "keywords": [
+              "normas gerais",
+              "incidência",
+              "imunidades",
+              "fato gerador",
+              "local da operação",
+              "base de cálculo",
+              "parâmetros"
+            ],
+            "path_id": "L1:T1"
+          }
+        ]
+      },
+      {
+        "livro": "LIVRO II",
+        "titulo_livro": "DO IMPOSTO SELETIVO",
+        "titulos": [
+          {
+            "titulo": "TÍTULO I",
+            "nome_titulo": "DISPOSIÇÕES PRELIMINARES",
+            "artigos": [
+              "Art. 409",
+              "Art. 410",
+              "Art. 411"
+            ],
+            "resumo_semantico": "Apresenta objetivos, âmbito de aplicação, conceitos e estrutura do regime; estabelece bases e definições iniciais.",
+            "keywords": [
+              "disposições preliminares",
+              "conceitos",
+              "âmbito",
+              "objetivos",
+              "definições"
+            ],
+            "path_id": "L2:T1"
+          },
+          {
+            "titulo": "TÍTULO II",
+            "nome_titulo": "Das normas gerais dO IMPOSTO SELETIVO",
+            "capitulos": [
+              {
+                "capitulo": "CAPÍTULO I",
+                "nome_capitulo": "DO MOMENTO DE OCORRÊNCIA DO FATO GERADOR",
+                "artigos": [
+                  "Art. 412"
+                ],
+                "resumo_semantico": "Define quando ocorre o fato gerador para fins de apuração e exigibilidade do tributo nas diversas operações.",
+                "keywords": [
+                  "fato gerador",
+                  "momento da ocorrência",
+                  "exigibilidade",
+                  "apuração"
+                ],
+                "path_id": "L2:T2:C1"
+              },
+              {
+                "capitulo": "CAPÍTULO II",
+                "nome_capitulo": "DA NÃO INCIDÊNCIA",
+                "artigos": [
+                  "Art. 413"
+                ],
+                "resumo_semantico": "Delimita as operações e situações em que há incidência do tributo, com critérios e exceções principais.",
+                "keywords": [
+                  "hipóteses de incidência",
+                  "operações alcançadas",
+                  "exceções",
+                  "critérios de incidência"
+                ],
+                "path_id": "L2:T2:C2"
+              },
+              {
+                "capitulo": "CAPÍTULO III",
+                "nome_capitulo": "DA BASE DE CÁLCULO",
+                "artigos": [
+                  "Art. 414",
+                  "Art. 415",
+                  "Art. 416",
+                  "Art. 417",
+                  "Art. 418"
+                ],
+                "resumo_semantico": "Determina a base de cálculo, com inclusões, exclusões, descontos e regras específicas por tipo de operação.",
+                "keywords": [
+                  "base de cálculo",
+                  "inclusões",
+                  "exclusões",
+                  "descontos",
+                  "critérios de valoração"
+                ],
+                "path_id": "L2:T2:C3"
+              },
+              {
+                "capitulo": "CAPÍTULO IV",
+                "nome_capitulo": "DAS ALÍQUOTAS",
+                "secoes": [
+                  {
+                    "secao": "Seção I",
+                    "nome_secao": "Dos Veículos",
+                    "artigos": [
+                      "Art. 419",
+                      "Art. 420"
+                    ],
+                    "resumo_semantico": "Estabelece parâmetros de incidência e alíquotas aplicáveis a veículos, incluindo exceções e especificidades do setor.",
+                    "keywords": [
+                      "veículos",
+                      "automóveis",
+                      "utilitários",
+                      "alíquotas",
+                      "exceções"
+                    ],
+                    "path_id": "L2:T2:C4:S1"
+                  },
+                  {
+                    "secao": "Seção II",
+                    "nome_secao": "Das Aeronaves e Embarcações",
+                    "artigos": [
+                      "Art. 421"
+                    ],
+                    "resumo_semantico": "Define regras e alíquotas específicas para aeronaves e embarcações, considerando particularidades de sua tributação.",
+                    "keywords": [
+                      "aeronaves",
+                      "embarcações",
+                      "alíquotas específicas"
+                    ],
+                    "path_id": "L2:T2:C4:S2"
+                  },
+                  {
+                    "secao": "Seção III",
+                    "nome_secao": "Dos Demais Produtos Sujeitos ao Imposto Seletivo",
+                    "artigos": [
+                      "Art. 422",
+                      "Art. 423"
+                    ],
+                    "resumo_semantico": "Abrange produtos remanescentes sujeitos ao imposto seletivo, com critérios gerais e eventuais exceções.",
+                    "keywords": [
+                      "imposto seletivo",
+                      "produtos",
+                      "critérios gerais",
+                      "exceções"
+                    ],
+                    "path_id": "L2:T2:C4:S3"
+                  }
+                ],
+                "resumo_semantico": "Disciplina a definição e ajustes de alíquotas, incluindo regras específicas por categorias de bens e serviços.",
+                "keywords": [
+                  "alíquotas",
+                  "percentuais",
+                  "faixas",
+                  "limites",
+                  "ajustes"
+                ],
+                "path_id": "L2:T2:C4"
+              },
+              {
+                "capitulo": "CAPÍTULO V",
+                "nome_capitulo": "DA SUJEIÇÃO PASSIVA",
+                "artigos": [
+                  "Art. 424",
+                  "Art. 425"
+                ],
+                "resumo_semantico": "Define contribuintes, responsáveis e hipóteses de responsabilidade tributária na cadeia de operações.",
+                "keywords": [
+                  "sujeição passiva",
+                  "contribuinte",
+                  "responsabilidade",
+                  "substituição tributária"
+                ],
+                "path_id": "L2:T2:C5"
+              },
+              {
+                "capitulo": "CAPÍTULO VI",
+                "nome_capitulo": "DA EMPRESA COMERCIAL EXPORTADORA",
+                "artigos": [
+                  "Art. 426",
+                  "Art. 427"
+                ],
+                "resumo_semantico": "Estabelece regras específicas para empresas comerciais exportadoras no âmbito do tributo.",
+                "keywords": [
+                  "empresa comercial exportadora",
+                  "exportação",
+                  "regime específico"
+                ],
+                "path_id": "L2:T2:C6"
+              },
+              {
+                "capitulo": "CAPÍTULO VII",
+                "nome_capitulo": "DA PENA DE PERDIMENTO",
+                "artigos": [
+                  "Art. 428",
+                  "Art. 429"
+                ],
+                "resumo_semantico": "Dispõe sobre situações e procedimentos de perdimento de bens, com hipóteses e efeitos na esfera tributária.",
+                "keywords": [
+                  "pena de perdimento",
+                  "perdimento de bens",
+                  "infrações",
+                  "sanções"
+                ],
+                "path_id": "L2:T2:C7"
+              },
+              {
+                "capitulo": "CAPÍTULO VIII",
+                "nome_capitulo": "DA APURAÇÃO",
+                "artigos": [
+                  "Art. 430",
+                  "Art. 431"
+                ],
+                "resumo_semantico": "Regula a apuração do tributo, escrituração e consolidação de débitos e créditos quando aplicável.",
+                "keywords": [
+                  "apuração",
+                  "escrituração",
+                  "débitos e créditos",
+                  "consolidação"
+                ],
+                "path_id": "L2:T2:C8"
+              },
+              {
+                "capitulo": "CAPÍTULO IX",
+                "nome_capitulo": "DO PAGAMENTO",
+                "artigos": [
+                  "Art. 432",
+                  "Art. 433"
+                ],
+                "resumo_semantico": "Define prazos, formas e condições de pagamento do tributo, incluindo eventuais regimes especiais.",
+                "keywords": [
+                  "pagamento",
+                  "prazo",
+                  "forma de recolhimento",
+                  "regime especial"
+                ],
+                "path_id": "L2:T2:C9"
+              }
+            ],
+            "resumo_semantico": "Reúne regras gerais do tributo: hipóteses de incidência, imunidades, fato gerador, local da operação, base de cálculo e demais parâmetros.",
+            "keywords": [
+              "normas gerais",
+              "incidência",
+              "imunidades",
+              "fato gerador",
+              "local da operação",
+              "base de cálculo",
+              "parâmetros"
+            ],
+            "path_id": "L2:T2"
+          },
+          {
+            "titulo": "TÍTULO III",
+            "nome_titulo": "DO IMPOSTO SELETIVO SOBRE IMPORTAÇÕES",
+            "artigos": [
+              "Art. 434",
+              "Art. 435"
+            ],
+            "resumo_semantico": "Reúne normas sobre incidência, base de cálculo, alíquotas e procedimentos específicos do Imposto Seletivo.",
+            "keywords": [
+              "imposto seletivo",
+              "incidência",
+              "base de cálculo",
+              "alíquota",
+              "procedimentos"
+            ],
+            "path_id": "L2:T3"
+          },
+          {
+            "titulo": "TÍTULO IV",
+            "nome_titulo": "DISPOSIÇÕES FINAIS",
+            "artigos": [
+              "Art. 436",
+              "Art. 437",
+              "Art. 438"
+            ],
+            "resumo_semantico": "Traz cláusulas de encerramento, vigência, revogações e demais providências administrativas.",
+            "keywords": [
+              "disposições finais",
+              "vigência",
+              "revogação",
+              "administração"
+            ],
+            "path_id": "L2:T4"
+          }
+        ]
+      },
+      {
+        "livro": "LIVRO III",
+        "titulo_livro": "DAS DEMAIS DISPOSIÇÕES",
+        "titulos": [
+          {
+            "titulo": "TÍTULO I",
+            "nome_titulo": "DA ZONA FRANCA DE MANAUS, DAS ÁREAS DE LIVRE COMÉRCIO E DA DEVOLUÇÃO DO IBS E DA CBS AO TURISTA ESTRANGEIRO",
+            "capitulos": [
+              {
+                "capitulo": "CAPÍTULO I",
+                "nome_capitulo": "DA ZONA FRANCA DE MANAUS",
+                "artigos": [
+                  "Art. 439",
+                  "Art. 440",
+                  "Art. 441",
+                  "Art. 442",
+                  "Art. 443",
+                  "Art. 444",
+                  "Art. 445",
+                  "Art. 446",
+                  "Art. 447",
+                  "Art. 448",
+                  "Art. 449",
+                  "Art. 450",
+                  "Art. 451",
+                  "Art. 452",
+                  "Art. 453",
+                  "Art. 454",
+                  "Art. 455",
+                  "Art. 456",
+                  "Art. 457"
+                ],
+                "resumo_semantico": "Estabelece tratamento tributário diferenciado para a Zona Franca de Manaus, contemplando benefícios e condições.",
+                "keywords": [
+                  "Zona Franca de Manaus",
+                  "incentivos",
+                  "benefícios fiscais",
+                  "condições"
+                ],
+                "path_id": "L3:T1:C1"
+              }
+            ],
+            "resumo_semantico": "Estabelece tratamento tributário diferenciado para a Zona Franca de Manaus, contemplando benefícios e condições.",
+            "keywords": [
+              "Zona Franca de Manaus",
+              "incentivos",
+              "benefícios fiscais",
+              "condições"
+            ],
+            "path_id": "L3:T1"
+          },
+          {
+            "titulo": "TÍTULO II",
+            "nome_titulo": "DAS COMPRAS GOVERNAMENTAIS",
+            "artigos": [
+              "Art. 472",
+              "Art. 473"
+            ],
+            "resumo_semantico": "Define regras para incidência e procedimentos do tributo nas aquisições públicas, com critérios de conformidade e preferência.",
+            "keywords": [
+              "compras governamentais",
+              "licitações",
+              "contratações públicas",
+              "conformidade"
+            ],
+            "path_id": "L3:T2"
+          },
+          {
+            "titulo": "TÍTULO III",
+            "nome_titulo": "DISPOSIÇÕES TRANSITÓRIAS",
+            "artigos": [
+              "Art. 474"
+            ],
+            "resumo_semantico": "Pontua regras temporárias de transição, prazos de adaptação e convivência de regimes.",
+            "keywords": [
+              "disposições transitórias",
+              "regra de transição",
+              "prazos",
+              "convivência de regimes"
+            ],
+            "path_id": "L3:T3"
+          }
+        ]
+      }
+    ]
+  }
+}

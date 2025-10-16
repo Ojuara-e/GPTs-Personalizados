@@ -1,0 +1,707 @@
+{
+  "livro": "LIVRO II",
+  "titulo_livro": "DO IMPOSTO SELETIVO",
+  "titulos": [
+    {
+      "titulo": "TÍTULO I",
+      "nome_titulo": "DISPOSIÇÕES PRELIMINARES",
+      "artigos": [
+        {
+          "numero": "Art. 409",
+          "caput": "Fica instituído o Imposto Seletivo, de que trata o inciso VIII do art. 153 da Constituição Federal, incidente sobre a produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente.",
+          "paragrafos": [
+            {
+              "numero": "§ 1º",
+              "texto": "Para fins de incidência do Imposto Seletivo, consideram-se prejudiciais à saúde ou ao meio ambiente os bens classificados nos códigos da NCM/SH e o carvão mineral, e os serviços listados no Anexo XVII, referentes a:",
+              "incisos": [
+                {
+                  "texto": "veículos;"
+                },
+                {
+                  "texto": "embarcações e aeronaves;"
+                },
+                {
+                  "texto": "produtos fumígenos;"
+                },
+                {
+                  "texto": "bebidas alcoólicas;"
+                },
+                {
+                  "texto": "bebidas açucaradas;"
+                },
+                {
+                  "texto": "bens minerais;"
+                },
+                {
+                  "texto": "concursos de prognósticos efantasy sport ."
+                }
+              ]
+            },
+            {
+              "numero": "§ 2º",
+              "texto": "Os bens a que se referem os incisos III e IV do § 1º estão sujeitos ao Imposto Seletivo quando acondicionados em embalagem primária, assim entendida aquela em contato direto com o produto e destinada ao consumidor final."
+            }
+          ]
+        },
+        {
+          "numero": "Art. 410",
+          "caput": "O Imposto Seletivo incidirá uma única vez sobre o bem ou serviço, sendo vedado qualquer tipo de aproveitamento de crédito do imposto com operações anteriores ou geração de créditos para operações posteriores."
+        },
+        {
+          "numero": "Art. 411",
+          "caput": "Compete à RFB a administração e a fiscalização do Imposto Seletivo.",
+          "paragrafos": [
+            {
+              "numero": "Parágrafo único",
+              "texto": "O contencioso administrativo no âmbito do Imposto Seletivo atenderá ao disposto no Decreto nº 70.235, de 6 de março de 1972."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "TÍTULO II",
+      "nome_titulo": "Das normas gerais dO IMPOSTO SELETIVO",
+      "capitulos": [
+        {
+          "capitulo": "CAPÍTULO I",
+          "nome_capitulo": "DO MOMENTO DE OCORRÊNCIA DO FATO GERADOR",
+          "artigos": [
+            {
+              "numero": "Art. 412",
+              "caput": "Considera-se ocorrido o fato gerador do Imposto Seletivo no momento:",
+              "incisos": [
+                {
+                  "texto": "do primeiro fornecimento a qualquer título do bem, inclusive decorrente dos negócios jurídicos mencionados nos incisos I a VIII do § 2º do art. 4º desta Lei Complementar;"
+                },
+                {
+                  "texto": "da arrematação em leilão público;"
+                },
+                {
+                  "texto": "da transferência não onerosa de bem produzido;"
+                },
+                {
+                  "texto": "da incorporação do bem ao ativo imobilizado pelo fabricante;"
+                },
+                {
+                  "texto": "da extração de bem mineral;"
+                },
+                {
+                  "texto": "do consumo do bem pelo fabricante;"
+                },
+                {
+                  "texto": "do fornecimento ou do pagamento do serviço, o que ocorrer primeiro; ou"
+                },
+                {
+                  "texto": "da importação de bens e serviços."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "capitulo": "CAPÍTULO II",
+          "nome_capitulo": "DA NÃO INCIDÊNCIA",
+          "artigos": [
+            {
+              "numero": "Art. 413",
+              "caput": "O Imposto Seletivo não incide sobre:",
+              "incisos": [
+                {
+                  "texto": "(VETADO);"
+                },
+                {
+                  "texto": "as operações com energia elétrica e com telecomunicações; e"
+                },
+                {
+                  "texto": "os bens e serviços cujas alíquotas sejam reduzidas nos termos do § 1º do art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "capitulo": "CAPÍTULO III",
+          "nome_capitulo": "DA BASE DE CÁLCULO",
+          "artigos": [
+            {
+              "numero": "Art. 414",
+              "caput": "A base de cálculo do Imposto Seletivo é:",
+              "incisos": [
+                {
+                  "texto": "o valor de venda na comercialização;"
+                },
+                {
+                  "texto": "o valor de arremate na arrematação;"
+                },
+                {
+                  "texto": "o valor de referência na:",
+                  "alineas": [
+                    {
+                      "letra": "a",
+                      "texto": "transação não onerosa ou no consumo do bem;"
+                    },
+                    {
+                      "letra": "b",
+                      "texto": "extração de bem mineral; ou"
+                    },
+                    {
+                      "letra": "c",
+                      "texto": "comercialização de produtos fumígenos;"
+                    }
+                  ]
+                },
+                {
+                  "texto": "o valor contábil de incorporação do bem produzido ao ativo imobilizado;"
+                },
+                {
+                  "texto": "a receita própria da entidade que promove a atividade, na hipótese de que trata o inciso VII do § 1º do art. 409 desta Lei Complementar, calculada nos termos do art. 245."
+                }
+              ],
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "Nas hipóteses em que se prevê a aplicação de alíquotas específicas, nos termos desta Lei Complementar, a base de cálculo é aquela expressa em unidade de medida."
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "Ato do chefe do Poder Executivo da União definirá a metodologia para o cálculo do valor de referência mencionado no inciso III docaput deste artigo com base, entre outros, em cotações, índices ou preços vigentes na data do fato gerador, em bolsas de mercadorias e futuros, em agências de pesquisa ou em agências governamentais."
+                },
+                {
+                  "numero": "§ 3º",
+                  "texto": "Na comercialização de produtos fumígenos, o valor de referência levará em consideração o preço de venda no varejo."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 415",
+              "caput": "Na comercialização de bem sujeito à alíquotaad valorem , a base de cálculo é o valor integral cobrado na operação a qualquer título, incluindo o valor correspondente a:",
+              "incisos": [
+                {
+                  "texto": "acréscimos decorrentes de ajuste do valor da operação;"
+                },
+                {
+                  "texto": "juros, multas, acréscimos e encargos;"
+                },
+                {
+                  "texto": "descontos concedidos sob condição;"
+                },
+                {
+                  "texto": "valor do transporte cobrado como parte do valor da operação, seja o transporte efetuado pelo próprio fornecedor ou por sua conta e ordem;"
+                },
+                {
+                  "texto": "tributos e preços públicos, inclusive tarifas, incidentes sobre a operação ou suportados pelo fornecedor, exceto aqueles previstos no § 2º do art. 12 desta Lei Complementar; e"
+                },
+                {
+                  "texto": "demais importâncias cobradas ou recebidas como parte do valor da operação, inclusive seguros e taxas."
+                }
+              ],
+              "paragrafos": [
+                {
+                  "numero": "Parágrafo único",
+                  "texto": "Caso o valor da operação esteja expresso em moeda estrangeira, será feita sua conversão em moeda nacional por taxa de câmbio apurada pelo Banco Central do Brasil, nos termos do regulamento."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 416",
+              "caput": "Na comercialização entre partes relacionadas, na hipótese de incidência sujeita à alíquotaad valorem e na ausência do valor de referência de que trata o § 2º do art. 414, a base de cálculo não deverá ser inferior ao valor de mercado dos bens, entendido como o valor praticado em operações comparáveis entre partes não relacionadas.",
+              "paragrafos": [
+                {
+                  "numero": "Parágrafo único",
+                  "texto": "Para fins do disposto nocaput , consideram-se partes relacionadas aquelas definidas no §§ 2º a 5º do art. 5º desta Lei Complementar."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 417",
+              "caput": "Não integram a base de cálculo do Imposto Seletivo:",
+              "incisos": [
+                {
+                  "texto": "o montante da CBS, do IBS e do próprio Imposto Seletivo incidentes na operação; e"
+                },
+                {
+                  "texto": "os descontos incondicionais."
+                }
+              ],
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "Para efeitos do disposto no inciso II docaput , considera-se desconto incondicional a parcela redutora do preço da operação que conste do respectivo documento fiscal e não dependa de evento posterior."
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "Não integra a base de cálculo do Imposto Seletivo a bonificação que atenda as mesmas condições especificadas no § 1º para a caracterização dos descontos incondicionais."
+                },
+                {
+                  "numero": "§ 3º",
+                  "texto": "O disposto no § 2º não se aplica à tributação por meio de alíquota específica, em que a base de cálculo, expressa em unidade de medida, deve considerar os bens fornecidos em bonificação."
+                },
+                {
+                  "numero": "§ 4º",
+                  "texto": "Até 31 de dezembro de 2032, não integra a base de cálculo do Imposto Seletivo o montante do:",
+                  "incisos": [
+                    {
+                      "texto": "Imposto sobre operações relativas à Circulação de Mercadorias e sobre prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), previsto no inciso II do art. 155 da Constituição Federal;"
+                    },
+                    {
+                      "texto": "Imposto sobre Serviços de Qualquer Natureza (ISS), previsto no inciso III do art. 156 da Constituição Federal."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "numero": "Art. 418",
+              "caput": "As devoluções de bens vendidos geram direito ao abatimento do valor do Imposto Seletivo cobrado na respectiva operação no período de apuração em que ocorreu a devolução ou nos subsequentes."
+            }
+          ]
+        },
+        {
+          "capitulo": "CAPÍTULO IV",
+          "nome_capitulo": "DAS ALÍQUOTAS",
+          "secoes": [
+            {
+              "secao": "Seção I",
+              "nome_secao": "Dos Veículos",
+              "artigos": [
+                {
+                  "numero": "Art. 419",
+                  "caput": "As alíquotas do Imposto Seletivo aplicáveis aos veículos classificados nos códigos da NCM/SH relacionados no Anexo XVII serão estabelecidas em lei ordinária.",
+                  "paragrafos": [
+                    {
+                      "numero": "Parágrafo único",
+                      "texto": "As alíquotas referidas nocaputdeste artigo serão graduadas em relação a cada veículo conforme enquadramento nos seguintes critérios, nos termos de lei ordinária:",
+                      "incisos": [
+                        {
+                          "texto": "potência do veículo;"
+                        },
+                        {
+                          "texto": "eficiência energética;"
+                        },
+                        {
+                          "texto": "desempenho estrutural e tecnologias assistivas à direção;"
+                        },
+                        {
+                          "texto": "reciclabilidade de materiais;"
+                        },
+                        {
+                          "texto": "pegada de carbono;"
+                        },
+                        {
+                          "texto": "densidade tecnológica;"
+                        },
+                        {
+                          "texto": "emissão de dióxido de carbono (eficiência energético-ambiental), considerado o ciclo do poço à roda;"
+                        },
+                        {
+                          "texto": "reciclabilidade veicular;"
+                        },
+                        {
+                          "texto": "realização de etapas fabris no País; e"
+                        },
+                        {
+                          "texto": "categoria do veículo."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "numero": "Art. 420",
+                  "caput": "A alíquota do Imposto Seletivo fica reduzida a zero para veículos que sejam destinados a adquirentes cujo direito ao benefício do regime diferenciado de que trata o art. 149 desta Lei Complementar haja sido reconhecido pela RFB, nos termos do art. 153.",
+                  "paragrafos": [
+                    {
+                      "numero": "§ 1º",
+                      "texto": "No caso de o adquirente ser pessoa referida no inciso II docaput do art. 149 desta Lei Complementar, a redução de alíquota de que trata ocaput alcança veículo cujo preço de venda ao consumidor, incluídos os tributos incidentes caso não houvesse as reduções, não seja superior a R$ 200.000,00 (duzentos mil reais)."
+                    },
+                    {
+                      "numero": "§ 2º",
+                      "texto": "Observado o disposto no § 1º, aplicam-se ao Imposto Seletivo, no que couber, as disposições aplicáveis ao regime diferenciado de que trata a Seção VII do Capítulo IV do Título IV do Livro I, inclusive em relação à alienação do veículo e ao intervalo para a fruição do benefício."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "secao": "Seção II",
+              "nome_secao": "Das Aeronaves e Embarcações",
+              "artigos": [
+                {
+                  "numero": "Art. 421",
+                  "caput": "As alíquotas do Imposto Seletivo aplicáveis às aeronaves e embarcações classificadas nos códigos da NCM/SH relacionados no Anexo XVII serão estabelecidas em lei ordinária e poderão ser graduadas conforme critérios de sustentabilidade ambiental nos termos da lei ordinária.",
+                  "paragrafos": [
+                    {
+                      "numero": "Parágrafo único",
+                      "texto": "A lei ordinária poderá prever alíquota zero para embarcações e aeronaves de zero emissão de dióxido de carbono ou com alta eficiência energético-ambiental."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "secao": "Seção III",
+              "nome_secao": "Dos Demais Produtos Sujeitos ao Imposto Seletivo",
+              "artigos": [
+                {
+                  "numero": "Art. 422",
+                  "caput": "Observado o disposto nos arts. 419 e 420, as alíquotas do Imposto Seletivo aplicáveis nas operações com os bens e os serviços referidos no Anexo XVII são aquelas previstas em lei ordinária.",
+                  "paragrafos": [
+                    {
+                      "numero": "§ 1º",
+                      "texto": "Serão aplicadas alíquotasad valorem cumuladas com alíquotas específicas para:",
+                      "incisos": [
+                        {
+                          "texto": "produtos fumígenos classificados na posição 24.02 da NCM/SH; e"
+                        },
+                        {
+                          "texto": "bebidas alcoólicas, em que as alíquotas específicas devem considerar o produto do teor alcoólico pelo volume dos produtos."
+                        }
+                      ]
+                    },
+                    {
+                      "numero": "§ 2º",
+                      "texto": "As alíquotas do Imposto Seletivo estabelecidas nas operações com bens minerais extraídos respeitarão o percentual máximo de 0,25% (vinte e cinco centésimos por cento)."
+                    },
+                    {
+                      "numero": "§ 3º",
+                      "texto": "Lei ordinária poderá estabelecer alíquotas específicas para os demais produtos fumígenos não referidos no inciso I do § 1º, as quais serão aplicadas cumulativamente com as alíquotasad valorem ."
+                    },
+                    {
+                      "numero": "§ 4º",
+                      "texto": "As alíquotasad valorem estabelecidas nas operações com bebidas alcoólicas poderão ser diferenciadas por categoria de produto e progressivas em virtude do teor alcoólico."
+                    },
+                    {
+                      "numero": "§ 5º",
+                      "texto": "As alíquotas do Imposto Seletivo incidentes sobre bebidas alcoólicas e produtos fumígenos serão fixadas de forma escalonada, de modo a incorporar, a partir de 2029 até 2033, progressivamente, o diferencial entre as alíquotas de ICMS incidentes sobre as bebidas alcoólicas e os produtos fumígenos e as alíquotas modais desse imposto."
+                    },
+                    {
+                      "numero": "§ 6º",
+                      "texto": "O ajuste de que trata o § 5º:",
+                      "incisos": [
+                        {
+                          "texto": "no caso das bebidas alcóolicas poderá ser realizado por estimativa para o conjunto das bebidas ou ser diferenciado por categoria de bebidas; e"
+                        },
+                        {
+                          "texto": "não condicionará a fixação das alíquotas do Imposto Seletivo à manutenção da carga tributária dos setores ou de categorias específicas."
+                        }
+                      ]
+                    },
+                    {
+                      "numero": "§ 7º",
+                      "texto": "As alíquotas aplicáveis a bebidas alcoólicas poderão ser estabelecidas de modo a diferenciar as operações realizadas pelos pequenos produtores, definidos em lei ordinária."
+                    },
+                    {
+                      "numero": "§ 8º",
+                      "texto": "Para assegurar o disposto no § 7º, as alíquotas poderão ser:",
+                      "incisos": [
+                        {
+                          "texto": "progressivas em função do volume de produção; e"
+                        },
+                        {
+                          "texto": "diferenciadas por categoria de produto."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "numero": "Art. 423",
+                  "caput": "Caso o gás natural seja destinado à utilização como insumo em processo industrial e como combustível para fins de transporte, a alíquota estabelecida na forma do § 2º do art. 422 desta Lei Complementar deverá ser fixada em zero.",
+                  "paragrafos": [
+                    {
+                      "numero": "§ 1º",
+                      "texto": "Para fins de aplicação do disposto nocaput , o adquirente ou o importador deverá, na forma do regulamento, declarar que o gás natural será destinado à utilização como insumo em processo industrial."
+                    },
+                    {
+                      "numero": "§ 2º",
+                      "texto": "Na hipótese de ser dado ao gás natural adquirido ou importado com redução de alíquota destino diverso daquele previsto nocaput , o adquirente ou o importador deverá recolher o Imposto Seletivo calculado com a aplicação da alíquota estabelecida na forma do § 2º do art. 422 desta Lei Complementar, acrescida de multa e juros de mora nos termos do § 2º do art. 29 desta Lei Complementar, na condição de:",
+                      "incisos": [
+                        {
+                          "texto": "responsável, para o adquirente; ou"
+                        },
+                        {
+                          "texto": "contribuinte, para o importador."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "capitulo": "CAPÍTULO V",
+          "nome_capitulo": "DA SUJEIÇÃO PASSIVA",
+          "artigos": [
+            {
+              "numero": "Art. 424",
+              "caput": "O contribuinte do Imposto Seletivo é:",
+              "incisos": [
+                {
+                  "texto": "o fabricante, na primeira comercialização, na incorporação do bem ao ativo imobilizado, na tradição do bem em transação não onerosa ou no consumo do bem;"
+                },
+                {
+                  "texto": "o importador na entrada do bem de procedência estrangeira no território nacional;"
+                },
+                {
+                  "texto": "o arrematante na arrematação;"
+                },
+                {
+                  "texto": "o produtor-extrativista que realiza a extração; ou"
+                },
+                {
+                  "texto": "o fornecedor do serviço, ainda que residente ou domiciliado no exterior, na hipótese de que trata o inciso VII do § 1º do art. 409 desta Lei Complementar."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 425",
+              "caput": "São obrigados ao pagamento do Imposto Seletivo como responsáveis, sem prejuízo das demais hipóteses previstas em lei e da aplicação da pena de perdimento:",
+              "incisos": [
+                {
+                  "texto": "o transportador, em relação aos produtos tributados que transportar desacompanhados da documentação fiscal comprobatória de sua procedência;"
+                },
+                {
+                  "texto": "o possuidor ou detentor, em relação aos produtos tributados que possuir ou mantiver para fins de venda ou industrialização, desacompanhados da documentação fiscal comprobatória de sua procedência;"
+                },
+                {
+                  "texto": "o proprietário, o possuidor, o transportador ou qualquer outro detentor de produtos nacionais saídos do fabricante com imunidade para exportação, encontrados no País em situação diversa, exceto quando os produtos estiverem em trânsito:",
+                  "alineas": [
+                    {
+                      "letra": "a",
+                      "texto": "destinados ao uso ou ao consumo de bordo, em embarcações ou aeronaves de tráfego internacional, com pagamento em moeda conversível;"
+                    },
+                    {
+                      "letra": "b",
+                      "texto": "destinados a lojas francas, em operação de venda direta, nos termos e condições estabelecidos pelo art. 15 do Decreto-Lei nº 1.455, de 7 de abril de 1976;"
+                    },
+                    {
+                      "letra": "c",
+                      "texto": "adquiridos pela empresa comercial exportadora de que trata o art. 82 desta Lei Complementar, com o fim específico de exportação, e remetidos diretamente do estabelecimento industrial para embarque de exportação ou para recintos alfandegados, por conta e ordem da adquirente; ou"
+                    },
+                    {
+                      "letra": "d",
+                      "texto": "remetidos a recintos alfandegados ou a outros locais onde se processe o despacho aduaneiro de exportação."
+                    }
+                  ]
+                }
+              ],
+              "paragrafos": [
+                {
+                  "numero": "Parágrafo único",
+                  "texto": "Caso o fabricante tenha de qualquer forma concorrido para a hipótese prevista no inciso III docaput , ficará solidariamente responsável pelo pagamento do imposto."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "capitulo": "CAPÍTULO VI",
+          "nome_capitulo": "DA EMPRESA COMERCIAL EXPORTADORA",
+          "artigos": [
+            {
+              "numero": "Art. 426",
+              "caput": "O Imposto Seletivo não incide no fornecimento de bens com o fim específico de exportação a empresa comercial exportadora que atenda ao disposto nocaput e nos §§ 1º e 2º do art. 82 desta Lei Complementar."
+            },
+            {
+              "numero": "Art. 427",
+              "caput": "A empresa comercial exportadora fica responsável pelo recolhimento do Imposto Seletivo que não foi pago no fornecimento de bens para a empresa comercial exportadora, nas hipóteses de que trata § 5º do art. 82 desta Lei Complementar.",
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "Para efeitos do disposto nocaput , considera-se devido o Imposto Seletivo na data de ocorrência do fato gerador, conforme definido no art. 412 desta Lei Complementar."
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "Os valores que não forem pagos ficarão sujeitos à incidência de multa e juros de mora nos termos do § 2º do art. 29 desta Lei Complementar."
+                },
+                {
+                  "numero": "§ 3º",
+                  "texto": "Aplica-se ao Imposto Seletivo o disposto no § 10 do art. 82 desta Lei Complementar."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "capitulo": "CAPÍTULO VII",
+          "nome_capitulo": "DA PENA DE PERDIMENTO",
+          "artigos": [
+            {
+              "numero": "Art. 428",
+              "caput": "Sem prejuízo das demais hipóteses legais, aplica-se a pena de perdimento nas hipóteses de transporte, depósito ou exposição à venda dos produtos fumígenos relacionados no Anexo XVII desacompanhados da documentação fiscal comprobatória de sua procedência.",
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "A aplicação da pena de perdimento de que trata ocaput deste artigo, não prejudica a cobrança do Imposto Seletivo devido."
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "Na hipótese docaput deste artigo, caso os bens estejam em transporte, aplica-se também a pena de perdimento ao veículo utilizado, se as circunstâncias evidenciarem que o proprietário do veículo, seu possuidor ou seus prepostos, mediante ação ou omissão, contribuiu para a prática do ilícito, facilitou sua ocorrência ou dela se beneficiou."
+                },
+                {
+                  "numero": "§ 3º",
+                  "texto": "Para fins do disposto no § 2º:",
+                  "incisos": [
+                    {
+                      "texto": "considera-se omissão do proprietário do veículo, seu possuidor ou seus prepostos a não exigência de documentação idônea nas situações em que as características, volume ou quantidade de bens transportados por conta e ordem do contratante ou passageiro permita inferir a prática ilícita;"
+                    },
+                    {
+                      "texto": "presume-se a concorrência do proprietário do veículo, seu possuidor ou seus prepostos na prática do ilícito nas situações em que constatada adaptação da estrutura veicular tendente a ocultar as mercadorias transportadas;"
+                    },
+                    {
+                      "texto": "é irrelevante a titularidade do veículo e o valor dos bens transportados; e"
+                    },
+                    {
+                      "texto": "compete às locadoras de veículos acautelarem-se dos antecedentes dos locatários ou condutores habilitados, sob pena de presunção da sua colaboração para a prática do ilícito."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "numero": "Art. 429",
+              "caput": "Ressalvado o caso de exportação, o tabaco em folhas tratadas, total ou parcialmente destaladas, aparadas ou não, mesmo cortadas em forma regular ou picadas, somente será vendido ou remetido a empresa industrializadora de charutos, cigarros, cigarrilhas ou de fumo desfiado, picado, migado ou em pó, em rolo ou em corda.",
+              "paragrafos": [
+                {
+                  "numero": "§ 1º",
+                  "texto": "Fica admitida a comercialização dos produtos de que trata ocaput deste artigo entre estabelecimentos que exerçam a atividade de beneficiamento e acondicionamento por enfardamento."
+                },
+                {
+                  "numero": "§ 2º",
+                  "texto": "O Poder Executivo da União exigirá, para as operações de que trata este artigo, os meios de controle necessários."
+                },
+                {
+                  "numero": "§ 3º",
+                  "texto": "Os bens encontrados em transporte, depósito ou exposição a venda em desacordo à determinação docaput estão sujeitos à pena prevista no art. 428 desta Lei Complementar."
+                },
+                {
+                  "numero": "§ 4º",
+                  "texto": "(VETADO)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "capitulo": "CAPÍTULO VIII",
+          "nome_capitulo": "DA APURAÇÃO",
+          "artigos": [
+            {
+              "numero": "Art. 430",
+              "caput": "O período de apuração do Imposto Seletivo será mensal e o regulamento estabelecerá:",
+              "incisos": [
+                {
+                  "texto": "o prazo para conclusão da apuração; e"
+                },
+                {
+                  "texto": "a data de vencimento."
+                }
+              ]
+            },
+            {
+              "numero": "Art. 431",
+              "caput": "A apuração relativa ao Imposto Seletivo deverá consolidar as operações realizadas por todos os estabelecimentos do contribuinte."
+            }
+          ]
+        },
+        {
+          "capitulo": "CAPÍTULO IX",
+          "nome_capitulo": "DO PAGAMENTO",
+          "artigos": [
+            {
+              "numero": "Art. 432",
+              "caput": "O Imposto Seletivo será pago mediante recolhimento do montante devido pelo sujeito passivo."
+            },
+            {
+              "numero": "Art. 433",
+              "caput": "O pagamento do Imposto Seletivo será centralizado em um único estabelecimento e, na forma do seu regulamento, poderá ocorrer na liquidação financeira da operação (split payment ) , observado o disposto nos arts. 31 a 35 desta Lei Complementar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "TÍTULO III",
+      "nome_titulo": "DO IMPOSTO SELETIVO SOBRE IMPORTAÇÕES",
+      "artigos": [
+        {
+          "numero": "Art. 434",
+          "caput": "Aplica-se ao Imposto Seletivo, na importação de bens materiais, o disposto:",
+          "incisos": [
+            {
+              "texto": "no art. 65 desta Lei Complementar, em relação ao fato gerador;"
+            },
+            {
+              "texto": "no art. 66 e no inciso III do art. 413 desta Lei Complementar, em relação à não incidência;"
+            },
+            {
+              "texto": "no art. 67 desta Lei Complementar, em relação ao momento da ocorrência do fato gerador; e"
+            },
+            {
+              "texto": "nos arts. 72, 73 e 74 desta Lei Complementar, em relação à sujeição passiva."
+            }
+          ],
+          "paragrafos": [
+            {
+              "numero": "§ 1º",
+              "texto": "As alíquotas do Imposto Seletivo incidentes na importação serão fixadas em lei ordinária."
+            },
+            {
+              "numero": "§ 2º",
+              "texto": "Caso a alíquota do Imposto Seletivo sejaad valorem , a sua base de cálculo, na importação, será o valor aduaneiro acrescido do montante do Imposto sobre a Importação."
+            },
+            {
+              "numero": "§ 3º",
+              "texto": "O Imposto Seletivo, na importação, deverá ser pago no registro da declaração de importação."
+            },
+            {
+              "numero": "§ 4º",
+              "texto": "Fica suspenso o pagamento do Imposto Seletivo incidente na importação de bens materiais quando admitidos nos regimes a que se referem os Capítulos I e II do Título II do Livro I, observada a disciplina estabelecida na legislação aduaneira."
+            },
+            {
+              "numero": "§ 5º",
+              "texto": "No caso de lojas francas, a suspensão de que trata o § 4º deste artigo alcança os bens importados e os bens adquiridos no mercado interno."
+            },
+            {
+              "numero": "§ 6º",
+              "texto": "No caso de bens admitidos temporariamente no País para utilização econômica, a suspensão do pagamento do Imposto Seletivo será parcial, devendo ser pago proporcionalmente ao tempo de permanência dos bens no País, nos termos do art. 89 desta Lei Complementar."
+            }
+          ]
+        },
+        {
+          "numero": "Art. 435",
+          "caput": "São isentas do pagamento do Imposto Seletivo na importação de bens materiais:",
+          "incisos": [
+            {
+              "texto": "as bagagens de viajantes e de tripulantes, acompanhadas ou desacompanhadas, quando submetidas ao regime de tributação especial; e"
+            },
+            {
+              "texto": "as remessas internacionais, quando submetidas ao regime de tributação simplificada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "TÍTULO IV",
+      "nome_titulo": "DISPOSIÇÕES FINAIS",
+      "artigos": [
+        {
+          "numero": "Art. 436",
+          "caput": "As alíquotas específicas referidas neste Livro serão atualizadas pelo IPCA uma vez ao ano, nos termos da lei ordinária."
+        },
+        {
+          "numero": "Art. 437",
+          "caput": "A RFB poderá estabelecer sistema de comunicação eletrônica a ser atribuído como DTE, que será utilizado para fins de notificação, intimação ou avisos previstos na legislação do Imposto Seletivo."
+        },
+        {
+          "numero": "Art. 438",
+          "caput": "O regulamento do Imposto Seletivo de que trata este Livro será editado pelo chefe do Poder Executivo da União."
+        }
+      ]
+    }
+  ]
+}

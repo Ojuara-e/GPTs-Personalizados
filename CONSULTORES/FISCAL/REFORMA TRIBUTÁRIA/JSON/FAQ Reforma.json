@@ -1,0 +1,605 @@
+FAQ - Reforma Tributária
+{
+  "faq": [
+    {
+      "pergunta": "O que são o IBS e a CBS?",
+      "resposta": "O IBS (Imposto sobre Bens e Serviços) é um tributo de competência compartilhada entre Estados, Municípios e Distrito Federal. Já a CBS (Contribuição Social sobre Bens e Serviços) é de competência exclusiva da União."
+    },
+    {
+      "pergunta": "Qual é o princípio que orienta a aplicação do IBS e da CBS?",
+      "resposta": "Ambos seguem o princípio da neutralidade, que visa evitar distorções nas decisões de consumo e na organização da atividade econômica, exceto nas hipóteses previstas em lei."
+    },
+    {
+      "pergunta": "O que são consideradas 'operações com bens'?",
+      "resposta": "São todas as transações que envolvem bens móveis ou imóveis, materiais ou imateriais, incluindo direitos."
+    },
+    {
+      "pergunta": "Como a lei define 'serviços'?",
+      "resposta": "Serviços são operações que não se enquadram como operações com bens, segundo os critérios estabelecidos na lei."
+    },
+    {
+      "pergunta": "O que significa 'fornecimento' na lei?",
+      "resposta": "Fornecimento inclui entrega, concessão, cessão, licenciamento ou disponibilização de bens ou serviços, sejam materiais ou imateriais."
+    },
+    {
+      "pergunta": "Quem é considerado 'fornecedor'?",
+      "resposta": "Pessoa física ou jurídica, domiciliada no Brasil ou no exterior, que realiza o fornecimento de bens ou serviços."
+    },
+    {
+      "pergunta": "O que caracteriza um 'adquirente'?",
+      "resposta": "É quem realiza o pagamento ou qualquer forma de contraprestação pelo fornecimento de bem ou serviço, em nome próprio ou de terceiros."
+    },
+    {
+      "pergunta": "Quem é o 'destinatário'?",
+      "resposta": "É quem recebe o bem ou serviço, podendo ser ou não o próprio adquirente."
+    },
+    {
+      "pergunta": "Energia elétrica é considerada bem?",
+      "resposta": "Sim. A lei equipara energias com valor econômico a bens materiais."
+    },
+    {
+      "pergunta": "Entidades sem personalidade jurídica podem ser fornecedoras?",
+      "resposta": "Sim. A lei inclui entidades como consórcios, fundos de investimento, sociedades em comum, entre outras, como possíveis fornecedoras."
+    },
+    {
+      "pergunta": "Sobre quais operações incidem o IBS e a CBS?",
+      "resposta": "Incidem sobre operações onerosas com bens ou com serviços, incluindo compra e venda, permuta, locação, licenciamento, arrendamento, entre outros."
+    },
+    {
+      "pergunta": "Operações gratuitas também podem ser tributadas?",
+      "resposta": "Sim, quando previstas expressamente na Lei Complementar, como no caso de brindes, bonificações e transferências a partes relacionadas."
+    },
+    {
+      "pergunta": "Quem são consideradas partes relacionadas para fins de tributação?",
+      "resposta": "São entidades ou pessoas com vínculo societário, familiar ou influência significativa que possa alterar as condições de mercado nas transações entre elas."
+    },
+    {
+      "pergunta": "Quais operações estão isentas da incidência do IBS e da CBS?",
+      "resposta": "Serviços por pessoas físicas em relação de emprego, transferências internas entre estabelecimentos do mesmo contribuinte, rendimentos financeiros, entre outros listados no art. 6º."
+    },
+    {
+      "pergunta": "Qual o tratamento tributário para bonificações e brindes?",
+      "resposta": "São tributados, exceto se constarem no documento fiscal e não dependerem de eventos futuros. Brindes também podem estar sujeitos à alíquota específica."
+    },
+    {
+      "pergunta": "Como se define o valor da operação para incidência dos tributos?",
+      "resposta": "É considerado o valor com contraprestação, podendo incluir trocas, doações onerosas, mútuos, licenças, entre outros."
+    },
+    {
+      "pergunta": "As exportações são tributadas pelo IBS e pela CBS?",
+      "resposta": "Não. Exportações de bens e serviços são imunes à incidência desses tributos conforme art. 8º."
+    },
+    {
+      "pergunta": "Quais entidades possuem imunidade tributária para IBS e CBS?",
+      "resposta": "União, Estados, Municípios, entidades religiosas, partidos políticos, sindicatos e instituições educacionais e assistenciais sem fins lucrativos, conforme condições legais."
+    },
+    {
+      "pergunta": "A imunidade se aplica às aquisições feitas por essas entidades?",
+      "resposta": "Não. A imunidade vale apenas para os fornecimentos realizados por elas, e não para suas aquisições de bens e serviços."
+    },
+    {
+      "pergunta": "Energia elétrica ou água fornecida são tributadas?",
+      "resposta": "Sim, salvo hipóteses específicas. A incidência ocorre inclusive em operações com ativo não circulante ou de atividade não habitual."
+    },
+    {
+      "pergunta": "Quem é responsável pela administração do IBS e da CBS?",
+      "resposta": "A administração é compartilhada entre o Comitê Gestor do IBS e a Receita Federal do Brasil (RFB), com atuação conjunta para soluções integradas."
+    },
+    {
+      "pergunta": "Como o contribuinte acessará informações sobre apuração e pagamento?",
+      "resposta": "Por meio de uma plataforma eletrônica unificada, gerida conjuntamente pelo Comitê Gestor do IBS e pela RFB."
+    },
+    {
+      "pergunta": "A plataforma eletrônica oferecerá suporte ao contribuinte?",
+      "resposta": "Sim, haverá um canal de atendimento para resolução de problemas operacionais relacionados ao IBS e à CBS."
+    },
+    {
+      "pergunta": "Os entes federativos ainda podem manter sistemas próprios?",
+      "resposta": "Sim, desde que não comprometam a integração e a uniformidade exigidas pela legislação."
+    },
+    {
+      "pergunta": "O que é o cadastro com identificação única?",
+      "resposta": "É um cadastro obrigatório para pessoas físicas, jurídicas e entidades sem personalidade jurídica sujeitas ao IBS e à CBS, integrado ao CPF, CNPJ e Cadastro Imobiliário Brasileiro (CIB)."
+    },
+    {
+      "pergunta": "Como é feito o compartilhamento de dados cadastrais?",
+      "resposta": "De forma obrigatória, integrada e sincronizada entre União, Estados, Distrito Federal e Municípios, por meio de ambiente nacional de dados."
+    },
+    {
+      "pergunta": "O que é o Domicílio Tributário Eletrônico (DTE)?",
+      "resposta": "É um canal unificado e obrigatório para comunicação entre o fisco e os contribuintes, aplicado a todas as entidades inscritas no CNPJ."
+    },
+    {
+      "pergunta": "É obrigatória a emissão de documento fiscal eletrônico?",
+      "resposta": "Sim. Toda operação com bens ou serviços, inclusive isentas, suspensas ou imunes, exige emissão de documento fiscal eletrônico."
+    },
+    {
+      "pergunta": "A transferência entre estabelecimentos exige nota fiscal?",
+      "resposta": "Sim. Mesmo operações internas entre unidades do mesmo contribuinte exigem nota fiscal eletrônica."
+    },
+    {
+      "pergunta": "O que são programas de incentivo à cidadania fiscal?",
+      "resposta": "São programas criados pelo Comitê Gestor do IBS e pela RFB para estimular os consumidores a exigirem nota fiscal, podendo ser financiados com até 0,05% da arrecadação dos tributos."
+    },
+    {
+      "pergunta": "O que é considerado importação para fins de IBS e CBS?",
+      "resposta": "É a entrada no Brasil de bens ou a aquisição de serviços e bens imateriais fornecidos por residentes no exterior, com consumo no território nacional."
+    },
+    {
+      "pergunta": "A incidência dos tributos abrange pessoas físicas e jurídicas?",
+      "resposta": "Sim. A incidência alcança qualquer pessoa, inclusive entidades sem personalidade jurídica, independentemente de estarem ou não inscritas como contribuintes regulares."
+    },
+    {
+      "pergunta": "Como se define o fato gerador na importação de bens materiais?",
+      "resposta": "É a entrada do bem no território nacional. Considera-se ocorrido também em casos de extravio constatado pela autoridade aduaneira."
+    },
+    {
+      "pergunta": "O que é considerado local da operação na importação?",
+      "resposta": "É o local da entrega dos bens ao destinatário final ou o domicílio principal do adquirente no caso de entreposto."
+    },
+    {
+      "pergunta": "Como se calcula a base de cálculo do IBS e da CBS na importação?",
+      "resposta": "É o valor aduaneiro acrescido de impostos e taxas incidentes até a liberação da mercadoria, como II, AFRMM, Cide-Combustíveis, entre outros."
+    },
+    {
+      "pergunta": "Quais são as alíquotas aplicadas na importação?",
+      "resposta": "São as mesmas previstas para a aquisição do mesmo bem ou serviço no mercado interno, observando os regimes específicos se aplicáveis."
+    },
+    {
+      "pergunta": "Quem é o contribuinte na importação?",
+      "resposta": "O importador ou o adquirente da mercadoria entrepostada. Também pode ser responsabilizado solidariamente quem registrar a importação em nome de terceiros ou intermediar a operação."
+    },
+    {
+      "pergunta": "Quando deve ser feito o pagamento do IBS e da CBS na importação?",
+      "resposta": "Até a entrega dos bens submetidos ao despacho para consumo. Pode ser antecipado no registro da declaração de importação."
+    },
+    {
+      "pergunta": "É possível apropriar crédito de IBS e CBS na importação?",
+      "resposta": "Sim, desde que o importador esteja no regime regular. Os créditos podem ser utilizados conforme as regras de não cumulatividade."
+    },
+    {
+      "pergunta": "Há isenções nas importações?",
+      "resposta": "Sim, para bagagens, remessas entre pessoas físicas sem intermediação digital e regimes aduaneiros especiais enquanto os bens estiverem sob tais regimes."
+    },
+    {
+      "pergunta": "As exportações estão sujeitas ao IBS e à CBS?",
+      "resposta": "Não. Exportações de bens e serviços são imunes ao IBS e à CBS, nos termos do art. 8º e do art. 79 da Lei Complementar."
+    },
+    {
+      "pergunta": "O exportador tem direito a créditos mesmo nas operações imunes?",
+      "resposta": "Sim. É assegurada ao exportador a apropriação e utilização dos créditos relacionados às aquisições vinculadas às exportações."
+    },
+    {
+      "pergunta": "O que caracteriza uma exportação de serviço ou bem imaterial?",
+      "resposta": "É o fornecimento para pessoa no exterior com consumo também no exterior. Quando o consumo ocorre no Brasil, caracteriza-se como importação."
+    },
+    {
+      "pergunta": "É possível haver exportação sem saída física do território nacional?",
+      "resposta": "Sim. A imunidade se aplica a certas operações internas vinculadas à exportação, como em regime de admissão temporária ou para empresas autorizadas."
+    },
+    {
+      "pergunta": "Quem é responsável pelo tributo caso a exportação não se concretize?",
+      "resposta": "A empresa comercial exportadora que deixou de exportar os bens no prazo legal passa a ser responsável pelo recolhimento dos tributos suspensos."
+    },
+    {
+      "pergunta": "Qual o prazo para efetivar a exportação após fornecimento com suspensão?",
+      "resposta": "O prazo é de até 180 dias da emissão da nota fiscal pelo fornecedor. Após esse prazo, a suspensão se converte em obrigação tributária."
+    },
+    {
+      "pergunta": "Existe tratamento especial para exportadores de produtos agropecuários?",
+      "resposta": "Sim. A suspensão do IBS e da CBS pode ser aplicada nas aquisições destinadas à industrialização para exportação, desde que cumpridos os requisitos legais."
+    },
+    {
+      "pergunta": "Quando a suspensão de tributos se converte em alíquota zero?",
+      "resposta": "Quando a exportação é efetivada dentro dos prazos legais, a suspensão é convertida automaticamente em alíquota zero."
+    },
+    {
+      "pergunta": "O que acontece se os bens forem desviados ou destruídos antes da exportação?",
+      "resposta": "A empresa exportadora é obrigada a recolher os tributos suspensos com acréscimos legais, mesmo que não tenha ocorrido a exportação por motivo de força maior."
+    },
+    {
+      "pergunta": "Pode haver cancelamento da habilitação de empresa exportadora?",
+      "resposta": "Sim. O cancelamento ocorre em caso de descumprimento de requisitos ou inadimplência nos tributos suspensos, conforme processo administrativo específico."
+    },
+    {
+      "pergunta": "Quais operações ficam com o pagamento do IBS e da CBS suspenso nos regimes aduaneiros especiais?",
+      "resposta": "Ficam suspensos os tributos durante a permanência dos bens nos regimes de trânsito, depósito, permanência temporária, aperfeiçoamento, Repetro e zonas de processamento de exportação."
+    },
+    {
+      "pergunta": "Existe incidência de IBS e CBS sobre bens em regime de trânsito aduaneiro?",
+      "resposta": "Não. Enquanto os bens estiverem sob o regime de trânsito, os tributos ficam suspensos."
+    },
+    {
+      "pergunta": "Qual o tratamento fiscal de bens em regime de permanência temporária para utilização econômica?",
+      "resposta": "A suspensão é parcial. IBS e CBS são devidos proporcionalmente ao tempo de permanência do bem no país, à razão de 0,033% ao dia."
+    },
+    {
+      "pergunta": "Quais bens são isentos de IBS e CBS nas bagagens e remessas internacionais?",
+      "resposta": "Bagagens de viajantes e remessas entre pessoas físicas, sem intermediação de plataforma digital e com isenção de II, são isentas."
+    },
+    {
+      "pergunta": "Plataformas digitais são responsáveis pelos tributos em remessas internacionais?",
+      "resposta": "Sim. São solidariamente responsáveis pelo IBS e CBS quando intermediam operações de importação, mesmo se domiciliadas no exterior."
+    },
+    {
+      "pergunta": "O que é o Repetro?",
+      "resposta": "É um regime especial que suspende IBS e CBS em importações e aquisições destinadas às atividades de exploração, desenvolvimento e produção de petróleo e gás natural."
+    },
+    {
+      "pergunta": "Quando a suspensão do Repetro se converte em alíquota zero?",
+      "resposta": "Após o cumprimento dos requisitos e prazos legais, como exportação ou efetivo uso conforme o regime, a suspensão se converte em alíquota zero."
+    },
+    {
+      "pergunta": "Há penalidades se os bens não forem exportados ou usados conforme o regime?",
+      "resposta": "Sim. O contribuinte deverá recolher os tributos com multa e juros de mora se não cumprir os requisitos ou prazos dos regimes especiais."
+    },
+    {
+      "pergunta": "Como funciona a suspensão para empresas nas Zonas de Processamento de Exportação (ZPE)?",
+      "resposta": "A suspensão se aplica à importação e aquisição de máquinas, equipamentos e matérias-primas que serão usados na produção para exportação."
+    },
+    {
+      "pergunta": "O fornecimento de combustível para aeronaves em tráfego internacional é tributado?",
+      "resposta": "Não. É considerado exportação e, portanto, imune ao IBS e à CBS, desde que realizado em zona primária ou porto alfandegado."
+    },
+    {
+      "pergunta": "O que são Zonas de Processamento de Exportação (ZPEs)?",
+      "resposta": "ZPEs são áreas incentivadas onde empresas podem importar ou adquirir no mercado interno bens com suspensão de tributos, desde que voltadas à exportação."
+    },
+    {
+      "pergunta": "Quais aquisições podem ser feitas com suspensão do IBS e da CBS em ZPEs?",
+      "resposta": "Importações ou aquisições internas de máquinas, aparelhos, instrumentos, equipamentos e insumos, desde que usados na produção para exportação."
+    },
+    {
+      "pergunta": "A suspensão de tributos nas ZPEs vale para bens usados?",
+      "resposta": "Sim, desde que se trate de conjunto industrial usado para integralização de capital da empresa na ZPE."
+    },
+    {
+      "pergunta": "O que acontece se os bens forem utilizados de forma indevida ou revendidos antes da conversão da suspensão?",
+      "resposta": "A empresa deve recolher o IBS e a CBS com multa e juros desde o fato gerador, seja como contribuinte (importação) ou responsável (aquisição interna)."
+    },
+    {
+      "pergunta": "Quando a suspensão dos tributos se converte em alíquota zero?",
+      "resposta": "Após 2 anos da ocorrência do fato gerador, desde que os bens sejam utilizados conforme previsto na legislação."
+    },
+    {
+      "pergunta": "Quais insumos são abrangidos no art. 100 para suspensão?",
+      "resposta": "Matérias-primas, produtos intermediários, materiais de embalagem e, inclusive, energia elétrica de fonte renovável."
+    },
+    {
+      "pergunta": "Qual o requisito para suspensão na aquisição de insumos?",
+      "resposta": "Devem ser utilizados integralmente no processo produtivo do produto final exportado ou de serviços destinados exclusivamente ao exterior."
+    },
+    {
+      "pergunta": "Há benefícios para consumo de energia elétrica renovável em ZPEs?",
+      "resposta": "Sim. Energia elétrica renovável é considerada matéria-prima e também pode ser adquirida com suspensão de tributos."
+    },
+    {
+      "pergunta": "O que ocorre em caso de uso indevido ou revenda de insumos adquiridos com suspensão?",
+      "resposta": "A empresa será obrigada a recolher os tributos suspensos com multa e juros legais."
+    },
+    {
+      "pergunta": "Existe previsão de penalidade para descumprimento nas ZPEs?",
+      "resposta": "Sim. Se os tributos não forem pagos voluntariamente, serão cobrados via procedimento de ofício, com atualização pela Selic e penalidades previstas."
+    },
+    {
+      "pergunta": "O que é o Imposto Seletivo (IS)?",
+      "resposta": "É um tributo federal com função extrafiscal, criado para desestimular o consumo de bens e serviços prejudiciais à saúde ou ao meio ambiente."
+    },
+    {
+      "pergunta": "Quais operações estão sujeitas ao IS?",
+      "resposta": "Operações com bens e serviços produzidos no país ou importados que estejam incluídos em lista específica aprovada por lei."
+    },
+    {
+      "pergunta": "O IS incide sobre exportações?",
+      "resposta": "Não. Exportações de bens e serviços estão expressamente excluídas da incidência do IS."
+    },
+    {
+      "pergunta": "O IS tem função arrecadatória?",
+      "resposta": "A função principal do IS é regulatória (extrafiscal), visando desincentivar o consumo de certos bens ou serviços. A arrecadação é secundária."
+    },
+    {
+      "pergunta": "Quem define os produtos sujeitos ao IS?",
+      "resposta": "Cabe à lei ordinária definir os bens e serviços sujeitos ao IS, com base nos critérios de risco à saúde ou ao meio ambiente."
+    },
+    {
+      "pergunta": "Existe previsão de alíquota zero ou isenção para o IS?",
+      "resposta": "Sim. A lei poderá estabelecer alíquota zero ou isenção para determinados bens e serviços, mesmo que estejam na lista sujeita ao IS."
+    },
+    {
+      "pergunta": "Qual é a base de cálculo do IS?",
+      "resposta": "É o valor da operação de venda ou importação do bem ou serviço, incluindo tributos, encargos e demais valores cobrados do adquirente."
+    },
+    {
+      "pergunta": "Quem são os contribuintes do IS?",
+      "resposta": "Fabricantes, importadores ou prestadores de serviços relacionados aos bens e serviços sujeitos ao IS."
+    },
+    {
+      "pergunta": "O IS pode ser cumulativo com o IBS e a CBS?",
+      "resposta": "Sim. O IS pode incidir cumulativamente com o IBS e a CBS sobre a mesma operação, se aplicável."
+    },
+    {
+      "pergunta": "O IS é não cumulativo como o IBS e a CBS?",
+      "resposta": "Não. O IS possui natureza cumulativa e não gera direito a crédito na cadeia seguinte."
+    },
+    {
+      "pergunta": "Quando ocorre a incidência do Imposto Seletivo (IS)?",
+      "resposta": "O IS incide sobre operações com bens e serviços incluídos em lista específica aprovada por lei, realizados no mercado interno ou em importações."
+    },
+    {
+      "pergunta": "O que se entende por operação para fins de incidência do IS?",
+      "resposta": "Inclui a produção, comercialização, importação, fornecimento ou disponibilização de bens e serviços sujeitos ao IS."
+    },
+    {
+      "pergunta": "O IS incide sobre a primeira venda apenas ou em toda a cadeia?",
+      "resposta": "O IS pode incidir de forma cumulativa em qualquer ponto da cadeia produtiva, conforme definido na regulamentação aplicável ao produto."
+    },
+    {
+      "pergunta": "Qual é o momento de ocorrência do fato gerador do IS?",
+      "resposta": "O fato gerador ocorre no momento da saída do bem do estabelecimento industrial ou do desembaraço aduaneiro no caso de importações."
+    },
+    {
+      "pergunta": "Existe incidência do IS em operações gratuitas?",
+      "resposta": "Sim. O IS também incide sobre fornecimentos gratuitos, como brindes ou promoções, quando se tratar de bens sujeitos ao imposto."
+    },
+    {
+      "pergunta": "Como é definido o valor da base de cálculo do IS?",
+      "resposta": "É o valor total da operação, incluindo encargos, tributos, transporte, seguro e demais despesas cobradas do adquirente."
+    },
+    {
+      "pergunta": "Pode haver fixação de alíquota por unidade de medida?",
+      "resposta": "Sim. A lei pode estabelecer alíquotas específicas por unidade de medida (litro, quilo, unidade, etc.), conforme a natureza do produto."
+    },
+    {
+      "pergunta": "Como se trata a importação de produtos sujeitos ao IS?",
+      "resposta": "A base de cálculo será o valor aduaneiro do bem acrescido dos tributos incidentes na importação, como II, IPI, taxas e encargos."
+    },
+    {
+      "pergunta": "O IS se aplica à prestação de serviços?",
+      "resposta": "Sim, desde que o serviço esteja incluído na lista de incidência do IS, conforme definido por lei."
+    },
+    {
+      "pergunta": "A industrialização sob encomenda gera fato gerador do IS?",
+      "resposta": "Sim. Se o bem resultante da encomenda estiver sujeito ao IS, o imposto incidirá na saída do produto industrializado."
+    },
+    {
+      "pergunta": "Quem define as alíquotas do Imposto Seletivo (IS)?",
+      "resposta": "As alíquotas são definidas por lei ordinária federal, que poderá ser atualizada por decreto do Poder Executivo nos limites autorizados."
+    },
+    {
+      "pergunta": "As alíquotas do IS são uniformes para todos os bens e serviços?",
+      "resposta": "Não. As alíquotas podem variar conforme o tipo de bem ou serviço e seu grau de nocividade à saúde ou ao meio ambiente."
+    },
+    {
+      "pergunta": "É possível que a alíquota do IS seja diferenciada por unidade de medida?",
+      "resposta": "Sim. A lei pode estabelecer alíquota específica por unidade física do produto, como litro, quilo, unidade, etc."
+    },
+    {
+      "pergunta": "Pode haver fixação de alíquota zero no IS?",
+      "resposta": "Sim. A lei pode estabelecer alíquota zero, ou seja, isenção efetiva, para determinados bens ou serviços mesmo incluídos na lista sujeita ao IS."
+    },
+    {
+      "pergunta": "Existe limite máximo para as alíquotas do IS?",
+      "resposta": "Sim. A Constituição exige que a lei que institui o IS estabeleça os limites máximos permitidos para as alíquotas."
+    },
+    {
+      "pergunta": "É possível a alteração de alíquota por decreto?",
+      "resposta": "Sim, desde que a própria lei tenha autorizado essa delegação e observado os limites constitucionais e legais."
+    },
+    {
+      "pergunta": "As alíquotas do IS podem variar por finalidade do bem?",
+      "resposta": "Sim. A diferenciação pode levar em conta se o bem é para consumo pessoal, uso industrial, exportação, entre outros."
+    },
+    {
+      "pergunta": "Há distinção de alíquota para produtos importados e nacionais?",
+      "resposta": "Não. O princípio da isonomia exige tratamento tributário igual entre produtos nacionais e importados sujeitos ao IS."
+    },
+    {
+      "pergunta": "A alteração de alíquota exige observância de anterioridade?",
+      "resposta": "Sim. Exceto se houver previsão de redução, aumentos de alíquota devem respeitar os prazos de anterioridade previstos na Constituição."
+    },
+    {
+      "pergunta": "É possível modular alíquotas do IS por impacto ambiental?",
+      "resposta": "Sim. A legislação poderá fixar alíquotas diferenciadas com base no grau de impacto ambiental do bem ou serviço."
+    },
+    {
+      "pergunta": "Quem é o contribuinte do Imposto Seletivo (IS)?",
+      "resposta": "O contribuinte é o fabricante, importador ou prestador de serviço que realiza operação com bens ou serviços sujeitos ao IS."
+    },
+    {
+      "pergunta": "Plataformas digitais podem ser responsáveis pelo IS?",
+      "resposta": "Sim. Quando intermediarem operações sujeitas ao IS, especialmente em casos de importações ou fornecimentos não presenciais."
+    },
+    {
+      "pergunta": "O adquirente pode ser responsabilizado pelo pagamento do IS?",
+      "resposta": "Sim. Em alguns casos, como aquisições em leilões, importações por conta e ordem, ou aquisição de produtos desacobertados de documento fiscal idôneo."
+    },
+    {
+      "pergunta": "Quem mais pode ser responsável solidário pelo IS?",
+      "resposta": "Transportadores, plataformas, leiloeiros, consignatários, representantes legais de empresas estrangeiras, e demais terceiros que contribuam para operações irregulares."
+    },
+    {
+      "pergunta": "A responsabilidade solidária do IS segue as mesmas regras do IBS e CBS?",
+      "resposta": "Sim. A lei remete às disposições aplicáveis ao IBS e à CBS no que se refere à responsabilidade de terceiros e sujeitos passivos."
+    },
+    {
+      "pergunta": "A responsabilidade pelo IS pode recair sobre depositários e despachantes?",
+      "resposta": "Sim. Em casos de descumprimento de obrigações relativas ao controle e liberação de bens sujeitos ao IS."
+    },
+    {
+      "pergunta": "É obrigatória a inscrição de responsáveis no cadastro tributário?",
+      "resposta": "Sim. Os responsáveis tributários deverão se inscrever nos cadastros específicos para fins de cumprimento das obrigações legais."
+    },
+    {
+      "pergunta": "O IS pode ser cobrado de forma automática em transações digitais?",
+      "resposta": "Sim. O sistema pode aplicar retenção ou recolhimento automático, especialmente em pagamentos intermediados por plataformas."
+    },
+    {
+      "pergunta": "Como funciona a solidariedade em caso de operações não documentadas?",
+      "resposta": "Todos os envolvidos – fornecedor, transportador, adquirente – podem responder solidariamente pelo imposto devido."
+    },
+    {
+      "pergunta": "O IS incide em operações de amostras ou bonificações?",
+      "resposta": "Sim, se os bens estiverem sujeitos ao IS, ainda que fornecidos gratuitamente ou com valor simbólico."
+    },
+    {
+      "pergunta": "O IS deve ser apurado de forma mensal ou por operação?",
+      "resposta": "O IS será apurado por regime de competência, podendo a legislação estabelecer apuração mensal ou por operação, conforme a natureza da atividade."
+    },
+    {
+      "pergunta": "Qual é o prazo para recolhimento do IS?",
+      "resposta": "O pagamento deve ser realizado até o 20º (vigésimo) dia do mês subsequente à ocorrência do fato gerador, salvo disposição diversa da legislação específica."
+    },
+    {
+      "pergunta": "É obrigatória a escrituração das operações sujeitas ao IS?",
+      "resposta": "Sim. As operações devem ser registradas em documento fiscal eletrônico e informadas por meio do sistema unificado gerido pela Receita Federal."
+    },
+    {
+      "pergunta": "Existe guia específica para pagamento do IS?",
+      "resposta": "Sim. O pagamento será efetuado por meio de documento de arrecadação próprio, instituído pela Receita Federal do Brasil."
+    },
+    {
+      "pergunta": "O IS pode ser recolhido de forma antecipada?",
+      "resposta": "Sim. A legislação poderá prever hipóteses de recolhimento antecipado, especialmente nas operações de importação ou fornecimentos específicos."
+    },
+    {
+      "pergunta": "Há compensação de valores no IS, como ocorre com IBS e CBS?",
+      "resposta": "Não. O IS é um tributo cumulativo e não admite compensação de créditos entre etapas da cadeia produtiva."
+    },
+    {
+      "pergunta": "A apuração do IS pode ser feita de forma centralizada?",
+      "resposta": "Sim. Empresas com estabelecimentos em mais de uma unidade da Federação podem, se autorizado, centralizar a apuração e o recolhimento do IS."
+    },
+    {
+      "pergunta": "O que acontece em caso de atraso no recolhimento do IS?",
+      "resposta": "Incidem multa, juros e correção monetária sobre o valor devido, nos termos da legislação aplicável."
+    },
+    {
+      "pergunta": "Empresas do Simples Nacional estão sujeitas ao IS?",
+      "resposta": "Sim. O IS não está incluído no regime do Simples Nacional e deve ser apurado e pago à parte, quando aplicável."
+    },
+    {
+      "pergunta": "Quais são as penalidades por omissão ou erro na apuração do IS?",
+      "resposta": "Podem incluir multa por descumprimento de obrigação acessória, multa de ofício, além de responsabilização solidária de terceiros envolvidos."
+    },
+    {
+      "pergunta": "Quem regulamenta o funcionamento do IS?",
+      "resposta": "A Receita Federal do Brasil é responsável pela regulamentação, arrecadação, fiscalização e cobrança do IS, com base nas diretrizes estabelecidas em lei."
+    },
+    {
+      "pergunta": "O IS pode ser administrado de forma integrada com outros tributos?",
+      "resposta": "Sim. A Receita Federal pode utilizar sistemas integrados com IBS e CBS para facilitar obrigações acessórias e controle das operações."
+    },
+    {
+      "pergunta": "Há previsão de normas complementares para o IS?",
+      "resposta": "Sim. A lei prevê a possibilidade de edição de normas complementares e infralegais para disciplinar a aplicação do IS, inclusive por decreto."
+    },
+    {
+      "pergunta": "O IS pode ser incluído em regimes especiais de tributação?",
+      "resposta": "Não. O IS possui incidência direta e específica e não pode ser incluído nos regimes simplificados como Simples Nacional ou regimes cumulativos."
+    },
+    {
+      "pergunta": "Como o IS será tratado durante o período de transição tributária?",
+      "resposta": "Durante o período de transição, o IS conviverá com os tributos atuais, sendo aplicável de forma específica, conforme calendário de implementação definido em norma posterior."
+    },
+    {
+      "pergunta": "Há previsão de revisão periódica da lista de produtos sujeitos ao IS?",
+      "resposta": "Sim. A lista poderá ser atualizada conforme critérios técnicos e estudos de impacto à saúde e ao meio ambiente, por ato do Poder Executivo."
+    },
+    {
+      "pergunta": "Existe possibilidade de devolução de IS pago indevidamente?",
+      "resposta": "Sim. Aplica-se a legislação geral de restituição de tributos federais, mediante comprovação de pagamento indevido ou a maior."
+    },
+    {
+      "pergunta": "As infrações relativas ao IS seguem qual legislação?",
+      "resposta": "As infrações e penalidades seguem as regras da legislação tributária federal, incluindo o Código Tributário Nacional e a Lei de Execução Fiscal."
+    },
+    {
+      "pergunta": "Haverá integração do IS com o Domicílio Tributário Eletrônico (DTE)?",
+      "resposta": "Sim. O DTE será o canal oficial de comunicação da Receita Federal com os contribuintes do IS, assim como ocorre com os demais tributos."
+    },
+    {
+      "pergunta": "O contribuinte pode consultar previamente a Receita sobre a incidência do IS?",
+      "resposta": "Sim. É possível realizar consulta formal à Receita Federal para esclarecer dúvidas sobre a aplicação do IS em situações específicas."
+    },
+    {
+      "pergunta": "Quando começa a transição para o novo sistema tributário?",
+      "resposta": "A transição inicia em 2026, com a convivência do sistema antigo e do novo, e será concluída até 2033, quando os tributos atuais serão extintos."
+    },
+    {
+      "pergunta": "Quais tributos serão extintos com a implementação total do novo sistema?",
+      "resposta": "Serão extintos o ICMS, ISS, IPI, PIS e Cofins, substituídos por IBS, CBS e IS."
+    },
+    {
+      "pergunta": "Como será feita a substituição do PIS/Cofins pela CBS?",
+      "resposta": "A CBS será implementada gradualmente entre 2026 e 2027, com redução proporcional das alíquotas de PIS e Cofins conforme cronograma legal."
+    },
+    {
+      "pergunta": "A apuração de créditos de tributos extintos será preservada?",
+      "resposta": "Sim. Créditos apurados até a extinção dos tributos poderão ser compensados ou ressarcidos, conforme regulamento."
+    },
+    {
+      "pergunta": "Como será a repartição de receitas entre União, Estados e Municípios durante a transição?",
+      "resposta": "A repartição se dará por meio de um regime de compensação e redistribuição gradual, com base em critérios de arrecadação histórica e destino final do consumo."
+    },
+    {
+      "pergunta": "Haverá fundo de compensação para os entes federativos?",
+      "resposta": "Sim. Será criado um fundo para compensar perdas de receita de Estados e Municípios durante o período de transição."
+    },
+    {
+      "pergunta": "Durante a transição, contribuintes estarão sujeitos a quais obrigações acessórias?",
+      "resposta": "Durante o período de convivência, os contribuintes deverão cumprir as obrigações acessórias dos dois sistemas simultaneamente (antigo e novo)."
+    },
+    {
+      "pergunta": "As regras de substituição tributária continuarão valendo durante a transição?",
+      "resposta": "Sim. Regras específicas de substituição tributária poderão ser mantidas até a extinção completa dos tributos anteriores."
+    },
+    {
+      "pergunta": "Como será feita a compensação de saldos credores do ICMS e ISS?",
+      "resposta": "Estados e Municípios deverão regulamentar a utilização e compensação dos saldos de créditos remanescentes dentro de prazos definidos pela legislação complementar."
+    },
+    {
+      "pergunta": "A nova legislação revoga dispositivos imediatamente?",
+      "resposta": "Não. As revogações e alterações terão efeitos graduais, respeitando os prazos constitucionais de anterioridade e transição definidos na própria lei complementar."
+    },
+    {
+      "pergunta": "Quando a Lei Complementar nº 214/2025 entra em vigor?",
+      "resposta": "A lei entra em vigor na data de sua publicação, mas muitos de seus efeitos dependem de regulamentações posteriores e prazos específicos."
+    },
+    {
+      "pergunta": "Essa lei revoga quais legislações anteriores?",
+      "resposta": "Ela revoga disposições específicas que conflitem com o novo sistema, mas a revogação total de tributos anteriores ocorrerá conforme cronograma de transição."
+    },
+    {
+      "pergunta": "A lei depende de regulamentações complementares?",
+      "resposta": "Sim. Diversos dispositivos exigem regulamentação por leis ordinárias, decretos e atos da Receita Federal e do Comitê Gestor do IBS."
+    },
+    {
+      "pergunta": "As novas regras se aplicam imediatamente a todos os contribuintes?",
+      "resposta": "Não. Algumas regras têm aplicação imediata, mas outras seguem o calendário de transição e exigem adaptações técnicas e operacionais pelos contribuintes."
+    },
+    {
+      "pergunta": "Haverá integração com sistemas estaduais e municipais?",
+      "resposta": "Sim. A lei prevê integração entre sistemas federais, estaduais e municipais para unificar o cumprimento de obrigações acessórias."
+    },
+    {
+      "pergunta": "A lei trata da criação de cadastros unificados?",
+      "resposta": "Sim. Prevê-se a criação de um cadastro único e digital, que integra CPF, CNPJ, Cadastro Imobiliário e outros dados para efeitos tributários."
+    },
+    {
+      "pergunta": "Qual será o papel do Comitê Gestor do IBS nas fases finais da transição?",
+      "resposta": "O Comitê será responsável por coordenar, padronizar e garantir a aplicação uniforme da lei entre os entes federativos, inclusive durante a transição."
+    },
+    {
+      "pergunta": "O que acontece com litígios tributários em curso após a entrada em vigor da lei?",
+      "resposta": "Litígios relacionados a tributos extintos continuarão a ser regidos pela legislação anterior, aplicando-se a nova lei apenas a fatos geradores futuros."
+    },
+    {
+      "pergunta": "A lei pode ser modificada após sua entrada em vigor?",
+      "resposta": "Sim. A lei complementar pode ser modificada por outra lei complementar, respeitando os princípios constitucionais e os prazos de anterioridade."
+    },
+    {
+      "pergunta": "Existe previsão de monitoramento e avaliação dos impactos da nova legislação?",
+      "resposta": "Sim. Órgãos técnicos, como o Comitê Gestor e a Receita Federal, deverão acompanhar a implementação e propor ajustes quando necessário."
+    }
+  ]
+}
