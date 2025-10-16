@@ -1,0 +1,96 @@
+﻿Fonte Normal Página Inicial
+
+AumDenimtainr uir
+FontFeonte
+Pesquise no SPED
+
+Pesquisa…  Buscar
+Conheça o Sped Serviços Legislação Parceiros do Projeto
+
+Módulos Você está aqui:  Página Inicial | Módulos | ECD | Perguntas Frequentes
+
+Central de Balanços
+ECD
+
+CT-e
+
+ECD
+O que é Downloads Legislação Perguntas Frequentes Serviços
+
+ECF
+
+EFD Contribuições
+
+EFD ICMS IPI Perguntas Frequentes
+EFD-Reinf
+
+1 - Qual é a data-limite de entrega da ECD?
+e-Financeira
+
+eSocial Para as situações normais, a data-limite de entrega é até o último dia útil do mês de maio do
+MDF-e ano subsequente ao ano-calendário a que se refira a escrituração.
+NFC-e Para as situações especiais (cisão, fusão, incorporação ou extinção):
+NF-e - Se a cisão, fusão, incoporação ou extinção ocorrer de janeiro a abril, a data-limite de
+NFS-e entrega é o último dia útil do mês de maio do ano da escrituração.
+Simplificação - Se a cisão, fusão, incoporação ou extinção ocorrer de maio a dezembro, a data-limite de
+
+entrega é o último dia útil do mês subsequente ao do evento.
+
+Downloads
+Essas informações foram úteis para você? Sim Não
+
+Receitanet
+
+ReceitanetBX 2 - Caso as minhas dúvidas não tenham sido esclarecidas, como devo proceder?
+Validador ECD Verifique as instruções de preenchimento da ECD no Manual de Orientação do Leiaute da
+Validador ECF ECD, disponível para download em: http://sped.rfb.gov.br/pasta/show/1569; ou envie sua
+Validador EFD ICMS-IPI dúvida para o Fale Conosco da ECD.
+Validador EFD-Contribuições
+
+Visualizador Sped
+Essas informações foram úteis para você? Sim Não
+
+Portais e Secretarias 3 - Não estou conseguindo restaurar um cópia de segurança da ECD já transmtida. O que
+devo fazer?
+
+Portais Estaduais da NF-e
+Selecione Não utilize a cópia de segurança. Se a ECD já foi transmitida, utilize o programa
+
+Secretarias de Fazenda ReceitanetBX para fazer o download do arquivo original da ECD (em formato .txt) e importe
+Selecione este arquivo na versão mais atualizada do programa da ECD. 
+
+Portais de Documentos Fiscais
+Selecione
+
+Essas informações foram úteis para você? Sim Não
+
+4 - Como deve ser a procuração eletrônica RFB para assinar a ECD?
+
+A opção "Todos os serviços existentes e os que vierem a ser disponibilizados no sistema de
+Procurações Eletrônicas do e-CAC (destinados ao tipo do Outorgante - PF ou PJ), para todos
+os fins, inclusive confissão de débitos, durante o período de validade da procuração." deve
+estar selecionada na procuração eletrônica.
+Caso a empresa não possua e-CNPJ, segue o link do portal, onde é detalhado o serviço e
+tudo que precisa ser providenciado para cadastrar a procuração presencialmente.
+http://idg.receita.fazenda.gov.br/interface/lista-de-servicos//procuracao/procuracao-e-cac-
+presencial
+http://idg.receita.fazenda.gov.br/orientacao/tributaria/senhas-e-
+procuracoes/procuracoes/orientacoes-gerais-procuracoes-rfb
+
+Essas informações foram úteis para você? Sim Não
+
+5 - Como é realizada a recuperação da ECD anterior?
+
+A partir do leiaute 8 (ano-calendário 2019 e situações especiais de 2020) há a funcionalidade
+de recuperação da ECD anterior no programa da ECD (versão 7.0.0).
+Há que ressaltar que a recuperação da ECD anterior é obrigatória e deve ser realizada pelo
+usuário do programa, após a importação do arquivo da ECD referente ao ano-calendário
+2019 e situações especiais de 2020, no programa da ECD - menu "Escrituração/Recuperar
+ECD Anterior".
+Após a recuperação da ECD anterior, a construção do Bloco C - Recuperação da ECD
+Anterior - é feita automaticamente pelo programa.
+ 
+
+Essas informações foram úteis para você? Sim Não
+
+Se as informações acima não foram suficientes para sanar sua dúvida, acione o Fale Conosco.
