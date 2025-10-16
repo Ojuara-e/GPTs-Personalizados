@@ -1,0 +1,849 @@
+{
+  "legislacao": {
+    "tipo": "LEI COMPLEMENTAR",
+    "numero": "35/2003",
+    "data": "23 de dezembro de 2003",
+    "municipio": "Jaraguá do Sul",
+    "ementa": "DISPÕE SOBRE O IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA.",
+    "observacoes_gerais": [
+      "(Vide Regulamentação dada pelo Decreto nº 7787/2011)",
+      "(Vide Decretos nº 12.018/2018 e nº 12.042/2018)"
+    ],
+    "sumario": [
+      {"capitulo": "I", "titulo": "DO FATO GERADOR"},
+      {"capitulo": "II", "titulo": "DA INCIDÊNCIA E DA NÃO INCIDÊNCIA"},
+      {"capitulo": "III", "titulo": "DAS ISENÇÕES"},
+      {"capitulo": "IV", "titulo": "DA SUJEIÇÃO PASSIVA"},
+      {"capitulo": "V", "titulo": "DA RETENÇÃO NA FONTE"},
+      {"capitulo": "VI", "titulo": "DO LOCAL DA PRESTAÇÃO DE SERVIÇOS"},
+      {"capitulo": "VII", "titulo": "DO LANÇAMENTO"},
+      {"capitulo": "VIII", "titulo": "DA BASE DE CÁLCULO"},
+      {"capitulo": "IX", "titulo": "DAS ALÍQUOTAS"},
+      {"capitulo": "X", "titulo": "DA ESTIMATIVA"},
+      {"capitulo": "XI", "titulo": "DO ARBITRAMENTO"},
+      {"capitulo": "XII", "titulo": "DA APURAÇÃO E DO PAGAMENTO"},
+      {"capitulo": "XIII", "titulo": "DAS OBRIGAÇÕES ACESSÓRIAS"},
+      {"capitulo": "XIV", "titulo": "DO REGIME ESPECIAL"},
+      {"capitulo": "XV", "titulo": "DAS INFRAÇÕES E PENALIDADES"},
+      {"capitulo": "XVI", "titulo": "DA ADMINISTRAÇÃO TRIBUTÁRIA"},
+      {"capitulo": "XVII", "titulo": "DAS DISPOSIÇÕES FINAIS"}
+    ],
+    "capitulos": [
+      {
+        "numero_romano": "I",
+        "titulo": "DO FATO GERADOR",
+        "artigos": [
+          {
+            "numero": "2º",
+            "paragrafos": [
+              {
+                "tipo": "Parágrafo Único",
+                "texto": "Ocorre o fato gerador:",
+                "incisos": [
+                  {"texto": "- no momento da prestação dos serviços a que se refere este artigo;"},
+                  {"texto": "- em 1º de janeiro de cada exercício ou no início das atividades, quando o serviço for prestado sob a forma de trabalho pessoal do próprio contribuinte ou por sociedade de profissionais, em conformidade com os §§ 1º e 2º, do artigo 15, desta Lei Complementar;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"texto": "- no momento da chancela dos ingressos ou similares, no caso dos serviços elencados no item 12, da Lista de Serviços a que se refere este artigo, ou de outra atividade que utilize tal sistema;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"texto": "- no momento do pagamento dos serviços, no caso de serviços provenientes ou iniciados no exterior;"},
+                  {"texto": "- no caso das obras de construção civil, com o início da construção.", "observacao": "(Redação acrescida pela Lei Complementar nº 153/2014)"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero_romano": "II",
+        "titulo": "DA INCIDÊNCIA E DA NÃO INCIDÊNCIA",
+        "secoes": [
+          {
+            "numero_romano": "I",
+            "titulo": "Da Incidência",
+            "artigos": [
+              {
+                "numero": "3º",
+                "paragrafos": [
+                  {"numero": "1º", "texto": "O imposto incide também sobre o serviço proveniente do exterior do País ou cuja prestação se tenha iniciado no exterior do País."},
+                  {"numero": "2º", "texto": "Ressalvadas as exceções expressas na lista de serviços anexa, os serviços nela mencionados ficam sujeitos ao Imposto Sobre Serviços de Qualquer Natureza, ainda que sua prestação envolva fornecimento de mercadorias."},
+                  {"numero": "3º", "texto": "O imposto de que trata esta Lei Complementar incide ainda sobre os serviços prestados mediante a utilização de bens e serviços públicos explorados economicamente mediante autorização, permissão ou concessão, com o pagamento de tarifa, preço ou pedágio pelo usuário final do serviço."},
+                  {"numero": "4º", "texto": "Incide o Imposto Sobre Serviços de Qualquer Natureza quando houver fornecimento de mercadorias que envolvam serviços descritos na lista de serviços anexa, independente do destaque no documento fiscal."},
+                  {
+                    "numero": "5º", 
+                    "texto": "A incidência do imposto independe:",
+                    "incisos": [
+                      {"texto": "- da denominação dada ao serviço prestado;"},
+                      {"texto": "- da existência de estabelecimento fixo;"},
+                      {"texto": "- do recebimento do preço do serviço ou do resultado econômico da prestação;"},
+                      {"texto": "- do fornecimento de material;"},
+                      {"texto": "- do caráter permanente ou eventual da prestação."},
+                      {"texto": "- do cumprimento de quaisquer exigências legais, regulamentares ou administrativas, relativas à atividade, sendo devido o imposto, sem prejuízo das cominações cabíveis."}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero_romano": "II",
+            "titulo": "Da Não Incidência",
+            "artigos": [
+              {
+                "numero": "4º",
+                "texto": "O imposto não incide sobre:",
+                "incisos": [
+                  {"texto": "- as exportações de serviços para o exterior do País;"},
+                  {"texto": "- a prestação de serviços em relação de emprego, dos trabalhadores avulsos, dos diretores e membros de conselho consultivo ou de conselho fiscal de sociedades e fundações, bem como dos sócios- gerentes e dos gerentes-delegados;"},
+                  {"texto": "- o valor intermediado no mercado de títulos e valores mobiliários, o valor dos depósitos bancários, o principal, juros e acréscimos moratórios relativos a operações de crédito realizadas por instituições financeiras;"},
+                  {"texto": "- as remunerações, de qualquer natureza, pagas pelo Poder Público Municipal às pessoas físicas, em decorrência da participação em Conselhos, Juntas ou quaisquer outros órgãos coletivos de deliberação.", "observacao": "(Redação acrescida pela Lei Complementar nº 153/2014)"}
+                ],
+                "paragrafos": [
+                  {"tipo": "Parágrafo Único", "texto": "Não se enquadram no disposto no inciso I, deste artigo, os serviços desenvolvidos no Brasil, cujo resultado aqui se verifique, ainda que o pagamento seja feito por residente no exterior."}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero_romano": "III",
+        "titulo": "DAS ISENÇÕES",
+        "artigos": [
+          {
+            "numero": "5º",
+            "texto": "São isentos do imposto os serviços de:",
+            "incisos": [
+              {"texto": "- A edificação realizada pelo proprietário da obra, desde que devidamente inscrito no Cadastro Municipal de Contribuintes há mais de 5 (cinco) anos na atividade de pedreiro autônomo e cuja obra destine-se a sua residência familiar;", "observacao": "(Revogado pela Lei Complementar nº 218/2018)"},
+              {"texto": "- A edificação realizada por meio de sistema de mutirão devidamente reconhecido pelo Instituto Nacional do Seguro Social - INSS;"},
+              {"texto": "- A edificação enquadrada pelo Programa de Moradia Econômica nos termos da Lei Municipal nº 2016/95 de 23 de agosto de 1995.", "observacao": "(Revogado pela Lei Complementar nº 218/2018)"}
+            ]
+          }
+        ]
+      },
+      {
+        "numero_romano": "IV",
+        "titulo": "DA SUJEIÇÃO PASSIVA",
+        "secoes": [
+          {"numero_romano": "I", "titulo": "Do Sujeito Passivo", "artigos": [{"numero": "7º"}]},
+          {
+            "numero_romano": "II", 
+            "titulo": "Do Contribuinte", 
+            "artigos": [
+              {
+                "numero": "8º",
+                "texto": "Contribuinte do imposto é o prestador do serviço.",
+                "paragrafos": [
+                  {"numero": "1º", "texto": "O contribuinte pode ser pessoa natural ou pessoa jurídica, que mantenha relação direta com a situação que constitua fator gerador do imposto sobre os serviços constantes na Lista de Serviços anexa."},
+                  {
+                    "numero": "2º", 
+                    "texto": "Equipara-se à pessoa jurídica:",
+                    "incisos": [
+                      {"texto": "o empreendimento constituído para prestar serviços com interesse econômico;"},
+                      {"texto": "o condomínio;"},
+                      {"texto": "o delegatário do Estado para a realização dos serviços registrários, cartorários, notariais e similares.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "numero_romano": "III",
+            "titulo": "Do Responsável Tributário",
+            "artigos": [
+              {
+                "numero": "9º",
+                "texto": "São responsáveis pela retenção na fonte e recolhimento do Imposto Sobre Serviços de Qualquer Natureza:",
+                "incisos": [
+                  {"texto": "- o tomador ou intermediário de serviço proveniente do exterior do País ou cuja prestação se tenha iniciado no exterior do País;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"texto": "- a pessoa jurídica, ainda que imune ou isenta, tomadora ou intermediária:"},
+                  {"texto": "dos serviços descritos nos subitens 3.05, 7.02, 7.04, 7.05, 7.09, 7.10, 7.12, 7.16, 7.17, 7.19, 11.02, 17.05 e 17.10 da Lista de Serviços anexa a esta Lei Complementar, exceto na hipótese dos serviços do subitem 11.05, relacionados ao monitoramento e rastreamento a distância, em qualquer via ou local, de veículos, cargas, pessoas e semoventes em circulação ou movimento, realizados por meio de telefonia móvel, transmissão de satélites, rádio ou qualquer outro meio, inclusive pelas empresas de Tecnologia da Informação Veicular, independentemente de o prestador de serviços ser proprietário ou não da infraestrutura de telecomunicações que utiliza;", "observacao": "(Redação dada pela Lei Complementar nº 283/2021)"},
+                  {"texto": "de serviço prestado por contribuinte, domiciliado neste Município, que não esteja inscrito no Cadastro Municipal de Contribuintes de Jaraguá do Sul ou que não tenha emitido Nota Fiscal de Prestação de Serviços, salvo se o prestador do serviço for dispensado da emissão da Nota pela Administração Tributária;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"texto": "- as pessoas jurídicas de direito privado, de direito público e os órgãos da administração pública da União, do Estado e do Município, inclusive os Poderes Judiciário e Legislativo, quando contratarem prestação de serviços de outros Municípios ou do exterior do País nas hipóteses previstas nos incisos I a XX, do artigo 11, desta Lei Complementar;", "observacao": "(Redação dada pela Lei Complementar nº 269/2020)"},
+                  {"texto": "- os órgãos da Administração Pública Municipal, inclusive suas Autarquias, Fundações, Empresas Públicas e Sociedade de Economia Mista quando contratarem prestadores de serviços domiciliados no Município de Jaraguá do Sul;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"texto": "- solidariamente, o proprietário ou possuidor, a qualquer título, o locador ou cedente de locais, dependências ou espaço em bem imóvel, ainda que pertencentes a sociedades civis sem fins lucrativos, utilizados para a realização de feiras, exposições, bailes, shows, concertos, recitais ou quaisquer outros eventos de diversões públicas que deixar de exigir do contribuinte comprovante de pagamento do valor do imposto devido;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"texto": "- os permissionários do serviço de táxi, pelo imposto devido de seus auxiliares;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"texto": "- os estabelecimentos bancários e demais entidades financeiras autorizadas a funcionar pelo Banco Central, tomadores ou intermediários dos serviços descritos nos subitens 10.04 e 19.01, da Lista de Serviços anexa;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"texto": "- os estabelecimentos bancários e ou agências bancárias, cooperativas de crédito e demais instituições e entidades financeiras autorizadas a funcionar pelo Banco Central que possuam sede, agência, sucursal, filial, posto de atendimento, escritório de representação no Município de Jaraguá do Sul, em relação aos serviços prestados pelos agentes lotéricos e correspondentes bancários na cobrança, recebimento ou pagamento em geral de títulos quaisquer, de contas ou cartões, tributos e por conta de terceiros, inclusive os serviços correlatos à cobrança, recebimento ou pagamento;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"texto": "- a Caixa Econômica Federal e ou instituição financeira equivalente, outras empresas e entidades que exploram loterias e outros jogos, inclusive apostas, pelo imposto devido sobre as comissões pagas aos seus agentes, revendedores ou concessionários referente à distribuição e venda de bilhetes de loterias, bingos, cartões, pules ou cupons de apostas, sorteios, prêmios e assemelhados;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"texto": "- solidariamente com o contribuinte e o empreiteiro da obra, o proprietário do bem imóvel quanto aos serviços previstos nos subitens 7.02, 7.04 e 7.05, da Lista anexa, prestados sem a documentação fiscal correspondente e/ou sem a prova do pagamento do imposto.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"texto": "- a pessoa jurídica tomadora ou intermediária de serviços, ainda que imune ou isenta, na hipótese prevista no § 4º, do artigo 3º, da Lei Complementar Nº 116/2003 (Lei Federal).", "observacao": "(Redação acrescida pela Lei Complementar nº 200/2017)"},
+                  {"texto": "- as pessoas referidas nos incisos II ou III, do §9º, do artigo 11, desta Lei Complementar, pelo imposto devido pelas pessoas a que se refere o inciso I, do mesmo parágrafo, em decorrência dos serviços prestados na forma do subitem 15.01, da Lista de Serviços anexa a esta Lei Complementar.", "observacao": "(Redação acrescida pela Lei Complementar nº 269/2020)"}
+                ],
+                "paragrafos": [
+                  {
+                    "numero": "1º",
+                    "texto": "A responsabilidade a que se refere este artigo somente será elidida nos seguintes casos:",
+                    "observacao": "(Redação dada pela Lei Complementar nº 153/2014)",
+                    "incisos": [
+                      {"texto": "- quando o prestador dos serviços, agindo com o propósito de impedir ou retardar, total ou parcialmente, a ocorrência do fato gerador da obrigação tributária principal, excluir ou modificar as suas características essenciais, de modo a reduzir o montante do imposto devido, ou de evitar ou diferir o seu pagamento;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                      {"texto": "- quando o prestador dos serviços, agindo de má-fé, prestar informações falsas ao responsável induzindo-o a erro na apuração do imposto devido;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                      {"texto": "- na concessão de medida liminar ou tutela antecipada, em qualquer espécie de ação judicial.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+                    ]
+                  },
+                  {"numero": "2º", "texto": "Os serviços prestados por consórcios associados de empresas serão tributados em nome das empresas consorciadas, sem benefício de ordem, às quais caberá definir, junto ao Fisco Municipal, a proporcionalidade de cada uma.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"numero": "3º", "texto": "(Revogado pela Lei Complementar nº 269/2020)"},
+                  {"numero": "4º", "texto": "No caso dos serviços prestados pelas administradoras de cartão de crédito e débito, descritos no subitem 15.01, os terminais eletrônicos ou as máquinas das operações efetivadas deverão ser registrados no local do domicílio do tomador do serviço.", "observacao": "(Redação acrescida pela Lei Complementar nº 200/2017)"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero_romano": "V",
+        "titulo": "DA RETENÇÃO NA FONTE",
+        "artigos": [
+          {
+            "numero": "10",
+            "texto": "As pessoas físicas e jurídicas que se utilizarem de serviços prestados por terceiros, por estes não inscritos no Cadastro de Contribuintes do Município ou que não emitirem Nota Fiscal de Prestação de Serviços, são obrigadas a reter na fonte o valor do imposto correspondente.",
+            "paragrafos": [
+              {"numero": "1º", "texto": "Os responsáveis a que se refere o artigo 9º, desta Lei, estão obrigados ao recolhimento integral do imposto devido, multa e acréscimos legais, independente de ter sido efetuada sua retenção na fonte."},
+              {
+                "numero": "2º",
+                "texto": "O disposto neste artigo não se aplica quando:",
+                "incisos": [
+                  {"texto": "- o prestador de serviço sujeitar-se-á ao pagamento do imposto com base em importância fixa ou por estimativa, devendo esta condição ser comprovada através da apresentação do documento de arrecadação emitido pela Fazenda Pública Municipal do imposto correspondente ao último lançamento efetuado pela Fazenda Municipal;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"texto": "- quando o prestador de serviço isento de pagamento do Imposto Sobre Serviço de Qualquer Natureza apresentar a devida \"Certidão de Isenção\" emitida pela Fazenda Pública Municipal;"},
+                  {"texto": "- quando o prestador de serviço apresentar Nota Fiscal de Serviço Avulsa emitida ou autorizada pela Administração Tributária do Município de Jaraguá do Sul.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+                ]
+              },
+              {"numero": "3º", "texto": "A não retenção implica em responsabilidade solidária pelo crédito tributário correspondente, e sujeição às mesmas penalidades impostas ao contribuinte, salvo na hipótese prevista no § 5º, deste artigo.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"numero": "4º", "texto": "As pessoas obrigadas a promover a retenção na fonte deverão informar mensalmente ao Fisco Municipal, através de declaração a ser regulamentada, as informações referentes aos serviços contratados com imposto retido na fonte."},
+              {"numero": "5º", "texto": "O descumprimento ao disposto no § 8º, do artigo 40, desta Lei Complementar, implica em responsabilidade pelo pagamento do imposto ao prestador do serviço e aplicação da penalidade prevista no artigo 48, inciso I, alínea \"g\".", "observacao": "(Redação acrescida pela Lei Complementar nº 153/2014)"}
+            ]
+          }
+        ]
+      },
+      {
+        "numero_romano": "VI",
+        "titulo": "DO LOCAL DA PRESTAÇÃO DE SERVIÇOS",
+        "artigos": [
+          {
+            "numero": "11",
+            "texto": "O serviço considera-se prestado e o imposto devido no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicílio do prestador, exceto nas hipóteses previstas nos incisos I a XXIII, quando o imposto será devido no local:",
+            "incisos": [
+              {"texto": "- do estabelecimento do tomador ou intermediário do serviço ou, na falta de estabelecimento, onde ele estiver domiciliado, na hipótese do § 1º do Art. 3º desta lei;"},
+              {"texto": "- da instalação dos andaimes, palcos, coberturas e outras estruturas, no caso dos serviços descritos no subitem 3.05, da Lista anexa;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"texto": "- da execução da obra, no caso dos serviços descritos nos subitens 7.02 e 7.19, da Lista anexa;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"texto": "- da demolição, no caso dos serviços descritos no subitem 7.04 da lista anexa;"},
+              {"texto": "- das edificações em geral, estradas, pontes, portos e congêneres, no caso dos serviços descritos no subitem 7.05 da lista anexa;"},
+              {"texto": "- da execução da varrição, coleta, remoção, incineração, tratamento, reciclagem, separação e destinação final de lixo, rejeitos e outros resíduos quaisquer, no caso dos serviços descritos no subitem 7.09 da lista anexa;"},
+              {"texto": "- da execução da limpeza, manutenção e conservação de vias e logradouros públicos, imóveis, chaminés, piscinas, parques, jardins e congêneres, no caso dos serviços descritos no subitem 7.10 da lista anexa;"},
+              {"texto": "- da execução da decoração e jardinagem, do corte e poda de árvores, no caso dos serviços descritos no subitem 7.11 da lista anexa;"},
+              {"texto": "- do controle e tratamento do efluente de qualquer natureza e de agentes físicos, químicos e biológicos, no caso dos serviços descritos no subitem 7.12 da lista anexa;"},
+              {"texto": "- do florestamento, reflorestamento, semeadura, adubação, reparação de solo, plantio, silagem, colheita, corte, descascamento de árvores, silvicultura, exploração florestal e serviços congêneres indissociáveis da formação, manutenção e colheita de florestas para quaisquer fins e por quaisquer meios, elencados no subitem 7.16 da lista anexa;", "observacao": "(Redação dada pela Lei Complementar nº 200/2017)"},
+              {"texto": "- da execução dos serviços de escoramento, contenção de encostas e congêneres, no caso dos serviços descritos no subitem 7.17, da Lista anexa;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"texto": "- da limpeza e dragagem, no caso dos serviços descritos no subitem 7.18, da Lista anexa;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"texto": "- onde o bem estiver guardado ou estacionado, no caso dos serviços descritos no subitem 11.01 da lista anexa;"},
+              {"texto": "- dos bens, dos semoventes ou do domicílio das pessoas vigiados, segurados ou monitorados, no caso dos serviços descritos no subitem 11.02 da lista anexa;", "observacao": "(Redação dada pela Lei Complementar nº 200/2017)"},
+              {"texto": "- do armazenamento, depósito, carga, descarga, arrumação e guarda do bem, no caso dos serviços descritos no subitem 11.04 da lista anexa;"},
+              {"texto": "- da execução dos serviços de diversão, lazer, entretenimento e congêneres, no caso dos serviços descritos nos subitens do item 12, exceto o 12.13, da lista anexa;"},
+              {"texto": "- do Município onde está sendo executado o transporte, no caso dos serviços descritos pelo item 16 da lista anexa;", "observacao": "(Redação dada pela Lei Complementar nº 200/2017)"},
+              {"texto": "- do estabelecimento do tomador da mão-de-obra ou, na falta de estabelecimento, onde ele estiver domiciliado, no caso dos serviços descritos pelo subitem 17.05 da lista anexa;"},
+              {"texto": "- da feira, exposição, congresso ou congênere a que se referir o planejamento, organização e administração, no caso dos serviços descritos pelo subitem 17.10, da Lista anexa;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"texto": "- do porto, aeroporto, ferroporto, terminal rodoviário, ferroviário ou metroviário, no caso dos serviços descritos pelo item 20 da lista anexa."},
+              {"texto": "- do domicílio do tomador dos serviços dos subitens 4.22, 4.23 e 5.09;", "observacao": "(Redação acrescida pela Lei Complementar nº 200/2017)"},
+              {"texto": "- do domicílio do tomador do serviço no caso dos serviços prestados pelas administradoras de cartão de crédito ou débito e demais descritos no subitem 15.01;", "observacao": "(Redação acrescida pela Lei Complementar nº 200/2017)"},
+              {"texto": "- do domicílio do tomador do serviço do subitem 15.09.", "observacao": "(Redação dada pela Lei Complementar nº 269/2020)"}
+            ],
+            "paragrafos": [
+              {"numero": "1º", "texto": "No caso dos serviços a que se refere o subitem 3.04, da Lista anexa, considera-se ocorrido o fato gerador e devido o imposto neste Município quando aqui exista extensão de ferrovia, rodovia, postes, cabos, dutos e condutos de qualquer natureza, objetos de locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"numero": "2º", "texto": "No caso dos serviços a que se refere o subitem 22.01, da Lista anexa, considera-se ocorrido o fato gerador e devido o imposto neste Município quando aqui exista extensão de rodovia explorada.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"numero": "3º", "texto": "Considera-se ocorrido o fato gerador do imposto no local do estabelecimento prestador nos serviços executados em águas marítimas, excetuados os serviços descritos no subitem 20.01 da lista anexa."},
+              {"numero": "4º", "texto": "Na hipótese de descumprimento do disposto no caput ou no § 1º, ambos do artigo 8º A da Lei Complementar Nº 116/2003 (Lei Federal), pelo Município onde estiver estabelecido o prestador do serviço, o imposto será devido no local do estabelecimento do tomador ou intermediário do serviço ou, na falta de estabelecimento, onde ele estiver domiciliado.", "observacao": "(Redação acrescida pela Lei Complementar nº 200/2017)"},
+              {"numero": "5º", "texto": "Ressalvadas as exceções e especificações estabelecidas nos §§ 6º ao 12, deste artigo, considera- se tomador dos serviços referidos nos incisos XXI, XXII e XXIII do caput deste artigo, o contratante do serviço e, no caso de negócio jurídico que envolva estipulação em favor da unidade da pessoa jurídica contratante, a unidade em favor da qual o serviço foi estipulado, sendo irrelevantes para caracterizá-la as denominações de sede, filial, agência, posto de atendimento, sucursal, escritório de representação ou contato ou quaisquer outras que venham a ser utilizadas."},
+              {"numero": "6º", "texto": "No caso dos serviços de planos de saúde ou de medicina e congêneres, referidos nos subitens 4.22 e 4.23, da Lista de Serviços anexa a esta Lei Complementar, o tomador do serviço é a pessoa física beneficiária vinculada à operadora por meio de convênio ou contrato de plano de saúde individual, familiar, coletivo empresarial ou coletivo por adesão."},
+              {"numero": "7º", "texto": "Nos casos em que houver dependentes vinculados ao titular do plano, será considerado apenas o domicílio do titular para fins do disposto no §6º deste artigo."},
+              {"numero": "8º", "texto": "No caso dos serviços de administração de cartão de crédito ou débito e congêneres, referidos no subitem 15.01, da Lista de Serviços anexa a esta Lei Complementar, prestados diretamente aos portadores de cartões de crédito ou débito e congêneres, o tomador é o primeiro titular do cartão."},
+              {
+                "numero": "9º", 
+                "texto": "O local do estabelecimento credenciado é considerado o domicílio do tomador dos demais serviços referidos no subitem 15.01, da Lista de Serviços anexa a esta Lei Complementar, relativos às transferências realizadas por meio do cartão de crédito ou débito, ou a eles conexos, que sejam prestados ao tomador, direta ou indiretamente, por:",
+                "incisos": [
+                  {"texto": "- bandeiras;"},
+                  {"texto": "- credenciadoras; ou"},
+                  {"texto": "- emissoras de cartões de crédito e débito."}
+                ]
+              },
+              {"numero": "10", "texto": "No caso dos serviços de administração de carteira de valores mobiliários e dos serviços de administração e gestão de fundos e clubes de investimentos, referidos no subitem 15.01, da Lista de Serviços anexa a esta Lei Complementar, o tomador é o cotista."},
+              {"numero": "11", "texto": "No caso dos serviços de administração de consórcios, o tomador de serviço é o consorciado."},
+              {"numero": "12", "texto": "No caso dos serviços de arrendamento mercantil, o tomador do serviço é o arrendatário, pessoa física ou a unidade beneficiária da pessoa jurídica, domiciliado no País, e, no caso de arrendatário não domiciliado no País, o tomador é o beneficiário do serviço no País.", "observacao": "(Redação acrescida pela Lei Complementar nº 269/2020)"}
+            ]
+          },
+          {
+            "numero": "12",
+            "texto": "Considera-se estabelecimento prestador o local onde o contribuinte desenvolva a atividade de prestar serviços, de modo permanente ou temporário, e que configure unidade econômica ou profissional, sendo irrelevantes para caracterizá-lo as denominações de sede, filial, agência, posto de atendimento, sucursal, escritório de representação ou contato ou quaisquer outras que venham a ser utilizadas.",
+            "paragrafos": [
+              {
+                "numero": "1º", 
+                "texto": "A existência de estabelecimento prestador é indicada pela verificação de um ou mais dos seguintes elementos:",
+                "observacao": "(Redação dada pela Lei Complementar nº 153/2014)",
+                "incisos": [
+                  {"texto": "- manutenção de pessoal, materiais, máquinas, instrumentos e equipamentos necessários à execução do serviço;"},
+                  {"texto": "- estrutura organizacional ou administrativa;"},
+                  {"texto": "- inscrição nos órgãos previdenciários;"},
+                  {"texto": "- indicação, como domicílio fiscal, para efeitos de tributos federais, estaduais ou municipais;"},
+                  {"texto": "- permanência ou ânimo de permanecer no local, para a exploração econômica de atividade de prestação de serviços, exteriorizada através da indicação do endereço em impressos, formulários ou correspondência, contrato de locação do imóvel, propaganda ou publicidade, ou em contas de telefone, de fornecimento de energia elétrica, água ou gás, em nome do prestador, seu representante ou preposto."}
+                ]
+              },
+              {"numero": "2º", "texto": "Havendo habitualidade na atividade do prestador de serviço, nos limítrofes municipais, poderá ser exigida a inscrição municipal, a critério da Fazenda Pública Municipal."}
+            ]
+          }
+        ]
+      },
+      {
+        "numero_romano": "VII",
+        "titulo": "DO LANÇAMENTO",
+        "artigos": [
+          {
+            "numero": "13",
+            "texto": "O lançamento do imposto sobre serviços de qualquer natureza será efetuado com base nos dados constantes do Cadastro Mobiliário de Contribuintes e nas declarações e documentos, na forma e prazos previstos em regulamento.",
+            "paragrafos": [
+              {"numero": "1º", "texto": "Nas hipóteses em que o imposto for apurado por importâncias fixas o lançamento será efetuado de ofício pela Autoridade Fazendária, que notificará da exigência mediante publicação de edital no órgão de imprensa oficial local."},
+              {"numero": "2º", "texto": "Na emissão de Nota Fiscal de Serviço Avulsa o imposto será lançado por declaração."},
+              {"numero": "3º", "texto": "O lançamento por arbitramento ou estimativa da receita bruta será de ofício e far-se-á mediante processo regular, nas hipóteses previstas nesta Lei Complementar.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+            ]
+          }
+        ]
+      },
+      {
+        "numero_romano": "VIII",
+        "titulo": "DA BASE DE CÁLCULO",
+        "artigos": [
+          {
+            "numero": "14",
+            "texto": "A base de cálculo do imposto é o preço do serviço.",
+            "paragrafos": [
+              {"numero": "1º", "texto": "Entende-se por preço do serviço a receita bruta a ele correspondente, sem nenhuma dedução, excetuados os descontos ou abatimentos concedidos independente de condição."},
+              {
+                "numero": "2º", 
+                "texto": "Constituem parte integrante e indissociável do preço do serviço:",
+                "incisos": [
+                  {"texto": "- os valores recebidos e os encargos de qualquer natureza, ainda que de responsabilidade de terceiros;"},
+                  {"texto": "- os ônus relativos à concessão de crédito, ainda que cobrados em separado, na hipótese de prestação de serviço a prazo;"},
+                  {"texto": "- o montante do imposto transferido ao tomador do serviço, cuja indicação nos documentos fiscais será considerado simples anotação ou elemento de controle;"},
+                  {"texto": "- os valores despendidos, diretos ou indiretamente, em favor de outros prestadores de serviços, a título de participação, co-participação ou demais formas da espécie."}
+                ]
+              },
+              {"numero": "3º", "texto": "Quando os serviços descritos pelo subitem 3.04, da Lista de Serviços anexa, forem prestados no território deste Município, a base de cálculo será proporcional, conforme o caso, à extensão da ferrovia, rodovia, duto e condutos de qualquer natureza, cabos de qualquer natureza, ou ao número de postes aqui existentes."},
+              {"numero": "4º", "texto": "Não se incluem na base de cálculo do Imposto Sobre Serviços de Qualquer Natureza o valor dos materiais fornecidos pelo prestador dos serviços previstos nos itens 7.02 e 7.05 da Lista de Serviços anexa a esta Lei Complementar, desde que devidamente comprovado com Nota Fiscal de Venda sujeita ao ICMS, emitida pelo prestador do serviço contra o tomador, com identificação do local da obra."},
+              {"numero": "5º", "texto": "Quando a Nota Fiscal de Serviços conter o valor das mercadorias produzidas pelo prestador fora do local da prestação, deverá ser comprovado mediante a apresentação de Nota Fiscal de Venda sujeita ao ICMS, emitida pelo prestador do serviço contra o tomador, com identificação do local da obra."},
+              {"numero": "6º", "texto": "O fornecimento de concreto, por empreitada, para construção civil preparado no trajeto até a obra em betoneiras acopladas em caminhões, é prestação de serviço, sujeitando-se apenas à incidência do ISS."},
+              {"numero": "7º", "texto": "Quando o preço do serviço das obras de construção civil ou demolição não corresponder ao valor mínimo calculado conforme índice estabelecido em regulamento, a base de cálculo será apurada de acordo com este índice, deduzindo-se os valores recolhidos até a data da apuração."},
+              {"numero": "8º", "texto": "Os sinais e os adiantamentos recebidos pelo contribuinte durante a prestação do serviço integram a receita bruta no mês da ocorrência do fato gerador."},
+              {"numero": "9º", "texto": "Quando a prestação do serviço for subdividida em partes, considera-se devido o imposto no mês em que for concluída qualquer etapa contratual a que estiver vinculada a exigibilidade do preço do serviço."},
+              {"numero": "10", "texto": "A aplicação das regras relativas à conclusão, total ou parcial, da prestação do serviço, independe do efetivo pagamento do preço do serviço ou do cumprimento de qualquer obrigação contratual assumida por um contratante em relação ao outro."},
+              {"numero": "11", "texto": "As diferenças resultantes dos reajustamentos do preço dos serviços integrarão a receita do mês em que sua fixação se tornar definitiva.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+            ]
+          }
+        ]
+      },
+      {
+        "numero_romano": "IX",
+        "titulo": "DAS ALÍQUOTAS",
+        "artigos": [
+          {
+            "numero": "15",
+            "texto": "As alíquotas do imposto são as constantes da Lista de Serviços anexa, que faz parte integrante desta Lei Complementar.",
+            "paragrafos": [
+              {"numero": "1º", "texto": "Quando se tratar de prestação de serviços sob a forma de trabalho pessoal do próprio contribuinte inscrito no cadastro municipal como profissional autônomo, o imposto será calculado por meio de importâncias fixas, em função da natureza do serviço ou de outros fatores pertinentes, nestes não compreendida a importância paga a título de remuneração do próprio trabalho, descritas nos subitens da Lista de Serviços anexa, prevista no artigo 2º, desta Lei Complementar.", "observacao": "(Redação dada pela Lei Complementar nº 263/2020)"},
+              {
+                "numero": "2º",
+                "texto": "Quando os serviços a que se referem os itens 4.01, 4.02, 4.06, 4.08, 4.10, 4.11, 4.12, 4.13, 4.14, 4.16, 5.01, 7.01, 17.14, 17.16, 17.19 e 17.20, da Lista de Serviços a que se refere o artigo 2º, desta Lei Complementar, forem prestados por sociedades, estas ficarão sujeitas ao imposto na forma do § 1º, deste artigo, calculado em relação a cada profissional habilitado, sócio, empregado ou não, que preste serviços em nome da sociedade, embora assumindo responsabilidade pessoal, nos termos da lei aplicável:",
+                "observacao": "(Vide Decreto nº 14.043/2020)",
+                "incisos": [
+                  {
+                    "numero": "I",
+                    "texto": "Estarão excluídas as sociedades que:",
+                    "alineas": [
+                      {"texto": "tenham como sócia pessoa jurídica;"},
+                      {"texto": "sejam sócias em outra sociedade;"},
+                      {"texto": "desenvolvam atividade diversa daquela a que estejam habilitados profissionalmente os sócios;"},
+                      {"texto": "participe como sócio, pessoa não habilitada para exercer a atividade a qual se destina a empresa;"},
+                      {"texto": "tenham sócio que delas participe tão somente para aportar capital ou administrar, mesmo que este seja habilitado para exercer a atividade a qual se destina a empresa;"},
+                      {"texto": "sejam constituídas sob a forma de sociedade por ações ou limitadas, ou de outras sociedades comerciais ou a elas equiparadas;"},
+                      {"texto": "possuam equipamentos, instrumentos e maquinário além dos necessários à realização da atividade-fim ou que não sejam usados exclusivamente pelo profissional habilitado na execução do serviço pessoal e intelectual em nome da sociedade.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+                    ]
+                  }
+                ]
+              },
+              {"numero": "3º", "texto": "O lançamento na forma dos §§ 1º e 2º, deste artigo, deverá ser proporcional aos meses trabalhados no caso de início ou encerramento do exercício de atividade de prestação de serviços no decorrer do exercício.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"numero": "4º", "texto": "O agricultor familiar e empreendedor familiar rural recolherá o imposto de acordo com o previsto no caput deste artigo.", "observacao": "(Redação acrescida pela Lei Complementar nº 263/2020)"}
+            ]
+          }
+        ]
+      },
+      {
+        "numero_romano": "X",
+        "titulo": "DA ESTIMATIVA",
+        "artigos": [
+          {
+            "numero": "16",
+            "texto": "A base de cálculo do imposto poderá ser fixada por estimativa, mediante iniciativa do Fisco ou a requerimento do contribuinte, quando:",
+            "incisos": [
+              {"texto": "- se tratar de estabelecimento de caráter temporário ou provisório;"},
+              {"texto": "- se tratar de estabelecimento de rudimentar organização;"},
+              {"texto": "- o nível de atividade econômica recomendar tal sistemática;"},
+              {"texto": "- se tratar de estabelecimento cuja natureza da atividade imponha tratamento fiscal especial;"},
+              {"texto": "- quando, pela natureza da atividade, o contribuinte não tiver condições de emitir documentos fiscais ou deixar de cumprir regularmente as obrigações acessórias previstas na legislação."}
+            ],
+            "paragrafos": [
+              {"numero": "1º", "texto": "O imposto calculado na forma deste artigo será lançado para um exercício financeiro, ou proporcionalmente ao número de meses, na hipótese do início da atividade ocorrer no decurso do exercício de referência."},
+              {"numero": "2º", "texto": "Procedido o enquadramento do contribuinte no regime de estimativa, ou quando da revisão dos valores, a Fazenda Municipal efetuará a notificação do valor do tributo fixado.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+            ]
+          },
+          {
+            "numero": "17",
+            "texto": "Para a fixação da base de cálculo do imposto, por estimativa, a autoridade competente levará em conta os seguintes elementos:",
+            "incisos": [
+              {"texto": "- o tempo de duração e a natureza do acontecimento ou da atividade;"},
+              {"texto": "- o preço corrente dos serviços;"},
+              {"texto": "- o volume de receitas em períodos anteriores e sua projeção para os períodos seguintes podendo observar outros contribuintes de idêntica atividade;"},
+              {"texto": "- a localização e o porte econômico do prestador de serviços;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"texto": "- as informações do contribuinte e outros elementos informativos, inclusive estudos de órgãos públicos e entidade de classe diretamente vinculadas à atividade."}
+            ]
+          },
+          {
+            "numero": "18",
+            "texto": "A estimativa da receita bruta poderá se basear em levantamento efetuado pela fiscalização que apurará o somatório das seguintes parcelas:",
+            "incisos": [
+              {"texto": "- o valor das matérias-primas, combustíveis e outros materiais consumidos ou aplicados no período;"},
+              {"texto": "- folhas de salários pagos durante o período, adicionada de todos os rendimentos pagos, inclusive honorários de diretores e retiradas de proprietários, sócios ou gerentes, bem como das respectivas obrigações trabalhistas e sociais;"},
+              {"texto": "- aluguel mensal do imóvel e dos equipamentos ou, quando próprio, 1% (um por cento) do valor dos mesmos, tendo por base o valor utilizado para o lançamento do Imposto Sobre a Propriedade Predial e Territorial - IPTU, computado ao mês ou fração;"},
+              {"texto": "- despesa com o fornecimento de água, energia, telefone e demais encargos obrigatórios ao contribuinte."},
+              {"texto": "- até 30% (trinta por cento) a título de lucro."}
+            ]
+          },
+          {"numero": "19", "texto": "A estimativa será fixada por ato da autoridade competente, que vigorará pelo prazo de 12 (doze) meses."},
+          {
+            "numero": "20",
+            "texto": "Findo o período fixado no artigo anterior e não havendo manifestação da autoridade competente, o regime de estimativa considerar-se-á prorrogado por igual período, podendo a autoridade competente:",
+            "incisos": [
+              {"texto": "- rever os valores estimados, mesmo no curso do período considerado;"},
+              {"texto": "- cancelar a aplicação do regime, de forma geral, parcial ou individual.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+            ]
+          },
+          {"numero": "21", "texto": "O regime de estimativa poderá ser suspenso, mesmo antes de findo o exercício, a critério da autoridade competente, seja de modo geral ou individual, bem como por categoria de estabelecimento ou por grupos de atividades."},
+          {"numero": "22", "texto": "O contribuinte enquadrado no regime de estimativa poderá impugnar o lançamento no prazo de 30 (trinta) dias, contados da publicação do ato ou da ciência do lançamento."},
+          {"numero": "23", "texto": "A impugnação não terá efeito suspensivo e mencionará, obrigatoriamente, o valor que o interessado reputar justo, assim como os elementos para a sua aferição."},
+          {"numero": "24", "texto": "Julgada procedente a impugnação, a diferença a maior recolhida no período será aproveitada nos recolhimentos futuros ou restituídas ao contribuinte, se for o caso."}
+        ]
+      },
+      {
+        "numero_romano": "XI",
+        "titulo": "DO ARBITRAMENTO",
+        "artigos": [
+          {
+            "numero": "25",
+            "texto": "A base de cálculo do imposto será arbitrada pela autoridade fiscal, quando:",
+            "incisos": [
+              {"texto": "- o sujeito passivo não possuir os documentos necessários à fiscalização das operações realizadas, principalmente nos casos de perda, extravio ou inutilização de livros ou documentos fiscais de utilização obrigatória;"},
+              {"texto": "- o sujeito passivo, depois de intimado, deixar de exibir os documentos necessários à fiscalização das operações realizadas;"},
+              {"texto": "- serem omissos ou, pela inobservância de formalidades intrínsecas ou extrínsecas, não mereçam fé os livros ou documentos exibidos pelo sujeito passivo, ou quando estes não possibilitem a apuração da receita;"},
+              {"texto": "- existência de atos qualificados como crimes ou contravenções ou, mesmo sem essa qualificação, sejam praticados com dolo, fraude ou simulação;"},
+              {"texto": "atos estes evidenciados pelo exame de livros e documentos do sujeito passivo, ou apurados por quaisquer meios diretos ou indiretos, inclusive quando os elementos constantes dos documentos fiscais ou contábeis não refletirem o preço real do serviço;"},
+              {"texto": "- não prestar o sujeito passivo, após regularmente intimado, os esclarecimentos exigidos pela fiscalização, prestar esclarecimento insuficiente ou que não mereçam fé;"},
+              {"texto": "- exercício de qualquer atividade que constitua fato gerador do imposto, sem se encontrar o sujeito passivo devidamente inscrito no cadastro de atividades da Fazenda Municipal;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"texto": "- prática de subfaturamento do preço dos serviços em relação aos valores de mercado;"},
+              {"texto": "- flagrante insuficiência do imposto pago em face do volume de serviços prestados;"},
+              {"texto": "- serviços prestados sem a determinação do preço;"},
+              {"texto": "- fundada suspeita de que a receita apresentada, relativa aos serviços prestados, não reflete o valor real auferido."}
+            ],
+            "paragrafos": [
+              {"tipo": "Parágrafo Único", "texto": "O arbitramento referir-se-á exclusivamente aos fatos ocorridos no período em que se verificarem os pressupostos mencionados nos incisos deste artigo."}
+            ]
+          },
+          {
+            "numero": "26",
+            "texto": "Para o arbitramento da receita bruta, a autoridade fiscal utilizará, entre outros, os seguintes critérios:",
+            "incisos": [
+              {"texto": "- os pagamentos de impostos efetuados pelo mesmo sujeito passivo em outros exercícios, ou por outros contribuintes da mesma atividade, em condições semelhantes;"},
+              {"texto": "- peculiaridades inerentes à atividade exercida;"},
+              {"texto": "- fatos ou aspectos que exteriorizem a situação econômico-financeira do sujeito passivo;"},
+              {"texto": "- preço corrente dos serviços oferecidos à época a que se referir a apuração;"},
+              {"texto": "- com base em informações fornecidas pelos órgãos vinculados às atividades exercidas pelo contribuinte;"},
+              {"texto": "- com base em informações apuradas na própria documentação do contribuinte;"},
+              {"texto": "- a média das receitas do mesmo contribuinte, apuradas em períodos anteriores ou posteriores ao fato.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+            ]
+          },
+          {
+            "numero": "27",
+            "texto": "O arbitramento da receita bruta poderá se basear em levantamento efetuado pela fiscalização que apurará o somatório das seguintes parcelas:",
+            "incisos": [
+              {"texto": "- o valor das matérias-primas, combustíveis e outros materiais consumidos ou aplicados no período;"},
+              {"texto": "- folhas de salários pagos durante o período, adicionada de todos os rendimentos pagos, inclusive honorários de diretores e retiradas de proprietários, sócios ou gerentes, bem como as respectivas obrigações trabalhistas e sociais;"},
+              {"texto": "- aluguel do imóvel e dos equipamentos ou quando próprio 1% (um por cento) do valor dos mesmos, tendo por base o valor utilizado para o lançamento do Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU, computado ao mês ou fração;"},
+              {"texto": "- despesa com o fornecimento de água, energia, telefone e demais encargos obrigatórios ao contribuinte."},
+              {"texto": "- acréscimo de 20% (vinte por cento) sobre o somatório dos valores apurados de acordo com os incisos anteriores, a título de lucro.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+            ]
+          },
+          {"numero": "28", "texto": "Do total da receita arbitrada serão deduzidos os recolhimentos efetuados no período, devidamente comprovados."},
+          {
+            "numero": "29",
+            "texto": "O arbitramento da base de cálculo será fixado mediante Termo de Arbitramento, que conterá:",
+            "incisos": [
+              {"texto": "- a identificação do sujeito passivo;"},
+              {"texto": "- o motivo do arbitramento;"},
+              {"texto": "- a descrição das atividades desenvolvidas pelo sujeito passivo, objetos do arbitramento, e o item e subitem da Lista de Serviços anexa, ao qual as atividades estejam enquadradas;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"texto": "- as competências e o exercício em que o arbitramento esteja sendo aplicado;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"texto": "- os critérios de arbitramento utilizados pela autoridade administrativa;"},
+              {"texto": "- o valor da base de cálculo arbitrada, correspondente as competências e o exercício em que o arbitramento esteja sendo aplicado;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"texto": "- o ciente do sujeito passivo ou seu representante legal ou, se for o caso, a indicação de que este negou a opor o ciente.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+            ]
+          },
+          {"numero": "30", "texto": "É assegurada ao contribuinte a apresentação de impugnação contra o arbitramento, no prazo de 30 (trinta) dias, contados da ciência do respectivo termo, a qual terá efeito suspensivo."},
+          {"numero": "31", "texto": "O arbitramento não exclui a incidência da atualização monetária, juros de mora e da multa sobre o crédito tributário que venha a ser apurado, nem da penalidade por descumprimento de obrigação acessória."},
+          {
+            "numero": "32",
+            "texto": "Cessados os efeitos do arbitramento, o imposto continuará a ser pago na forma usual, sem prejuízo da formalização de novo arbitramento, quando for o caso.",
+            "paragrafos": [
+              {"tipo": "Parágrafo Único", "texto": "A impugnação deverá ser entregue por escrito, na Central de Atendimento localizada na sede da Prefeitura, dirigida à autoridade responsável pelo arbitramento.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+            ]
+          }
+        ]
+      },
+      {
+        "numero_romano": "XII",
+        "titulo": "DA APURAÇÃO E DO PAGAMENTO",
+        "secoes": [
+          {
+            "numero_romano": "I",
+            "titulo": "Da Apuração",
+            "artigos": [
+              {
+                "numero": "33",
+                "texto": "O Imposto Sobre Serviços de Qualquer Natureza será apurado:",
+                "incisos": [
+                  {"texto": "- mensalmente, aplicando-se as alíquotas percentuais indicadas na Lista de Serviços anexa, sobre o preço do serviço ou na forma de estimativa prevista no artigo 16, desta Lei Complementar;", "observacao": "(Redação dada pela Lei Complementar nº 160/2015)"},
+                  {"texto": "- anualmente, multiplicando-se o valor da Unidade Padrão Municipal - UPM pela quantidade de importâncias fixas indicadas na Lista de Serviços anexa;", "observacao": "(Redação dada pela Lei Complementar nº 160/2015)"},
+                  {"texto": "- nas obras de construção civil, durante a execução ou após a conclusão da obra.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+                ],
+                "paragrafos": [
+                  {"numero": "1º", "texto": "Do valor apurado na forma do caput do artigo 15, desta Lei Complementar, será abatido o valor do imposto retido na fonte.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"numero": "2º", "texto": "Por ocasião do término da obra de construção civil será realizada apuração do valor recolhido, conforme procedimento estabelecido em regulamento.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+                ]
+              }
+            ]
+          },
+          {
+            "numero_romano": "II",
+            "titulo": "Do Pagamento",
+            "artigos": [
+              {
+                "numero": "34",
+                "texto": "O pagamento do imposto será efetuado junto aos estabelecimentos bancários credenciados pelo Município, nos seguintes prazos:",
+                "incisos": [
+                  {"texto": "- até o dia 15 do mês subseqüente ao da ocorrência do fato gerador, quando o imposto for apurado de forma mensal, inclusive quanto ao imposto retido na fonte;"},
+                  {"texto": "- Quando se tratar de contribuintes sujeitos ao recolhimento do imposto na forma dos §§ 1º e 2º, do artigo 15, desta Lei Complementar, o pagamento do imposto é efetuado nos prazos fixados pela Fazenda Pública Municipal, não podendo o valor de cada parcela ser inferior a 1 (uma) Unidade Padrão Municipal - UPM, reduzindo-se o número de parcelas para atingir ou superar esse valor;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014) (Vide Decreto nº 14.043/2020)"},
+                  {"texto": "- nos demais casos, quando não previsto nesta Lei, na forma prevista em regulamento."}
+                ]
+              },
+              {
+                "numero": "35",
+                "texto": "É obrigatória a emissão de nota fiscal de prestação de serviços ou de outro documento exigido pela Fazenda Pública Municipal por ocasião da prestação de cada serviço.",
+                "paragrafos": [
+                  {"tipo": "Parágrafo Único", "texto": "O disposto neste artigo não se aplica quando o prestador de serviço estiver sujeito ao pagamento do imposto com base em importância fixa ou por estimativa.", "observacao": "(Redação acrescida pela Lei Complementar nº 153/2014)"}
+                ]
+              },
+              {
+                "numero": "36",
+                "texto": "O recolhimento do Imposto Sobre Serviços de Qualquer Natureza fica postergado quando o valor do tributo devido na competência for inferior a 5% (cinco por cento) da UPM.",
+                "paragrafos": [
+                  {"numero": "1º", "texto": "O valor poderá ficar acumulado até o recolhimento referente à competência do mês de dezembro, do ano em que ocorreu o fato gerador, quando o saldo existente será recolhido independente do valor ser menor do que 5% (cinco por cento) da UPM.", "observacao": "(Redação dada pela Lei Complementar nº 327/2024)"},
+                  {"numero": "2º", "texto": "O recolhimento do imposto devido na situação acima ficará dispensado dos acréscimos legais, devendo o contribuinte informar ao fisco municipal a postergação do pagamento."},
+                  {"numero": "3º", "texto": "O disposto no caput e §§ 1º e 2º deste artigo se aplicará, também, no caso da retenção do Imposto Sobre Serviços de Qualquer Natureza prevista no artigo 10, desta Lei Complementar.", "observacao": "(Redação acrescida pela Lei Complementar nº 153/2014)"}
+                ]
+              },
+              {
+                "numero": "37",
+                "texto": "O contribuinte que mantiver mais de um estabelecimento no território do Município é obrigado a manter, para cada um deles, inscrição e escrituração fiscal distintas.",
+                "paragrafos": [
+                  {"numero": "1º", "texto": "É facultado ao contribuinte proceder a apuração e o pagamento do imposto de forma centralizada, desde que autorizado pela Fazenda Pública Municipal."},
+                  {"numero": "2º", "texto": "Para comprovação do exercício da faculdade prevista no parágrafo anterior, o Fisco Municipal expedirá, por provocação do interessado, documento que indique em qual estabelecimento se acha centralizada a escrita do contribuinte, e o local por onde é feito a apuração e o pagamento do imposto."}
+                ]
+              },
+              {
+                "numero": "38",
+                "texto": "Nas obras de construção civil o imposto será lançado de ofício pela Fazenda Pública Municipal e recolhido na forma e prazos previstos em regulamento.",
+                "paragrafos": [
+                  {"numero": "1º", "texto": "O valor lançado poderá ser parcelado na forma estabelecida em regulamento.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"numero": "2º", "texto": "A liberação da Certidão de Conclusão de Obra - Habite-se ou da Certidão de Demolição, fica condicionada a comprovação do pagamento total do imposto devido na forma deste artigo.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"numero": "3º", "observacao": "(Revogado pela Lei Complementar nº 153/2014)"},
+                  {"numero": "4º", "observacao": "(Revogado pela Lei Complementar nº 153/2014)"},
+                  {"numero": "5º", "texto": "A apuração incidente em obras de construção civil, por estimativa, será obrigatoriamente revisto por ocasião do término da administração, empreitada ou sub-empreitada, para apuração de diferença, se houver."}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero_romano": "XIII",
+        "titulo": "DAS OBRIGAÇÕES ACESSÓRIAS",
+        "secoes": [
+          {
+            "numero_romano": "I",
+            "titulo": "Da Inscrição",
+            "artigos": [
+              {
+                "numero": "39",
+                "texto": "As pessoas naturais ou jurídicas que:",
+                "incisos": [
+                  {"texto": "- realizem prestações de serviços sujeitas à incidência do imposto;"},
+                  {"texto": "- sejam, em relação às prestações de serviços a que se refere o inciso I, responsáveis pelo pagamento do imposto como responsáveis tributários."}
+                ],
+                "paragrafos": [
+                  {"numero": "1º", "texto": "Excepcionados os casos previstos em regulamento, será exigida inscrição independente para cada estabelecimento, com os dados, informações e esclarecimentos necessários à fiscalização do tributo na forma dos artigos 88 a 90 da Lei Complementar Nº 001/93, de 18 de novembro de 1993, alterada pela Lei Complementar Nº 26/2002, de 19 de dezembro de 2002."},
+                  {"numero": "2º", "texto": "A inscrição prevista neste artigo poderá ser dispensada, quando o prestador de serviços for simultaneamente contribuinte da Taxa de Licença para Localização e Permanência no Local."},
+                  {"numero": "3º", "texto": "Se dispensada a inscrição, tal fato não elide a obrigatoriedade do contribuinte de comunicar à Fazenda Pública Municipal, dentro do prazo de trinta (30) dias, quaisquer alterações relativas a novas modalidades de prestação de serviços."},
+                  {"numero": "4º", "texto": "O recebimento, por parte da Fazenda Pública Municipal, de documentos para a inscrição prevista no \"caput\" deste artigo, não faz presumir a aceitação dos dados neles contidos."},
+                  {"numero": "5º", "texto": "Quando da cessação das atividades o sujeito passivo é obrigado a comunicar o fato na forma e prazo previsto nos artigos 88 a 90 da Lei Complementar Nº 001/93, alterada pela Lei Complementar Nº 26/2002."}
+                ]
+              }
+            ]
+          },
+          {
+            "numero_romano": "II",
+            "titulo": "Dos Documentos Fiscais",
+            "artigos": [
+              {
+                "numero": "40",
+                "texto": "O contribuinte do imposto fica obrigado a manter, em cada um de seus estabelecimentos, a escrita fiscal destinada ao registro dos serviços prestados.",
+                "paragrafos": [
+                  {"numero": "1º", "texto": "Os modelos de documentos, declarações, cupons, notas e livros fiscais, a forma, uso e o prazo de sua emissão e escrituração, bem como as disposições sobre dispensa ou obrigatoriedade de manutenção, serão estabelecidas em regulamento ou em normas complementares expedidas pela Fazenda Pública Municipal.", "observacao": "(Redação dada pela Lei Complementar nº 178/2016)"},
+                  {"numero": "2º", "texto": "Nos casos em que a prestação de serviços esteja desonerada do pagamento do imposto, a circunstância deve ser mencionada no documento fiscal, indicando-se o dispositivo da legislação que autorizou a desoneração.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"numero": "3º", "texto": "Os documentos, os impressos de documentos, os livros da escrita fiscal e comercial, os programas e arquivos magnéticos são de exibição obrigatória ao fisco, devendo ser conservados pelo prazo estabelecido na legislação tributária."},
+                  {"numero": "4º", "texto": "Os documentos fiscais, exceto livros fiscais, somente poderão ser confeccionados ou emitidos por meio eletrônico após prévia autorização do Fisco Municipal.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"numero": "5º", "texto": "A confecção e emissão de documentos fiscais, exceto livros fiscais, sem a autorização prévia, sujeita à multa tanto o contribuinte quanto o estabelecimento que a procedeu.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"numero": "6º", "texto": "O contribuinte responde solidariamente pelas penalidades aplicadas, quando o estabelecimento que proceder a confecção for situado fora do território do Município ou não identificado."},
+                  {"numero": "7º", "texto": "Os Livros de Registro de Prestação de Serviços deverão ser encaminhados para autenticação até o dia 30 de março subsequente ao encerramento do exercício fiscal."},
+                  {"numero": "8º", "texto": "Nos casos em que, por força de lei, seja atribuída à outra pessoa a responsabilidade pelo crédito tributário, o valor do imposto deve ser destacado no documento fiscal, exceto para prestadores optantes pelo Simples Nacional, que se sujeitam à legislação específica."},
+                  {"numero": "9º", "texto": "Quando a Nota Fiscal de Prestação de Serviços for cancelada conservar-se-ão todas as suas vias, com indicação do motivo que determinou o cancelamento."},
+                  {"numero": "10", "texto": "Na hipótese de cancelamento de Nota Fiscal de Prestação de Serviços motivada pela não prestação do serviço deverá, ainda, ser anexada declaração do destinatário da Nota Fiscal de que o serviço não foi executado, sob pena de exigência do imposto como se o serviço houvesse sido prestado, sem prejuízo da aplicação da penalidade prevista na alínea \"j\", do inciso I, do artigo 48, desta Lei Complementar.", "observacao": "(Redação acrescida pela Lei Complementar nº 153/2014)"}
+                ]
+              },
+              {
+                "numero": "41",
+                "texto": "As empresas tipográficas ou estabelecimentos congêneres que confeccionarem documentos fiscais são obrigadas a manter livro para registro dos que houverem fornecido.",
+                "paragrafos": [
+                  {"tipo": "Parágrafo Único", "texto": "O disposto neste artigo aplica-se também ao contribuinte que confeccione seus próprios impressos para fins fiscais."}
+                ]
+              },
+              {
+                "numero": "42",
+                "texto": "Em caso de extravio ou inutilização de documento fiscal, o sujeito passivo comunicará o fato à autoridade fiscal, juntando laudo pericial ou certidão da autoridade competente, que especifique as circunstâncias da ocorrência.",
+                "paragrafos": [
+                  {"tipo": "Parágrafo Único", "texto": "Ato normativo disciplinará o procedimento a ser adotado pelo sujeito passivo.", "observacao": "(Redação dada pela Lei Complementar nº 322/2023) (Regulamentada pelo Decreto nº 17787/2023)"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero_romano": "XIV",
+        "titulo": "DO REGIME ESPECIAL",
+        "artigos": [
+          {"numero": "43", "texto": "O Fisco Municipal, atendendo a peculiaridades de determinadas atividades e conveniência da Administração Fazendária, poderá, de ofício ou a requerimento do interessado, autorizar a adoção de regime especial para emissão e escrituração de documentos fiscais."}
+        ]
+      },
+      {
+        "numero_romano": "XV",
+        "titulo": "DAS INFRAÇÕES E PENALIDADES",
+        "secoes": [
+          {
+            "numero_romano": "I",
+            "titulo": "Infrações Por Falta de Recolhimento do Imposto",
+            "artigos": [
+              {
+                "numero": "44",
+                "texto": "As infrações apuradas por falta de recolhimento do imposto, no todo ou em parte, na forma e nos prazos regulamentares, ficam sujeitas às seguintes penalidades:",
+                "incisos": [
+                  {"texto": "- multa de mora de 0,33% (trinta e três centésimos por cento) ao dia até o limite de 10% (dez por cento) sobre o valor do crédito devido e não pago, ou pago a menor, atualizado monetariamente, a partir do dia imediatamente seguinte ao de seu vencimento;"},
+                  {"texto": "- multa de mora de 20 % (vinte por cento) sobre o valor do crédito devido e não pago, ou pago a menor, atualizado monetariamente, a partir do dia imediatamente seguinte ao do mês do vencimento, quando decorrente de ação fiscal;"},
+                  {"texto": "- juros de mora sobre o principal e a correção monetária, à razão de 1% (um por cento) ao mês ou fração, a partir do primeiro dia imediatamente posterior ao do vencimento.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+                ],
+                "paragrafos": [
+                  {"numero": "1º", "texto": "Terá redução de 50% (cinquenta por cento) a multa de mora decorrente de confissão espontânea, pelo contribuinte, de dívida do ISS não constituído.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                  {"numero": "2º", "texto": "O disposto neste artigo não se aplica na pendência de consulta formulada pelo contribuinte, dentro do prazo legal para pagamento do imposto."}
+                ]
+              },
+              {"numero": "45", "texto": "A reincidência de infração da mesma natureza será punida com multa em dobro, acrescida de 20% (vinte por cento) a cada nova reincidência."}
+            ]
+          },
+          {
+            "numero_romano": "II",
+            "titulo": "Infrações Pelo Descumprimento de Obrigação Tributária Principal",
+            "artigos": [
+              {
+                "numero": "46",
+                "texto": "As infrações às normas relativas ao imposto, apuradas através de procedimento fiscal, sujeitam o infrator às seguintes penalidades:",
+                "incisos": [
+                  {"texto": "- multa de 100% (cem por cento) sobre o valor atualizado do imposto devido e não pago, ou pago a menor, quando verificado o emprego, pelo sujeito passivo ou por terceiro, em benefício daquele, de dolo, fraude ou simulação, com intuito de escusar-se do cumprimento, parcial ou total, da obrigação;"},
+                  {"texto": "- multa de 50 % (cinqüenta por cento) sobre o valor atualizado do imposto retido na fonte e não recolhido, ou recolhido a menor, exceto nos caso de dolo, fraude ou simulação;"},
+                  {"texto": "- multa de 100 % (cem por cento) sobre o valor atualizado do imposto retido na fonte e não recolhido, ou recolhido a menor, quando verificado o emprego, pelo sujeito passivo ou terceiro, em benefício daquele, de dolo, fraude ou simulação, com o intuito de escusar-se no cumprimento, parcial ou total, da obrigação;"},
+                  {"texto": "- multa de 30 % (trinta por cento) sobre o valor atualizado do imposto que deveria ter sido retido na fonte, exceto os casos de dolo, fraude ou simulação;"},
+                  {"texto": "- multa de 100% (cem por cento) sobre o valor atualizado do imposto que deveria ter sido retido na fonte, quando verificado o emprego, pelo sujeito passivo ou terceiro, em benefício daquele, de dolo, fraude ou simulação, com o intuito de escusar-se do cumprimento, parcial ou total, da obrigação."}
+                ],
+                "paragrafos": [
+                  {
+                    "tipo": "Parágrafo Único",
+                    "texto": "Salvo prova inequívoca feita em contrário, presume-se o dolo em qualquer das seguintes circunstâncias:",
+                    "incisos": [
+                      {"texto": "- contradição evidente entre os livros e documentos da escrita fiscal e os elementos das declarações e guias apresentadas às repartições municipais;"},
+                      {"texto": "- manifesto desacordo entre os preceitos legais e regulamentares no tocante às obrigações tributárias e a sua aplicação por parte do contribuinte ou responsável;"},
+                      {"texto": "- remessa de informes ou comunicações falsas ao Fisco, com respeito aos fatos tributários e à base de cálculo de obrigações tributárias;"},
+                      {"texto": "- omissão de lançamento nos livros, fichas, declarações ou guias, de bens e atividades que constituam fatos imponíveis de obrigações tributárias."}
+                    ]
+                  }
+                ]
+              },
+              {
+                "numero": "47",
+                "texto": "As multas previstas no artigo anterior serão reduzidas em 50% (cinqüenta por cento), quando o contribuinte, conformando-se com o procedimento fiscal, efetuar o pagamento das importâncias exigidas, no prazo de impugnação.",
+                "paragrafos": [
+                  {"tipo": "Parágrafo Único", "texto": "O pagamento efetuado na conformidade deste artigo implica na desistência da impugnação e renúncia aos recursos eventualmente oferecidos, independentemente de requerimento expresso neste sentido."}
+                ]
+              }
+            ]
+          },
+          {
+            "numero_romano": "III",
+            "titulo": "Infrações Pelo Descumprimento de Obrigação Tributária Acessória",
+            "artigos": [
+              {
+                "numero": "48",
+                "texto": "As infrações às normas relativas às obrigações acessórias sujeitam o infrator às seguintes penalidades:",
+                "incisos": [
+                  {
+                    "numero": "I",
+                    "texto": "- Infrações relativas a documentos fiscais e impressos fiscais:",
+                    "alineas": [
+                      {"letra": "a", "texto": "falta de emissão de documento fiscal: multa de 10 (dez) UPM´s;"},
+                      {"letra": "b", "texto": "adulteração, vício ou falsificação de documento fiscal, utilização de documento falso, de documento fiscal em que o respectivo impresso tenha sido confeccionado sem autorização fiscal ou que tenha sido confeccionado por estabelecimento gráfico diverso do indicado: multa de 10 (dez) UPM´s;"},
+                      {"letra": "c", "texto": "utilização de documento fiscal com numeração e/ou seriação em duplicidade ou emissão de documento fiscal que consigne valores diferentes nas respectivas vias : multa de 10 (dez) UPM´s;"},
+                      {"letra": "d", "texto": "extravio, perda, inutilização, permanência fora do estabelecimento prestador de serviços, em local não autorizado, de documento fiscal: multa de 10 (dez) UPM´s;"},
+                      {"letra": "e", "texto": "não colocação à disposição da autoridade fiscalizadora de documentos fiscais: multa de 10 (dez) UPM´s;"},
+                      {"letra": "f", "texto": "utilização de documento inábil ou diverso do instituído pela legislação tributária: multa de 10 (dez) UPM´s;"},
+                      {"letra": "g", "texto": "falta de destaque em documento fiscal de informação obrigatória decorrente de disposição legal: multa de 2 (duas) Unidades Padrão Municipal - UPM´s, por documento fiscal;"},
+                      {"letra": "h", "texto": "utilização, por contribuinte estabelecido neste Município, de documento fiscal autorizado por outro Município: multa de 10 (dez) Unidades Padrão Municipal - UPM´s;"},
+                      {"letra": "i", "texto": "utilização de documento fiscal autorizado pela Administração Tributária do Município de Jaraguá do Sul, por contribuinte não estabelecido neste Município: multa de 5 (cinco) Unidades Padrão Municipal - UPM´s, por documento fiscal;"},
+                      {"letra": "j", "texto": "cancelamento de Nota Fiscal de Prestação de Serviços em desacordo com a legislação: multa de 5 (cinco) Unidades Padrão Municipal - UPM´s, por documento fiscal;", "observacao": "(Redação acrescida pela Lei Complementar nº 153/2014)"},
+                      {"letra": "k", "texto": "indicação indevida da situação tributária na Nota Fiscal de Serviços Eletrônica - NFS-e como ISS recolhido em valor fixo, isento, imune ou com exigibilidade suspensa: multa de 03 (três) UPM´s (Unidades Padrão Municipal) para cada indicação;", "observacao": "(Redação acrescida pela Lei Complementar nº 178/2016)"},
+                      {"letra": "l", "texto": "não conversão de Recibo Provisório de Prestação de Serviços - RPS em Nota Fiscal de Serviços Eletrônica - NFS-e, no prazo legal: multa de 10 (dez) UPM´s (Unidades Padrão Municipal) para cada RPS;", "observacao": "(Redação acrescida pela Lei Complementar nº 178/2016)"},
+                      {"letra": "m", "texto": "conversão espontânea de Recibo de Prestação de Serviços - RPS, realizada fora do prazo legal: multa de 01 (uma) UPM (Unidade Padrão Municipal) para cada RPS;", "observacao": "(Redação acrescida pela Lei Complementar nº 178/2016)"},
+                      {"letra": "n", "texto": "não apresentação da Denúncia de Não Conversão de RPS - DNC: multa de 05 (cinco) UPM´s (Unidades Padrão Municipal) para cada DNC;", "observacao": "(Redação acrescida pela Lei Complementar nº 178/2016)"},
+                      {"letra": "o", "texto": "apresentação da Denúncia de Não Conversão de RPS - DNC, realizada fora do prazo legal: multa de 03 (três) UPM`s (Unidades Padrão Municipal) para cada DNC;", "observacao": "(Redação acrescida pela Lei Complementar nº 178/2016)"},
+                      {"letra": "p", "texto": "uso indevido ou em desacordo com a legislação, de notas fiscais ou outros documentos: multa de 05 (cinco) UPM`s (Unidades Padrão Municipal).", "observacao": "(Redação acrescida pela Lei Complementar nº 178/2016)"}
+                    ]
+                  },
+                  {
+                    "numero": "II",
+                    "texto": "- infrações relativas aos livros fiscais e declarações:", "observacao": "(Redação dada pela Lei Complementar nº 75/2008)",
+                    "alineas": [
+                      {"letra": "a", "texto": "falta de escrituração de documento relativo à prestação de serviço em livro fiscal quando já escrituradas as operações do período: multa de 01 (uma) UPM, por documento não escriturado;", "observacao": "(Redação dada pela Lei Complementar nº 75/2008)"},
+                      {"letra": "b", "texto": "falta de elaboração de documento auxiliar de escrituração fiscal, quando previsto na legislação ou sua não exibição ao fisco: multa de 5 (cinco) UPM´s, por documento;"},
+                      {"letra": "c", "texto": "adulteração, vício ou falsificação de livro fiscal: multa de 10 (dez) UPM´s, por ocorrência e por livro fraudado;"},
+                      {"letra": "d", "texto": "atraso na escrituração de livro fiscal: multa de 5 (cinco) UPM´s, por mês ou fração de mês em atraso e por livro;"},
+                      {"letra": "e", "texto": "falta de livro fiscal ou sua utilização sem autenticação da repartição competente, no prazo legal previsto no § 7º, do artigo 40, desta Lei Complementar: multa de 5 (cinco) Unidades Padrão Municipal - UPM´s por livro faltante ou utilizado sem autorização e autenticação;", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+                      {"letra": "f", "texto": "extravio, perda, inutilização, de livro fiscal ou sua não colocação à disposição da autoridade fiscalizadora: multa de 10 (dez) UPM´S, por livro;"},
+                      {"letra": "g", "texto": "utilização em equipamento de processamento de dados de programas para emissão de documento fiscal ou escrituração de livro fiscal com vício, fraude ou simulação: multa de 20 (vinte) UPM´s."}
+                    ]
+                  },
+                  {
+                    "numero": "III",
+                    "texto": "- infrações relativas ao documento de recolhimento do imposto:",
+                    "alineas": [
+                      {"letra": "a", "texto": "falta de entrega de documento de arrecadação do imposto, sem tributo a recolher pela inexistência de operações tributadas no período e desde que a entrega decorra de obrigação prevista na legislação: multa de 50% (cinqüenta por cento) da UPM , por documento não entregue;"},
+                      {"letra": "b", "texto": "entrega de documento de arrecadação do imposto ou de declaração, com informação inverídica de inexistência de operações tributárias no período ou de imposto retido ou acumulado: multa de 1 (uma) Unidade Padrão Municipal - UPM por competência.", "observacao": "(Redação acrescida pela Lei Complementar nº 153/2014)"}
+                    ]
+                  },
+                  {
+                    "numero": "IV",
+                    "texto": "- outras infrações:",
+                    "alineas": [
+                      {"letra": "a", "texto": "uso de sistema de processamento de dados ou de qualquer outro, para emissão de documento fiscal ou escrituração de livro fiscal, bem como alteração de uso, sem prévia autorização do fisco: multa de 5 (cinco) UPM´s;"},
+                      {"letra": "b", "texto": "uso para fins fiscais de máquina registradora ou qualquer outro processo mecânico ou eletrônico, sem prévia autorização do fisco: multa de 10 (dez) UPM´s;"},
+                      {"letra": "c", "texto": "confecção, para si ou para terceiros, de livros fiscais ou de impressos fiscais sem prévia autorização do fisco: multa de 10 (dez) UPM`s, aplicada ao impressor ou solidariamente ao contribuinte quando este contratar gráfica impressora de fora do território do município ou quando não houver identificação do estabelecimento gráfico;"},
+                      {"letra": "d", "texto": "não prestação de informações à fiscalização, quando obrigado por disposição legal: multa de 5 (cinco) UPM´s;"},
+                      {"letra": "e", "texto": "rasura nos livros, documentos ou impressos fiscais: multa de 5 (cinco) UPM´s, mediante ação fiscal;"},
+                      {"letra": "f", "texto": "não disponibilizar ao Fisco Municipal o exame de qualquer documento solicitado, que de algum modo se refira a operações ou situações que constituam fato tributário, ou que sirva como comprovante da veracidade dos dados consignados em guias e documentos fiscais: multa de 10 (dez) Unidades Padrão Municipal - UPM`s.", "observacao": "(Redação acrescida pela Lei Complementar nº 153/2014)"}
+                    ]
+                  }
+                ],
+                "paragrafos": [
+                  {"numero": "1º", "texto": "A aplicação das penalidades previstas neste artigo será feita sem prejuízo da exigência do imposto em auto de infração e imposição de multa e das providências necessárias à instauração da ação penal quando cabível, inclusive por crime de desobediência."},
+                  {"numero": "2º", "texto": "Ressalvados os casos expressamente previstos, a imposição de multa para uma infração não exclui a aplicação de penalidade fixada para outra, acaso verificada, nem a adoção das demais medidas fiscais cabíveis."},
+                  {"numero": "3º", "texto": "Para cálculo das multas baseadas em UPM´s, deve ser considerado o valor da UPM no primeiro dia do mês da lavratura do auto de infração."}
+                ]
+              },
+              {"numero": "49", "texto": "O pagamento da multa não exime o infrator do cumprimento das exigências legais ou regulamentares que a tiverem determinado."},
+              {"numero": "50", "texto": "O valor da multa por descumprimento de obrigação acessória será reduzido em 50% (cinqüenta por cento), se o pagamento for efetuado dentro do prazo legal de defesa."}
+            ]
+          }
+        ]
+      },
+      {
+        "numero_romano": "XVI",
+        "titulo": "DA ADMINISTRAÇÃO TRIBUTÁRIA",
+        "artigos": [
+          {
+            "numero": "51",
+            "texto": "A fiscalização do Imposto Sobre Serviços de Qualquer Natureza compete à Fazenda Pública Municipal e será exercida sobre todas as pessoas físicas e jurídicas, contribuintes ou não, que estiverem obrigadas ao cumprimento de disposições da legislação do imposto, bem como em relação às que gozarem de imunidade ou isenção.",
+            "paragrafos": [
+              {"numero": "1º", "texto": "Os fiscais tributaristas, quando no exercício de suas funções de fiscalização, deverão, obrigatoriamente, exibir ao contribuinte documento de identidade funcional expedido pela Fazenda Pública Municipal."},
+              {"numero": "2º", "texto": "Os fiscais tributaristas, no exercício de suas atividades, poderão ingressar nos estabelecimentos e demais locais onde se pratiquem atividades tributáveis, desde que os mesmos estejam em funcionamento, ainda que somente em expediente interno.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"},
+              {"numero": "3º", "texto": "As ações fiscais realizadas fora do horário de expediente da Prefeitura e as realizadas para atender reclamações ou denúncias e para atender ordens diretas de superior hierárquico, deverão ser realizadas mediante ordem específica denominada Mandado de Fiscalização.", "observacao": "(Redação acrescida pela Lei Complementar nº 153/2014)"}
+            ]
+          },
+          {"numero": "52", "texto": "A autoridade administrativa poderá requisitar o auxílio de força policial, federal ou estadual, quando vítima de embaraço ou desacato no exercício de suas funções, ou quando seja necessária à efetivação de medida prevista na legislação tributária."},
+          {"numero": "53", "texto": "A administração tributária poderá submeter o contribuinte a regime especial de fiscalização, quando forem julgados insatisfatórios os elementos constantes dos documentos e livros fiscais e comerciais."},
+          {
+            "numero": "54",
+            "texto": "Além dos deveres e das proibições funcionais, comuns a todos os servidores públicos, os fiscais tributaristas da Fazenda Pública Municipal estão obrigados, sob pena de responsabilidade, a:",
+            "incisos": [
+              {"texto": "- apresentar declarações e guias, e a escriturar em livros próprios as operações de que decorra a obrigação tributária, segundo as normas desta Lei e dos Regulamentos Fiscais;"},
+              {"texto": "- comunicar à Fazenda Pública Municipal, dentro de 30 (trinta) dias, contados da ocorrência, qualquer alteração capaz de gerar, modificar ou extinguir obrigação tributária;"},
+              {"texto": "- franquear ao Fisco Municipal o exame de qualquer documento que, de algum modo, se refira a operações ou situações que constituam fato tributário, ou que sirva como comprovante da veracidade dos dados consignados em guias e documentos fiscais;"},
+              {"texto": "- prestar, sempre que solicitadas pelas autoridades competentes, informações e esclarecimentos que, a juízo do Fisco Municipal, se refiram a fato imponível de obrigação tributária."}
+            ],
+            "paragrafos": [
+              {"tipo": "Parágrafo Único", "texto": "Os livros obrigatórios de escrituração comercial e fiscal e os comprovantes dos lançamentos neles escriturados serão conservados pelo prazo estabelecido na legislação tributária."}
+            ]
+          },
+          {
+            "numero": "55",
+            "texto": "O movimento real tributável, realizado pelo sujeito passivo em determinado período, poderá ser apurado por meio de levantamento fiscal.",
+            "paragrafos": [
+              {"numero": "1º", "texto": "Os procedimentos fiscais terão início através do Termo de Início de Ação Fiscal."},
+              {"numero": "2º", "texto": "O prazo para cumprimento de intimações será de 15 (quinze) dias a contar da ciência do ato, podendo ser prorrogado mediante requerimento fundamentado, a critério da autoridade fiscal."},
+              {"numero": "3º", "texto": "O prazo para finalização dos procedimentos fiscais é de 180 (cento e oitenta) dias, podendo ser prorrogado mediante justificativa da autoridade fiscal e autorização do superior, cientificando-se o contribuinte do ato."},
+              {"numero": "4º", "texto": "Os procedimentos fiscais poderão ser revisados sempre que surjam fatos não considerados anteriormente quando de sua elaboração.", "observacao": "(Redação dada pela Lei Complementar nº 153/2014)"}
+            ]
+          },
+          {
+            "numero": "55-A",
+            "texto": "O contribuinte será intimado do resultado dos levantamentos fiscais, Termos de Arbitramento, Autos de Infração, Notificações de Lançamentos de Tributos, Termos de Encerramento de Fiscalização e demais atos praticados que deva tomar ciência, da seguinte forma:",
+            "incisos": [
+              {"texto": "- pelo autor do procedimento, provada com a assinatura do contribuinte, seu mandatário ou preposto, ou, no caso de recusa, com certificação escrita de quem o intimar;"},
+              {"texto": "ou"},
+              {"texto": "- por via postal, com prova de recebimento; ou"},
+              {"texto": "- por edital, quando resultarem improfícuos quaisquer dos meios referidos nos inciso anteriores."}
+            ],
+            "paragrafos": [
+              {"numero": "1º", "texto": "O edital será publicado, uma única vez, no órgão oficial de imprensa do Município e afixado em dependência franqueada ao público, do órgão encarregado da intimação."},
+              {
+                "numero": "2º",
+                "texto": "Considera-se feita a entrega nos termos do caput deste artigo:",
+                "incisos": [
+                  {"texto": "- na data da ciência do intimado ou da declaração de quem fizer a intimação, se pessoal;"},
+                  {"texto": "- na data de recebimento, por via postal, e se a data for omitida, 15 (quinze) dias após a entrega da intimação à agência postal;"},
+                  {"texto": "- 30 (trinta) dias após a publicação ou afixação do edital, se for o meio utilizado.", "observacao": "(Redação acrescida pela Lei Complementar nº 153/2014)"}
+                ]
+              }
+            ]
+          },
+          {
+            "numero": "56",
+            "texto": "São obrigados a exibir os documentos e livros relacionados com o imposto, a prestar informações e a não embaraçar a ação dos fiscais tributaristas:",
+            "incisos": [
+              {"texto": "- as pessoas inscritas ou obrigadas à inscrição no cadastro mobiliário de contribuintes ou que tomem parte nas operações ou prestações sujeitas ao imposto;"},
+              {"texto": "- os que, embora não contribuintes, sejam
