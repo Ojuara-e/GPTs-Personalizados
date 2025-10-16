@@ -1,0 +1,66 @@
+// Algoritmo para Cálculo do ICMS com Redução de Base de Cálculo no Simples Nacional
+
+// Declaração de variáveis
+real RBT12, RBM, percentualReducao, aliquotaNominal, parcelaDeduzir, aliquotaEfetiva, baseCalculoReduzida, icmsDevido
+inteiro faixa
+
+// Início do algoritmo
+inicio
+    // Entrada de dados
+    escreva("Digite a Receita Bruta Total dos últimos 12 meses (RBT12): ")
+    leia(RBT12)
+    
+    escreva("Digite a Receita Bruta Mensal (RBM) do período atual: ")
+    leia(RBM)
+    
+    escreva("Digite o percentual de redução aplicável (em %): ")
+    leia(percentualReducao)
+    percentualReducao <- percentualReducao / 100  // Converter para decimal
+    
+    // Determinar a faixa com base na RBT12
+    se (RBT12 <= 180000) entao
+        faixa <- 1
+        aliquotaNominal <- 4.00
+        parcelaDeduzir <- 0.00
+    senao se (RBT12 <= 360000) entao
+        faixa <- 2
+        aliquotaNominal <- 7.30
+        parcelaDeduzir <- 5940.00
+    senao se (RBT12 <= 720000) entao
+        faixa <- 3
+        aliquotaNominal <- 9.50
+        parcelaDeduzir <- 13860.00
+    senao se (RBT12 <= 1800000) entao
+        faixa <- 4
+        aliquotaNominal <- 10.70
+        parcelaDeduzir <- 22500.00
+    senao se (RBT12 <= 3600000) entao
+        faixa <- 5
+        aliquotaNominal <- 14.30
+        parcelaDeduzir <- 87300.00
+    senao se (RBT12 <= 4800000) entao
+        faixa <- 6
+        aliquotaNominal <- 19.00
+        parcelaDeduzir <- 378000.00
+    senao
+        escreva("Erro: RBT12 excede o limite permitido para o Simples Nacional.")
+        pare
+    fimse
+    
+    // Calcular a alíquota efetiva
+    aliquotaEfetiva <- ((RBT12 * aliquotaNominal / 100) - parcelaDeduzir) / RBT12
+    
+    // Calcular a base de cálculo reduzida
+    baseCalculoReduzida <- RBM * (1 - percentualReducao)
+    
+    // Calcular o ICMS devido
+    icmsDevido <- baseCalculoReduzida * aliquotaEfetiva
+    
+    // Exibir os resultados
+    escreva("Faixa de tributação: ", faixa, "\n")
+    escreva("Alíquota Nominal: ", aliquotaNominal, "%\n")
+    escreva("Parcela a Deduzir: R$ ", parcelaDeduzir, "\n")
+    escreva("Alíquota Efetiva: ", (aliquotaEfetiva * 100), "%\n")
+    escreva("Base de Cálculo Reduzida: R$ ", baseCalculoReduzida, "\n")
+    escreva("ICMS Devido: R$ ", icmsDevido, "\n")
+fim

@@ -1,0 +1,109 @@
+// Algoritmo para Calcular os Tributos do Anexo I do Simples Nacional com Substituição Tributária
+
+Algoritmo "CalculoSimplesNacional"
+
+Var
+    // Declaração das variáveis de entrada
+    RBT, RBM, RBM_ST_ICMS, RBM_ST_PIS_COFINS, RBM_ST_ICMS_PIS_COFINS : real
+
+    // Variáveis para cálculos intermediários
+    RBM_sem_ST, RBM_sem_ICMS_ST, RBM_sem_PIS_COFINS_ST : real
+    Aliquota_Faixa, Parcela_Deduzir, Aliquota_Efetiva : real
+    Imposto_Mensal_Total : real
+
+    // Percentuais de distribuição dos tributos
+    Percentual_IRPJ : real
+    Percentual_CSLL : real
+    Percentual_COFINS : real
+    Percentual_PIS : real
+    Percentual_CPP : real
+    Percentual_ICMS : real
+
+    // Variáveis para os tributos ajustados
+    ICMS_Ajustado, PIS_Ajustado, COFINS_Ajustado : real
+    IRPJ, CSLL, CPP : real
+    Total_Tributos : real
+
+Inicio
+    // Inicialização dos percentuais
+    Percentual_IRPJ <- 4.00
+    Percentual_CSLL <- 2.50
+    Percentual_COFINS <- 12.74
+    Percentual_PIS <- 2.76
+    Percentual_CPP <- 42.00
+    Percentual_ICMS <- 33.50
+
+    // Entrada de dados
+    Escreva("Digite a Receita Bruta Total (RBT) acumulada dos últimos 12 meses: ")
+    Leia(RBT)
+
+    Escreva("Digite a Receita Bruta Mensal (RBM) total do período atual: ")
+    Leia(RBM)
+
+    Escreva("Digite a Receita Bruta Mensal sujeita à ST de ICMS (RBM-ST ICMS): ")
+    Leia(RBM_ST_ICMS)
+
+    Escreva("Digite a Receita Bruta Mensal sujeita à ST de PIS e COFINS (RBM-ST PIS/COFINS): ")
+    Leia(RBM_ST_PIS_COFINS)
+
+    Escreva("Digite a Receita Bruta Mensal sujeita à ST de ICMS, PIS e COFINS (RBM-ST ICMS, PIS/COFINS): ")
+    Leia(RBM_ST_ICMS_PIS_COFINS)
+
+    // Cálculo das receitas brutas sujeitas a cada imposto
+    RBM_sem_ST <- RBM - RBM_ST_ICMS - RBM_ST_PIS_COFINS - RBM_ST_ICMS_PIS_COFINS
+    RBM_sem_ICMS_ST <- RBM - RBM_ST_ICMS - RBM_ST_ICMS_PIS_COFINS
+    RBM_sem_PIS_COFINS_ST <- RBM - RBM_ST_PIS_COFINS - RBM_ST_ICMS_PIS_COFINS
+
+    // Identificar a Faixa de Tributação
+    Se (RBT <= 180000.00) Entao
+        Aliquota_Faixa <- 4.00
+        Parcela_Deduzir <- 0.00
+    Senao Se (RBT <= 360000.00) Entao
+        Aliquota_Faixa <- 7.30
+        Parcela_Deduzir <- 5940.00
+    Senao Se (RBT <= 720000.00) Entao
+        Aliquota_Faixa <- 9.50
+        Parcela_Deduzir <- 13860.00
+    Senao Se (RBT <= 1800000.00) Entao
+        Aliquota_Faixa <- 10.70
+        Parcela_Deduzir <- 22500.00
+    Senao Se (RBT <= 3600000.00) Entao
+        Aliquota_Faixa <- 14.30
+        Parcela_Deduzir <- 87300.00
+    Senao Se (RBT <= 4800000.00) Entao
+        Aliquota_Faixa <- 19.00
+        Parcela_Deduzir <- 378000.00
+    Senao
+        Escreva("Receita Bruta Total excede o limite do Simples Nacional.")
+        Pare
+    FimSe
+
+    // Calcular a Alíquota Efetiva
+    Aliquota_Efetiva <- ((RBT * Aliquota_Faixa / 100) - Parcela_Deduzir) / RBT
+
+    // Calcular o Imposto Mensal Total
+    Imposto_Mensal_Total <- RBM * Aliquota_Efetiva
+
+    // Calcular os tributos ajustados
+    ICMS_Ajustado <- (Imposto_Mensal_Total * (Percentual_ICMS / 100)) * (RBM_sem_ICMS_ST / RBM)
+    PIS_Ajustado <- (Imposto_Mensal_Total * (Percentual_PIS / 100)) * (RBM_sem_PIS_COFINS_ST / RBM)
+    COFINS_Ajustado <- (Imposto_Mensal_Total * (Percentual_COFINS / 100)) * (RBM_sem_PIS_COFINS_ST / RBM)
+
+    // Calcular os demais tributos
+    IRPJ <- Imposto_Mensal_Total * (Percentual_IRPJ / 100)
+    CSLL <- Imposto_Mensal_Total * (Percentual_CSLL / 100)
+    CPP <- Imposto_Mensal_Total * (Percentual_CPP / 100)
+
+    // Calcular o total de tributos
+    Total_Tributos <- ICMS_Ajustado + PIS_Ajustado + COFINS_Ajustado + IRPJ + CSLL + CPP
+
+    // Exibir os resultados
+    Escreva("Imposto Total a ser pago no mês: R$ ", Total_Tributos:0:2)
+    Escreva("Distribuição detalhada dos tributos:")
+    Escreva("IRPJ: R$ ", IRPJ:0:2)
+    Escreva("CSLL: R$ ", CSLL:0:2)
+    Escreva("CPP: R$ ", CPP:0:2)
+    Escreva("ICMS Ajustado: R$ ", ICMS_Ajustado:0:2)
+    Escreva("PIS Ajustado: R$ ", PIS_Ajustado:0:2)
+    Escreva("COFINS Ajustado: R$ ", COFINS_Ajustado:0:2)
+FimAlgoritmo

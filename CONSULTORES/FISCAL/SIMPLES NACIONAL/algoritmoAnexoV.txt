@@ -1,0 +1,84 @@
+algoritmo "CalculoAliquotaEfetivaAnexoV"
+
+// Declaração de variáveis
+var
+    RBT12, RPA, FS12, FatorR, AliquotaNominal, ParcelaDeduzir, AliquotaEfetiva : real
+    ValorDevidoDAS, ValorISS, AliquotaISSMunicipal : real
+    Faixa : inteiro
+
+inicio
+    // Entrada de dados
+    escreva("Digite a Receita Bruta Acumulada dos últimos 12 meses (RBT12): ")
+    leia(RBT12)
+    
+    escreva("Digite a Receita Bruta do mês atual (RPA): ")
+    leia(RPA)
+    
+    escreva("Digite o valor da Folha de Salários dos últimos 12 meses (FS12): ")
+    leia(FS12)
+    
+    escreva("Digite a alíquota do ISS vigente no município (ex: 0.05 para 5%): ")
+    leia(AliquotaISSMunicipal)
+
+    // Cálculo do Fator R
+    FatorR <- FS12 / RBT12
+    
+    // Verificar enquadramento no Anexo V com base no Fator R
+    se (FatorR >= 0.28) entao
+        escreva("A empresa será tributada pelo Anexo III.")
+        interrompa
+    fimse
+
+    // Identificação da faixa de tributação com base na RBT12
+    se (RBT12 <= 180000.00) entao
+        Faixa <- 1
+        AliquotaNominal <- 15.50
+        ParcelaDeduzir <- 0.00
+    senao
+    se (RBT12 <= 360000.00) entao
+        Faixa <- 2
+        AliquotaNominal <- 18.00
+        ParcelaDeduzir <- 4500.00
+    senao
+    se (RBT12 <= 720000.00) entao
+        Faixa <- 3
+        AliquotaNominal <- 19.50
+        ParcelaDeduzir <- 9900.00
+    senao
+    se (RBT12 <= 1800000.00) entao
+        Faixa <- 4
+        AliquotaNominal <- 20.50
+        ParcelaDeduzir <- 17100.00
+    senao
+    se (RBT12 <= 3600000.00) entao
+        Faixa <- 5
+        AliquotaNominal <- 23.00
+        ParcelaDeduzir <- 62100.00
+    senao
+    se (RBT12 <= 4800000.00) entao
+        Faixa <- 6
+        AliquotaNominal <- 30.50
+        ParcelaDeduzir <- 540000.00
+    fimse
+
+    // Cálculo da alíquota efetiva
+    AliquotaEfetiva <- ((RBT12 * AliquotaNominal / 100) - ParcelaDeduzir) / RBT12
+
+    // Cálculo do valor devido no DAS
+    ValorDevidoDAS <- RPA * AliquotaEfetiva
+
+    // Verificar se está na última faixa e tratar o ISS separadamente
+    se (Faixa = 6) entao
+        // Cálculo do valor do ISS
+        ValorISS <- RPA * AliquotaISSMunicipal
+        
+        escreva("ATENÇÃO: A empresa está na última faixa do Anexo V.")
+        escreva("O ISS será recolhido separadamente conforme a alíquota do município.")
+        escreva("Valor do ISS a ser pago diretamente ao município: R$ ", ValorISS)
+    fimse
+
+    // Exibir resultados finais
+    escreva("Alíquota Efetiva do Simples Nacional (sem ISS): ", AliquotaEfetiva * 100, "%")
+    escreva("Valor a ser pago no DAS (excluindo ISS): R$ ", ValorDevidoDAS)
+
+fimalgoritmo

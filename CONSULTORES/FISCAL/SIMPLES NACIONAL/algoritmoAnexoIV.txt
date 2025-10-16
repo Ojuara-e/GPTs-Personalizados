@@ -1,0 +1,64 @@
+algoritmo "Apuracao_Simples_Anexo_IV"
+var
+    // Variáveis de entrada
+    RBT12, RBM : real              // Receita Bruta Acumulada dos últimos 12 meses e Receita Bruta Mensal
+    Aliquota_ISS_Municipal : real   // Alíquota do ISS definida pelo município
+
+    // Variáveis intermediárias
+    Aliquota_Nominal, Parcela_Deduzir, Aliquota_Efetiva : real
+    Valor_DAS, Valor_ISS, Valor_Total_Tributos : real
+
+inicio
+    // Entrada de dados
+    escreva("Digite a Receita Bruta Acumulada dos últimos 12 meses (RBT12): ")
+    leia(RBT12)
+    
+    escreva("Digite a Receita Bruta Mensal do período (RBM): ")
+    leia(RBM)
+
+    escreva("Digite a alíquota de ISS do município (em %): ")
+    leia(Aliquota_ISS_Municipal)
+
+    // Determinar a faixa de tributação e calcular a alíquota nominal e parcela a deduzir
+    se (RBT12 <= 180000) entao
+        Aliquota_Nominal <- 4.5
+        Parcela_Deduzir <- 0
+    senao se (RBT12 <= 360000) entao
+        Aliquota_Nominal <- 9.0
+        Parcela_Deduzir <- 8100
+    senao se (RBT12 <= 720000) entao
+        Aliquota_Nominal <- 10.2
+        Parcela_Deduzir <- 12420
+    senao se (RBT12 <= 1800000) entao
+        Aliquota_Nominal <- 14.0
+        Parcela_Deduzir <- 39780
+    senao se (RBT12 <= 3600000) entao
+        Aliquota_Nominal <- 18.0
+        Parcela_Deduzir <- 183780
+    senao se (RBT12 <= 4800000) entao
+        Aliquota_Nominal <- 33.0
+        Parcela_Deduzir <- 828000
+    senao
+        escreva("Receita Bruta Total excede o limite do Simples Nacional.")
+        pare
+    fimse
+
+    // Calcular a alíquota efetiva
+    Aliquota_Efetiva <- ((RBT12 * Aliquota_Nominal / 100) - Parcela_Deduzir) / RBT12
+
+    // Calcular o valor do DAS (Documento de Arrecadação do Simples Nacional)
+    Valor_DAS <- RBM * Aliquota_Efetiva
+
+    // Verificar se está na última faixa de tributação (RBT12 > 3.600.000,01)
+    se (RBT12 > 3600000) entao
+        // Separar o ISS para recolhimento direto ao município
+        Valor_ISS <- RBM * (Aliquota_ISS_Municipal / 100)
+        Valor_Total_Tributos <- Valor_DAS - Valor_ISS
+
+        escreva("O valor do ISS a ser recolhido separadamente ao município é: R$ ", Valor_ISS, "\n")
+        escreva("O valor do DAS (sem ISS) a ser pago é: R$ ", Valor_Total_Tributos, "\n")
+    senao
+        // Caso não esteja na última faixa, pagar o valor total no DAS
+        escreva("O valor total do DAS a ser pago é: R$ ", Valor_DAS, "\n")
+    fimse
+fimalgoritmo

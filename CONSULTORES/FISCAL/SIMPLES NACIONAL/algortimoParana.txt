@@ -1,0 +1,104 @@
+// Algoritmo para o cálculo do Simples Nacional ajustado para o estado do Paraná
+
+// Declaração de variáveis
+real receita_bruta, aliquota_nominal, parcela_deduzir, aliquota_efetiva, percentual_icms_pr, 
+     percentual_deducao, valor_icms_a_deduzir, total_icms, total_outros_tributos, total_simples
+
+inteiro anexo_simples
+
+// Funções e procedimentos
+
+// Função para calcular a alíquota efetiva do Simples Nacional
+funcao real calcular_aliquota_efetiva(real receita_bruta, real aliquota_nominal, real parcela_deduzir)
+    retorno ((receita_bruta * aliquota_nominal) - parcela_deduzir) / receita_bruta
+fimfuncao
+
+// Função para determinar o percentual de ICMS do Paraná com base na receita bruta
+funcao real obter_percentual_icms_pr(real receita_bruta)
+    se (receita_bruta <= 180000) entao
+        retorno 0 // Isento
+    senao_se (receita_bruta <= 360000) entao
+        retorno 0 // Isento
+    senao_se (receita_bruta <= 720000) entao
+        retorno 0.54
+    senao_se (receita_bruta <= 1080000) entao
+        retorno 1.06
+    senao_se (receita_bruta <= 1440000) entao
+        retorno 1.58
+    senao_se (receita_bruta <= 1800000) entao
+        retorno 2.11
+    senao_se (receita_bruta <= 2160000) entao
+        retorno 2.63
+    senao_se (receita_bruta <= 2520000) entao
+        retorno 3.16
+    senao_se (receita_bruta <= 2880000) entao
+        retorno 3.68
+    senao_se (receita_bruta <= 3240000) entao
+        retorno 4.21
+    senao_se (receita_bruta <= 3600000) entao
+        retorno 4.74
+    senao_se (receita_bruta <= 3960000) entao
+        retorno 5.26
+    senao_se (receita_bruta <= 4320000) entao
+        retorno 5.79
+    senao_se (receita_bruta <= 4680000) entao
+        retorno 6.32
+    senao_se (receita_bruta <= 5040000) entao
+        retorno 6.84
+    senao_se (receita_bruta <= 5400000) entao
+        retorno 7.37
+    senao_se (receita_bruta <= 5760000) entao
+        retorno 7.89
+    senao
+        retorno 8.42
+    fimse
+fimfuncao
+
+// Função para calcular a dedução do ICMS
+funcao real calcular_deducao_icms(real aliquota_efetiva, real percentual_icms_pr)
+    retorno aliquota_efetiva / (percentual_icms_pr * aliquota_efetiva)
+fimfuncao
+
+// Algoritmo principal
+inicio
+    // Entrada de dados
+    escreva("Informe a receita bruta dos últimos 12 meses: ")
+    leia(receita_bruta)
+    
+    escreva("Informe o anexo do Simples Nacional (1, 2, 3, 4, ou 5): ")
+    leia(anexo_simples)
+
+    escreva("Informe a alíquota nominal do Simples Nacional para o anexo informado: ")
+    leia(aliquota_nominal)
+    
+    escreva("Informe a parcela a deduzir do Simples Nacional para o anexo informado: ")
+    leia(parcela_deduzir)
+    
+    // Calcular a alíquota efetiva do Simples Nacional
+    aliquota_efetiva = calcular_aliquota_efetiva(receita_bruta, aliquota_nominal, parcela_deduzir)
+    
+    // Obter o percentual de ICMS do Paraná com base na receita bruta
+    percentual_icms_pr = obter_percentual_icms_pr(receita_bruta)
+    
+    // Comparar a alíquota efetiva com o percentual de ICMS do Paraná
+    se (aliquota_efetiva < percentual_icms_pr) entao
+        total_icms = aliquota_efetiva
+    senao
+        total_icms = percentual_icms_pr
+    fimse
+    
+    // Calcular o valor do ICMS a ser deduzido
+    percentual_deducao = calcular_deducao_icms(aliquota_efetiva, percentual_icms_pr)
+    valor_icms_a_deduzir = total_icms * percentual_deducao
+    
+    // Entrada de outros tributos
+    escreva("Informe o valor total dos outros tributos (IRPJ, CSLL, PIS, COFINS, CPP): ")
+    leia(total_outros_tributos)
+    
+    // Cálculo do total do Simples Nacional
+    total_simples = total_icms + total_outros_tributos - valor_icms_a_deduzir
+    
+    // Exibir o resultado final
+    escreva("O valor total a pagar do Simples Nacional é: ", total_simples)
+    
+fimeninicio

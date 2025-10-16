@@ -1,0 +1,125 @@
+algoritmo "Cálculo de Tributos do Anexo III"
+
+// Declaração de variáveis
+real RPA, RBT12, aliquota_nominal, parcela_deduzir, aliquota_efetiva
+real valor_total_tributos, valor_IRPJ, valor_CSLL, valor_Cofins, valor_PIS, valor_CPP, valor_ISS
+inteiro faixa
+
+// Funções para identificar a faixa e os valores de alíquota nominal e parcela a deduzir
+funcao inteiro identificar_faixa(real RBT12)
+    se (RBT12 <= 180000) entao
+        retorna 1
+    senao se (RBT12 <= 360000) entao
+        retorna 2
+    senao se (RBT12 <= 720000) entao
+        retorna 3
+    senao se (RBT12 <= 1800000) entao
+        retorna 4
+    senao se (RBT12 <= 3600000) entao
+        retorna 5
+    senao
+        retorna 6
+    fimse
+fimfuncao
+
+funcao vazio definir_aliquota_parcela(inteiro faixa, ref real aliquota_nominal, ref real parcela_deduzir)
+    escolha faixa
+        caso 1:
+            aliquota_nominal <- 6.00
+            parcela_deduzir <- 0.00
+        caso 2:
+            aliquota_nominal <- 11.20
+            parcela_deduzir <- 9360.00
+        caso 3:
+            aliquota_nominal <- 13.50
+            parcela_deduzir <- 17640.00
+        caso 4:
+            aliquota_nominal <- 16.00
+            parcela_deduzir <- 35640.00
+        caso 5:
+            aliquota_nominal <- 21.00
+            parcela_deduzir <- 125640.00
+        caso 6:
+            aliquota_nominal <- 33.00
+            parcela_deduzir <- 648000.00
+    fimescolha
+fimfuncao
+
+// Função principal para calcular os tributos
+inicio
+    // Entrada dos dados de receita
+    escreva("Digite a Receita Bruta do Período de Apuração (RPA): ")
+    leia(RPA)
+    
+    escreva("Digite a Receita Bruta Acumulada dos Últimos 12 Meses (RBT12): ")
+    leia(RBT12)
+    
+    // Identificar a faixa com base no RBT12
+    faixa <- identificar_faixa(RBT12)
+    
+    // Definir a alíquota nominal e a parcela a deduzir com base na faixa
+    definir_aliquota_parcela(faixa, aliquota_nominal, parcela_deduzir)
+    
+    // Calcular a alíquota efetiva
+    aliquota_efetiva <- ((RBT12 * aliquota_nominal / 100) - parcela_deduzir) / RBT12
+    
+    // Calcular o valor total dos tributos
+    valor_total_tributos <- RPA * aliquota_efetiva
+    
+    // Distribuir o valor entre os tributos, com base na faixa identificada
+    escolha faixa
+        caso 1:
+            valor_IRPJ <- valor_total_tributos * 4 / 100
+            valor_CSLL <- valor_total_tributos * 3.5 / 100
+            valor_Cofins <- valor_total_tributos * 12.74 / 100
+            valor_PIS <- valor_total_tributos * 2.76 / 100
+            valor_CPP <- valor_total_tributos * 42 / 100
+            valor_ISS <- valor_total_tributos * 35 / 100
+        caso 2:
+            valor_IRPJ <- valor_total_tributos * 4 / 100
+            valor_CSLL <- valor_total_tributos * 3.5 / 100
+            valor_Cofins <- valor_total_tributos * 14.05 / 100
+            valor_PIS <- valor_total_tributos * 3.05 / 100
+            valor_CPP <- valor_total_tributos * 43.40 / 100
+            valor_ISS <- valor_total_tributos * 32 / 100
+        caso 3:
+            valor_IRPJ <- valor_total_tributos * 4 / 100
+            valor_CSLL <- valor_total_tributos * 3.5 / 100
+            valor_Cofins <- valor_total_tributos * 13.64 / 100
+            valor_PIS <- valor_total_tributos * 2.96 / 100
+            valor_CPP <- valor_total_tributos * 43.40 / 100
+            valor_ISS <- valor_total_tributos * 32.5 / 100
+        caso 4:
+            valor_IRPJ <- valor_total_tributos * 4 / 100
+            valor_CSLL <- valor_total_tributos * 3.5 / 100
+            valor_Cofins <- valor_total_tributos * 15.03 / 100
+            valor_PIS <- valor_total_tributos * 3.26 / 100
+            valor_CPP <- valor_total_tributos * 44.40 / 100
+            valor_ISS <- valor_total_tributos * 29.81 / 100
+        caso 5:
+            valor_IRPJ <- valor_total_tributos * 4 / 100
+            valor_CSLL <- valor_total_tributos * 3.5 / 100
+            valor_Cofins <- valor_total_tributos * 17.08 / 100
+            valor_PIS <- valor_total_tributos * 3.70 / 100
+            valor_CPP <- valor_total_tributos * 45.40 / 100
+            valor_ISS <- valor_total_tributos * 26.32 / 100
+        caso 6:
+            valor_IRPJ <- valor_total_tributos * 4 / 100
+            valor_CSLL <- valor_total_tributos * 3.5 / 100
+            valor_Cofins <- valor_total_tributos * 18.27 / 100
+            valor_PIS <- valor_total_tributos * 3.96 / 100
+            valor_CPP <- valor_total_tributos * 45.50 / 100
+            valor_ISS <- valor_total_tributos * 24.77 / 100
+    fimescolha
+    
+    // Exibir os resultados
+    escreva("Valor total dos tributos: R$ ", valor_total_tributos, "\n")
+    escreva("Distribuição dos Tributos:\n")
+    escreva("IRPJ: R$ ", valor_IRPJ, "\n")
+    escreva("CSLL: R$ ", valor_CSLL, "\n")
+    escreva("Cofins: R$ ", valor_Cofins, "\n")
+    escreva("PIS/Pasep: R$ ", valor_PIS, "\n")
+    escreva("CPP: R$ ", valor_CPP, "\n")
+    escreva("ISS: R$ ", valor_ISS, "\n")
+    
+fimalgoritmo

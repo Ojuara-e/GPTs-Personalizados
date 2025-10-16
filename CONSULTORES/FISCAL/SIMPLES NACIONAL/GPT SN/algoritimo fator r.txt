@@ -1,0 +1,79 @@
+<AlgoritmoAvaliacaoEnquadramentoTributario>
+    <Objetivo>
+        Determinar o enquadramento tributário mais econômico para uma empresa prestadora de serviços no regime do Simples Nacional, comparando os custos entre o Anexo III e o Anexo V.
+    </Objetivo>
+
+    <Passos>
+        <Passo>
+            <Descricao>Coletar Dados Financeiros da Empresa</Descricao>
+            <Acoes>
+                <Acao>Obter Receita Bruta Anual (RB)</Acao>
+                <Acao>Obter Total da Folha de Salários Anual, incluindo pró-labore e encargos sociais (FS)</Acao>
+            </Acoes>
+        </Passo>
+        
+        <Passo>
+            <Descricao>Calcular o Fator R</Descricao>
+            <Acoes>
+                <Acao>Calcular Fator R utilizando a fórmula: Fator R = FS / RB</Acao>
+            </Acoes>
+        </Passo>
+
+        <Passo>
+            <Descricao>Determinar o Enquadramento Inicial</Descricao>
+            <Acoes>
+                <Acao>Se Fator R ≥ 0,28, enquadrar no Anexo III</Acao>
+                <Acao>Se Fator R &lt; 0,28, enquadrar no Anexo V</Acao>
+            </Acoes>
+        </Passo>
+
+        <Passo>
+            <Descricao>Simular a Carga Tributária para Ambos os Anexos</Descricao>
+            <Acoes>
+                <Acao>
+                    <Descricao>Anexo III</Descricao>
+                    <SubAcoes>
+                        <SubAcao>Aplicar as alíquotas progressivas do Anexo III conforme as faixas de receita bruta</SubAcao>
+                        <SubAcao>Calcular o imposto anual somando os impostos de cada faixa</SubAcao>
+                    </SubAcoes>
+                </Acao>
+                <Acao>
+                    <Descricao>Anexo V</Descricao>
+                    <SubAcoes>
+                        <SubAcao>Aplicar as alíquotas progressivas do Anexo V conforme as faixas de receita bruta</SubAcao>
+                        <SubAcao>Calcular o imposto anual somando os impostos de cada faixa</SubAcao>
+                    </SubAcoes>
+                </Acao>
+            </Acoes>
+        </Passo>
+
+        <Passo>
+            <Descricao>Comparar os Custos</Descricao>
+            <Acoes>
+                <Acao>Comparar o valor total dos impostos calculados para o Anexo III e o Anexo V</Acao>
+                <Acao>Determinar qual anexo resulta no menor custo tributário</Acao>
+            </Acoes>
+        </Passo>
+
+        <Passo>
+            <Descricao>Considerar Ajuste na Folha de Pagamento (Opcional)</Descricao>
+            <Acoes>
+                <Acao>
+                    <Descricao>Se enquadramento inicial for Anexo V, avaliar viabilidade de aumentar a folha de pagamento para atingir Fator R de 0,28</Descricao>
+                    <SubAcoes>
+                        <SubAcao>Calcular o novo Fator R</SubAcao>
+                        <SubAcao>Refazer cálculos de impostos para o Anexo III com o novo valor de FS</SubAcao>
+                    </SubAcoes>
+                </Acao>
+            </Acoes>
+        </Passo>
+
+        <Passo>
+            <Descricao>Tomar Decisão</Descricao>
+            <Acoes>
+                <Acao>Escolher o enquadramento (Anexo III ou Anexo V) que resultou no menor valor de impostos</Acao>
+                <Acao>Se ajuste na folha de pagamento for viável e econômico, considerar mudança para o Anexo III</Acao>
+            </Acoes>
+        </Passo>
+    </Passos>
+</AlgoritmoAvaliacaoEnquadramentoTributario>
